@@ -3,6 +3,8 @@ using namespace std;
 
 int main() {
 
+	cout << endl;
+
 	//Variables
 
 	float amountOfPurchase = 0.00;
@@ -24,6 +26,7 @@ int main() {
 		cout << "You got a 1% discount! Your total is now  : " << priceWithDiscount;
 	}
 
+	cout << endl;
 	cout << endl;
 
 	return 0;
