@@ -1,0 +1,4 @@
+﻿  christmasBonus.cpp
+C:\Users\tpsol\source\repos\cppPracticeProjects\lab-5-ChristmasBonus\lab-5-ChristmasBonus\christmasBonus.cpp(22,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\tpsol\source\repos\cppPracticeProjects\lab-5-ChristmasBonus\lab-5-ChristmasBonus\christmasBonus.cpp(25,21): warning C4305: '=': truncation from 'double' to 'float'
+  lab-5-ChristmasBonus.vcxproj -> C:\Users\tpsol\source\repos\cppPracticeProjects\lab-5-ChristmasBonus\x64\Debug\lab-5-ChristmasBonus.exe
