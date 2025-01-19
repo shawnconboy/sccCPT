@@ -1,0 +1,3 @@
+﻿  studentToTeacherAverage.cpp
+C:\Users\tpsol\source\repos\cppPracticeProjects\studentToTeacherAverage\studentToTeacherAverage\studentToTeacherAverage.cpp(20,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  studentToTeacherAverage.vcxproj -> C:\Users\tpsol\source\repos\cppPracticeProjects\studentToTeacherAverage\x64\Debug\studentToTeacherAverage.exe
