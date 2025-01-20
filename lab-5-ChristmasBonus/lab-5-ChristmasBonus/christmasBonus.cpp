@@ -3,13 +3,10 @@ using namespace std;
 int main() {
 	system("color f0");
 
-
-
 	//Declare Variables
 	float annualSalary = 0.00;
 	float yearsWorked = 0;
 	float bonusPercentage = 0.00;
-
 
 	//Process
 	cout << "Please enter your gross pay per year : ";
@@ -27,13 +24,9 @@ int main() {
 
 	float bonus = annualSalary * bonusPercentage;
 
-
 	cout << "Your bonus is : $" << bonus << endl;
 
 	cout << "     T H A N K Y O U     ";
-
-
-
 
 	return 0;
 }

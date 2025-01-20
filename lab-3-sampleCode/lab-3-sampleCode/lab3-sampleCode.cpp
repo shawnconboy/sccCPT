@@ -36,7 +36,5 @@ int main() {
 	cout << "\tCommission: $" << commission << endl;
 	cout << "\n******** T H A N K Y O U **********\n" << endl;
 
-
-
 	return 0;
 }
