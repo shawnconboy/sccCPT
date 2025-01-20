@@ -21,9 +21,9 @@ int main() {
 	double commission = 0.0;
 
 	//Input
-	cout << "First sale? ";
+	cout << "First sale? " << "$";
 	cin >> sale1;
-	cout << "Second Sale?";
+	cout << "Second Sale? " << "$";
 	cin >> sale2;
 	cout << "Commission rate in decimal format? ";
 	cin >> commissionRate;
