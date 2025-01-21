@@ -1,0 +1,5 @@
+﻿  discountAmount.cpp
+C:\Users\tpsol\source\repos\cppPracticeProjects\cppMacFiles\lab-2-discountAmount\discountAmount.cpp(18,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\tpsol\source\repos\cppPracticeProjects\cppMacFiles\lab-2-discountAmount\discountAmount.cpp(20,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\tpsol\source\repos\cppPracticeProjects\cppMacFiles\lab-2-discountAmount\discountAmount.cpp(9,9): warning C4101: 'age': unreferenced local variable
+  lab-2-discountAmount.vcxproj -> C:\Users\tpsol\source\repos\cppPracticeProjects\lab-2-discountAmount\x64\Debug\lab-2-discountAmount.exe
