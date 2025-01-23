@@ -11,29 +11,34 @@ int main() {
 	cout << "\t\t*           Lab-5            *" << endl;
 
 	//Declare Variables
-	float annualSalary = 0.00;
-	float yearsWorked = 0;
-	float bonusPercentage = 0.00;
+	int yearsWorked;
+	float salary;
+	float bonusPercentage;
+	float bonus;
 
 	//Process
-	cout << "Please enter your gross pay per year : ";
-	cin >> annualSalary;
 
-	cout << "Please enter number of years you worked : ";
+	cout << "Hello, What's your annual salary amount? :" << endl;
+	cin >> salary;
+
+	cout << "How many years have you worked with the company? : " << endl;
 	cin >> yearsWorked;
-
-	if (yearsWorked <= 5) {
-		bonusPercentage = 0.01;
+	
+	// If statement to determine bonus percentage
+	if(yearsWorked > 0) {
+		if(yearsWorked >= 6) {
+			bonusPercentage = 0.02;
+		} else {
+			bonusPercentage = 0.01;
+		}
+	} else {
+		cout << "Number is invalid. Pleas enter a number larger than 0" << endl;
 	}
-	else if (yearsWorked >= 6) {
-		bonusPercentage = 0.02;
-	}
 
-	float bonus = annualSalary * bonusPercentage;
+	bonus = salary * bonusPercentage;
 
-	cout << "Your bonus is : $" << bonus << endl;
+	cout << "Awesome! Your Christmas bonus this year is $" << bonus << ". Thank you for your service." << endl;
 
-	cout << "     T H A N K Y O U     ";
 
 	return 0;
 }
