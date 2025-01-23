@@ -3,6 +3,13 @@ using namespace std;
 int main() {
 	system("color f0");
 
+	//Display my information
+	cout << "\t\t******************************" << endl;
+	cout << "\t\t*        Shawn Conboy        *" << endl;
+	cout << "\t\t*        CPT-168-A01H        *" << endl;
+	cout << "\t\t*      Christmas Bonus       *" << endl;
+	cout << "\t\t*           Lab-5            *" << endl;
+
 	//Declare Variables
 	float annualSalary = 0.00;
 	float yearsWorked = 0;
