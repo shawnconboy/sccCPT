@@ -1,3 +1,9 @@
+
+
+
+
+
+
 #include <iostream>
 using namespace std;
 
@@ -6,7 +12,6 @@ int main() {
     //Declare variables
     float discountAmount;
     float netTotal;
-    int age;
     float discount;
     float purchaseAmount;
 
