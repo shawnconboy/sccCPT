@@ -6,14 +6,12 @@ int main() {
 	cout << endl;
 
 	//Variables
-
 	float amountOfPurchase = 0.00;
 	float totalPurchasePrice = 0.00;
 	float priceWithDiscount = 0.00;
 	int discountAmount = 0.00;
 
 	//Process
-
 	cout << "Hello, please enter your purchase price. : ";
 	cin >> amountOfPurchase;
 
