@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{11d39b97-514f-4452-a2a3-443530035c29}</ProjectGuid>
-    <RootNamespace>toDoList</RootNamespace>
+    <ProjectGuid>{2f1d3b1a-5509-4356-88be-b13cca87a2d6}</ProjectGuid>
+    <RootNamespace>payrollCalculator</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="toDoList.cpp" />
+    <ClCompile Include="payrollCalculator.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

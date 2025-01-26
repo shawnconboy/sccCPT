@@ -1,0 +1,3 @@
+﻿  payrollCalculator.cpp
+C:\Users\tpsol\source\repos\cppPracticeProjects\payrollCalculator\payrollCalculator\payrollCalculator.cpp(25,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  payrollCalculator.vcxproj -> C:\Users\tpsol\source\repos\cppPracticeProjects\payrollCalculator\x64\Debug\payrollCalculator.exe
