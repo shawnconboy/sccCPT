@@ -10,4 +10,8 @@ This repository contains various C++ practice projects. Each project is stored i
 - [Lab 3](./lab-3-sampleCode/)
 - [Lab 4](./lab-4-calculateAutoSalesCommission/)
 - [Lab 5](./lab-5-ChristmasBonus/)
+- [Payroll Calculator](./payrollCalculator/)
+- [Scholarship Decision](./scholarshipDecision/)
 - [Student To Teacher Ratio](./studentToTeacherAverage/)
+- [To Do List](./toDoList/)
+- [Total Expense Calculator](./totalExpenseCalculator/)
