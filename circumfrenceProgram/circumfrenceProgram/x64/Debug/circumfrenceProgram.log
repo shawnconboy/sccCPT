@@ -1,0 +1,3 @@
+﻿  circumfrenceProgram.cpp
+C:\Users\tpsol\source\repos\cppPracticeProjects\circumfrenceProgram\circumfrenceProgram\circumfrenceProgram.cpp(7,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  circumfrenceProgram.vcxproj -> C:\Users\tpsol\source\repos\cppPracticeProjects\circumfrenceProgram\x64\Debug\circumfrenceProgram.exe
