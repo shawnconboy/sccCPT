@@ -1,0 +1,4 @@
+﻿  misc.cpp
+C:\Users\tpsol\source\repos\cppPracticeProjects\misc\misc\misc.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tpsol\source\repos\cppPracticeProjects\misc\misc\misc.cpp(9,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  misc.vcxproj -> C:\Users\tpsol\source\repos\cppPracticeProjects\misc\x64\Debug\misc.exe
