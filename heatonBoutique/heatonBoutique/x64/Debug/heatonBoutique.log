@@ -1,0 +1,5 @@
+﻿  heatonBoutique.cpp
+C:\Users\tpsol\source\repos\cppPracticeProjects\heatonBoutique\heatonBoutique\heatonBoutique.cpp(9,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\tpsol\source\repos\cppPracticeProjects\heatonBoutique\heatonBoutique\heatonBoutique.cpp(27,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\tpsol\source\repos\cppPracticeProjects\heatonBoutique\heatonBoutique\heatonBoutique.cpp(30,17): warning C4305: '=': truncation from 'double' to 'float'
+  heatonBoutique.vcxproj -> C:\Users\tpsol\source\repos\cppPracticeProjects\heatonBoutique\x64\Debug\heatonBoutique.exe
