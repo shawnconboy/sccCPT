@@ -1,4 +1,2 @@
-﻿  num8.cpp
-C:\Users\tpsol\source\repos\cppPracticeProjects\ch5num2TryThis\ch5num2TryThis\num8.cpp(8,14): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\tpsol\source\repos\cppPracticeProjects\ch5num2TryThis\ch5num2TryThis\num8.cpp(9,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+﻿  num9.cpp
   ch5num2TryThis.vcxproj -> C:\Users\tpsol\source\repos\cppPracticeProjects\ch5num2TryThis\x64\Debug\ch5num2TryThis.exe

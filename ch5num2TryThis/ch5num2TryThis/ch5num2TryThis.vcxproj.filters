@@ -30,5 +30,8 @@
     <ClCompile Include="num8.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="num9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
