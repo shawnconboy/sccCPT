@@ -25,7 +25,7 @@
 //		raiseAmount = salary * raise;
 //	}
 //
-//	cout << "Congratulations. You're getting a $" << raiseAmount << " raise!";
+//	cout << "Congratulations. You're getting a $" << fixed << setprecision(2) << raiseAmount << " raise!" << endl;
 //
 //	return 0;
 //}
