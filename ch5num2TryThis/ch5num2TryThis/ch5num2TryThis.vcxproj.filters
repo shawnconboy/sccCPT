@@ -18,5 +18,8 @@
     <ClCompile Include="num2Trythis.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="num4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
