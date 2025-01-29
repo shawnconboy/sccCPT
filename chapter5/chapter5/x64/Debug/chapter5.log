@@ -1,0 +1,6 @@
+﻿  index.cpp
+C:\Users\tpsol\source\repos\cppPracticeProjects\chapter5\chapter5\index.cpp(8,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\tpsol\source\repos\cppPracticeProjects\chapter5\chapter5\index.cpp(24,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tpsol\source\repos\cppPracticeProjects\chapter5\chapter5\index.cpp(25,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tpsol\source\repos\cppPracticeProjects\chapter5\chapter5\index.cpp(28,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  chapter5.vcxproj -> C:\Users\tpsol\source\repos\cppPracticeProjects\chapter5\x64\Debug\chapter5.exe
