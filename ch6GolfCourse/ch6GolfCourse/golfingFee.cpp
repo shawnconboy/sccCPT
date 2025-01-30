@@ -12,6 +12,7 @@ int main() {
 	cout << "Hello. Are you a member?(Y or N) : ";
 	cin >> member;
 
+	//process
 	if (toupper(member) == 'Y') {
 		fee = 5;
 	}
