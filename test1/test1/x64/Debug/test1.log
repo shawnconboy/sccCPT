@@ -1,0 +1,5 @@
+﻿  test1.cpp
+C:\Users\tpsol\source\repos\cppPracticeProjects\test1\test1\test1.cpp(17,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\tpsol\source\repos\cppPracticeProjects\test1\test1\test1.cpp(24,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\tpsol\source\repos\cppPracticeProjects\test1\test1\test1.cpp(27,14): warning C4305: '=': truncation from 'double' to 'float'
+  test1.vcxproj -> C:\Users\tpsol\source\repos\cppPracticeProjects\test1\x64\Debug\test1.exe
