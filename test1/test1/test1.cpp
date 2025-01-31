@@ -28,6 +28,7 @@ int main() {
 		}
 	}
 
+	// output
 	cout << "Your tax amount is : " << taxRate << ". Thank you!" << endl;
 
 	return 0;
