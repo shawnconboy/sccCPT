@@ -12,7 +12,6 @@ int main() {
 	cout << "\t\t*            Lab-3           *" << endl;
 	cout << "\t\t******************************" << endl << endl;
 
-
 	//Declare Variables
 	double sale1 = 0.0;
 	double sale2 = 0.0;
