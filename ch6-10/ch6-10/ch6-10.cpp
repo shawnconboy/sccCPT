@@ -3,7 +3,6 @@
 using namespace std;
 
 int main() {
-
 	//declare variables
 	double salesAmount = 0.0;
 	double commissionRate = 0.0;
