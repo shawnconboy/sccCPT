@@ -17,11 +17,11 @@ int main() // Main Function
 	cout << "\t\t*************************" << endl;
 
 	// Declare_variables
-	double sale1			= 0.0;
-	double sale2			= 0.0;
-	double commissionRate	= 0.0;
-	double totalSales		= 0.0;
-	double commission		= 0.0;
+	double sale1 = 0.0;
+	double sale2 = 0.0;
+	double commissionRate = 0.0;
+	double totalSales = 0.0;
+	double commission = 0.0;
 
 	// Input
 

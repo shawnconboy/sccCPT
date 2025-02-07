@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5b77cedc-a08d-46ac-97c9-3fae06deb715}</ProjectGuid>
-    <RootNamespace>SConboyClassDemo</RootNamespace>
+    <ProjectGuid>{30628508-7f1f-47ec-9cae-8c9eb5274424}</ProjectGuid>
+    <RootNamespace>SConboyLab3SampleCode</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="SConboyClassDemo.cpp" />
+    <ClCompile Include="S-Conboy-Lab-3-Sample-Code.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

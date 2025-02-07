@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CPT168-Lab3.cpp">
+    <ClCompile Include="S-Conboy-Lab-3-Sample-Code.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
