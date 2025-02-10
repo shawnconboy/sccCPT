@@ -20,7 +20,7 @@ int main() {
 	cout << "Please enter your third number : ";
 	cin >> num3;
 
-
+	//process
 	if (num1 >= num2 && num1 >= num3) {
 		largest = num1;
 	}
@@ -41,6 +41,7 @@ int main() {
 		smallest = num3;
 	}
 
+	//output
 	cout << "The largest number is : " << largest << endl;
 	cout << "The smallest number is : " << smallest << endl;
 	return 0;
