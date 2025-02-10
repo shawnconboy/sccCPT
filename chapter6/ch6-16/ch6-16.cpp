@@ -41,7 +41,6 @@ int main() {
 		smallest = num3;
 	}
 
-
 	cout << "The largest number is : " << largest << endl;
 	cout << "The smallest number is : " << smallest << endl;
 	return 0;
