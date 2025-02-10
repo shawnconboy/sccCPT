@@ -26,6 +26,7 @@ int main() {
 
 	//output
 	cout << "Your commission is : " << commission << endl;
+	cout << "\n********** T H A N K Y O U **********\n" << endl;
 
 	system("pause");
 

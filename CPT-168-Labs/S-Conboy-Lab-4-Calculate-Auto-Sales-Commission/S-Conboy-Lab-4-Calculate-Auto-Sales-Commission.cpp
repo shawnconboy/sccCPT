@@ -24,6 +24,10 @@ int main()
 
 	cout << "Your commission is : $" << carsSold * commissionAmount << endl;
 
+	cout << "\n********** T H A N K Y O U **********\n" << endl;
+
+	system("pause");
+
 	return 0;
 	
 }
