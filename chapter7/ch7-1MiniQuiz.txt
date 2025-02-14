@@ -1,0 +1,25 @@
+// write an algorithm for printing the pages in a document
+
+print the first page
+
+repeat while (there is another page to print)
+    if (page == 3) {
+        do not print page
+    } else {
+        print the next page
+    }
+end repeat
+
+say "done printing"
+
+// write an algorithm for Derek to practice shooting the ball
+
+shoot the basketball
+
+repeat while (the basketball did not go through the hoop)
+    say "missed it"
+    shoot the basketball
+end repeat
+
+say "I did it!"
+
