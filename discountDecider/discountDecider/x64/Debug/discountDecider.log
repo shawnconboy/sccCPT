@@ -1,5 +1,0 @@
-﻿  discountDecision.cpp
-C:\Users\tpsol\source\repos\discountDecider\discountDecider\discountDecision.cpp(11,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\tpsol\source\repos\discountDecider\discountDecider\discountDecision.cpp(19,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\tpsol\source\repos\discountDecider\discountDecider\discountDecision.cpp(23,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  discountDecider.vcxproj -> C:\Users\tpsol\source\repos\discountDecider\x64\Debug\discountDecider.exe
