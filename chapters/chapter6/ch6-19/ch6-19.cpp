@@ -68,7 +68,7 @@ int main() {
 				cout << "Invalid letter entered." << endl;
 			}
 		}
-
+	
 		// final ouput
 			
 		cout << "\n\n\t\t*******************************************" << endl;
@@ -86,7 +86,9 @@ int main() {
 
 		cout << "\t\t*******************************************\n\n\n\n" << endl;
 	}
-
+	else {
+		cout << "Invalid entry.";
+	}
 
 	system("pause");
 
