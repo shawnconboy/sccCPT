@@ -1,21 +1,3 @@
-/*
-
-
-number guesser
-
-generate a random number
-
-ask the user to guess the number
-
-actual number
-user number
-
-if user number is  greater than actual, say too high
-if user number is  less than actual, say too low.
-
-
-*/
-
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
