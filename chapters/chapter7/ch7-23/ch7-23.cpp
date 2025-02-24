@@ -74,7 +74,7 @@ int main() {
 			}
 			else {
 				cout << "\n\t\tInvalid GPA entry.\n\n";
-				break;
+				continue;
 			}
 		}
 		else {
