@@ -1,4 +1,10 @@
 {
+<<<<<<< HEAD
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+=======
   "C_Cpp_Runner.cCompilerPath": "clang",
   "C_Cpp_Runner.cppCompilerPath": "clang++",
   "C_Cpp_Runner.debuggerPath": "lldb",
@@ -60,4 +66,5 @@
     "ostream": "cpp",
     "iostream": "cpp"
   }
+>>>>>>> 3a912bc23e600142cc42cf02ac6e2f3d71250772
 }
