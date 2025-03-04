@@ -1,0 +1,27 @@
+    accept the book from the customer
+    close the book
+    end repeat
+    end repeat
+    open the front cover of the book
+    place the book on the table
+    repeat while (the customer has a book that needs signing)
+    repeat while (there are customers in line) 
+    return the book to the customer
+    sign your name on the first page
+    thank the customer
+
+
+
+repeat while (there are customers in line) 
+
+    repeat while (the customer has a book that needs signing)
+        accept the book from the customer
+        place the book on the table
+        open the front cover of the book
+        sign your name on the first page
+        close the book
+        return the book to the customer
+    end repeat
+
+thank the customer
+end repeat
