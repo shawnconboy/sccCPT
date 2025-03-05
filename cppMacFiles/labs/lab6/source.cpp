@@ -33,7 +33,7 @@ int main()
     {
         if (yearsWorked < 0 || yearsWorked > 98)
         {
-            cout << "Invalid Entry. Program Stopped." << endl
+            cout << "Thank you." << endl
                  << endl;
             return 0;
         }
@@ -49,10 +49,17 @@ int main()
         cout << "Please enter yearly salary : ";
         cin >> salary;
 
-        bonus = salary * bonusRate;
+        if (salary < 0)
+        {
+            cout << "Invalid entry. Please try again." << endl;
+        }
+        else
+        {
+            bonus = salary * bonusRate;
 
-        cout << "Your bonus is $" << fixed << setprecision(2) << bonus << endl
-             << endl;
+            cout << "Your bonus is $" << fixed << setprecision(2) << bonus << endl
+                 << endl;
+        }
 
         cout << "Please enter number of years worked (-1 to stop) : ";
         cin >> yearsWorked;
