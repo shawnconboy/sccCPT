@@ -26,37 +26,36 @@ int main()
 
     // output input
 
-    cout << "Please enter number of years worked : ";
+    cout << "Hello. Please enter number of years worked (-1 to stop) : ";
     cin >> yearsWorked;
 
-    if (yearsWorked < 0 || yearsWorked > 99)
+    while (yearsWorked != -1)
     {
-        cout << "Invalid entry." << endl;
-    }
-    else
-    {
-        while (yearsWorked != -1)
+        if (yearsWorked < 0 || yearsWorked > 98)
         {
-
-            cout << "Please enter yearly salary : ";
-            cin >> salary;
-
-            if (yearsWorked < 6)
-            {
-                bonusRate = 0.01;
-            }
-            else
-            {
-                bonusRate = 0.02;
-            }
-
-            bonus = salary * bonusRate;
-
-            cout << "Your bonus is $" << bonus << endl;
-
-            cout << "Please enter number of years worked : ";
-            cin >> yearsWorked;
+            cout << "Invalid Entry. Program Stopped." << endl
+                 << endl;
+            return 0;
         }
+        else if (yearsWorked < 6)
+        {
+            bonusRate = 0.01;
+        }
+        else
+        {
+            bonusRate = 0.02;
+        }
+
+        cout << "Please enter yearly salary : ";
+        cin >> salary;
+
+        bonus = salary * bonusRate;
+
+        cout << "Your bonus is $" << fixed << setprecision(2) << bonus << endl
+             << endl;
+
+        cout << "Please enter number of years worked (-1 to stop) : ";
+        cin >> yearsWorked;
     }
 
     cout << "\n\t\tT H A N K Y O U" << endl
