@@ -33,7 +33,7 @@ int main()
     {
         if (yearsWorked < 0 || yearsWorked > 98)
         {
-            cout << "Thank you." << endl
+            cout << "\n- - - - > T H A N K   Y O U < - - - -" << endl
                  << endl;
             return 0;
         }
@@ -65,7 +65,7 @@ int main()
         cin >> yearsWorked;
     }
 
-    cout << "\n\t\tT H A N K Y O U" << endl
+    cout << "\n- - - - > T H A N K   Y O U < - - - -" << endl
          << endl;
     return 0;
 }
