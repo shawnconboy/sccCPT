@@ -14,14 +14,6 @@ void clearScreen()
 
 int main()
 {
-	clearScreen();
-
-	// display my info
-	cout << "\n\t\t****************************************" << endl;
-	cout << "\t\t*                                      *" << endl;
-	cout << "\t\t*         Square-Cube-Program          *" << endl;
-	cout << "\t\t*                                      *" << endl;
-	cout << "\t\t****************************************" << endl;
 
 	// declare variables
 
@@ -32,6 +24,18 @@ int main()
 
 	do
 	{
+		clearScreen();
+
+		// display my info
+		cout << "\n\t\t****************************************" << endl;
+		cout << "\t\t*                                      *" << endl;
+		cout << "\t\t*            Shawn Conboy              *" << endl;
+		cout << "\t\t*            CPT 168 A01H              *" << endl;
+		cout << "\t\t*               Lab 7                  *" << endl;
+		cout << "\t\t*         Square-Cube-Program          *" << endl;
+		cout << "\t\t*                                      *" << endl;
+		cout << "\t\t****************************************" << endl;
+
 		cout << "\nPlease enter a number to square, cube, and raise to the 4th power : ";
 		cin >> userNum;
 
@@ -48,12 +52,14 @@ int main()
 			userNum += 5;
 		}
 
-		cout << "Would you like to continue (Y or N)? ";
+		cout << "\nWould you like to continue (Y or N)? ";
 		cin >> runAgain;
 		runAgain = toupper(runAgain);
 
-		clearScreen();
 	} while (runAgain != 'N');
+
+	cout << "\n- - - > T H A N K   Y O U < - - -" << endl
+		 << endl;
 
 	// final output
 }
