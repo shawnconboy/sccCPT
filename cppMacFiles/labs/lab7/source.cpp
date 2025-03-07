@@ -2,9 +2,19 @@
 #include <iomanip>
 using namespace std;
 
+// Function to clear the screen based on OS
+void clearScreen()
+{
+#ifdef _WIN32
+    system("CLS");
+#else
+    system("clear");
+#endif
+}
+
 int main()
 {
-    system("clear");
+    clearScreen();
 
     // display my info
     cout << "\n\t\t****************************************" << endl;
@@ -22,7 +32,6 @@ int main()
 
     do
     {
-
         cout << "\nPlease enter a number to square, cube, and raise to the 4th power : ";
         cin >> userNum;
 
@@ -42,6 +51,8 @@ int main()
         cout << "Would you like to continue (Y or N)? ";
         cin >> runAgain;
         runAgain = toupper(runAgain);
+
+        clearScreen();
     } while (runAgain != 'N');
 
     // final output
