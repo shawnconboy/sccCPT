@@ -9,20 +9,21 @@ int main()
     double depreciationValue = 0.15;
     double currentPrice = 0;
 
-    cout << "Original Value: " << newCarPrice << endl
+    cout << "Original Value: $" << newCarPrice << endl
          << endl;
-    cout << "Depreciation rate: " << depreciationValue * 100 << "%" << endl;
-    currentPrice = newCarPrice;
 
-    cout << "Value after year: " << endl;
-
-    for (int i = 1; i < 6; i++)
+    for (double rate = 0.15; rate <= 0.25; rate += 0.05)
     {
+        cout << "Depreciation rate: " << rate * 100 << "%" << endl;
+        currentPrice = newCarPrice;
+        cout << "Value after year: " << endl;
 
-        currentPrice = currentPrice - (currentPrice * depreciationValue);
-
-        cout << i << "  " << ceil(currentPrice) << endl;
+        for (int i = 1; i < 6; i++)
+        {
+            currentPrice = currentPrice - (currentPrice * rate);
+            cout << i << "  " << ceil(currentPrice) << endl;
+        }
+        cout << endl;
     }
-
     return 0;
 }
