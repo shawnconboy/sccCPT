@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/shawnconboy/Documents/cppPracticeProjects/cppMacFiles/atmSimulator",
-      "program": "/Users/shawnconboy/Documents/cppPracticeProjects/cppMacFiles/atmSimulator/build/Debug/outDebug"
+      "cwd": "/Users/shawnconboy/Documents/cppPracticeProjects/cppMacFiles/chapters/chapter8/ch8-13/secondTry",
+      "program": "/Users/shawnconboy/Documents/cppPracticeProjects/cppMacFiles/chapters/chapter8/ch8-13/secondTry/build/Debug/outDebug"
     }
   ]
 }
