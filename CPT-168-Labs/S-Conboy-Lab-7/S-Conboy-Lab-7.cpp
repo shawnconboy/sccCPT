@@ -59,7 +59,9 @@ int main()
 	} while (runAgain != 'N');
 
 	cout << "\n- - - > T H A N K   Y O U < - - -" << endl
-		 << endl;
+		<< endl;
 
 	// final output
+	system("pause");
+	return 0;
 }
