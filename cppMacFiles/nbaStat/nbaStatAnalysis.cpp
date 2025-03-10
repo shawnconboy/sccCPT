@@ -39,8 +39,9 @@ int main()
 	}
 	pointsAverage = static_cast<double>(pointsTotal) / pointsCounter;
 
-	cout << "Points have been entered." << endl;
-	system("clear");
+	cout << "Points have been entered." << endl
+		 << endl;
+	// system("clear");
 
 	for (int i = 1; i < 6; i++)
 	{
@@ -51,8 +52,9 @@ int main()
 	}
 	reboundsAverage = static_cast<double>(reboundsTotal) / reboundsCounter;
 
-	cout << "Rebounds have been entered." << endl;
-	system("clear");
+	cout << "Rebounds have been entered." << endl
+		 << endl;
+	// system("clear");
 
 	for (int i = 1; i < 6; i++)
 	{
@@ -63,13 +65,15 @@ int main()
 	}
 	assistsAverage = static_cast<double>(assistsTotal) / assistsCounter;
 
-	cout << "Assists have been entered." << endl;
-	system("clear");
+	cout << "Assists have been entered." << endl
+		 << endl;
+	// system("clear");
 
 	cout << "\n\nAverage Points   : " << setw(15) << pointsAverage << endl;
 	cout << "Average Rebounds : " << setw(15) << reboundsAverage << endl;
-	cout << "Average Assists  : " << setw(15) << assistsAverage << endl
-		 << endl
+	cout << "Average Assists  : " << setw(15) << assistsAverage << endl;
+
+	cout << "Points + Rebounds + Assists : " << setw(4) << pointsAverage + reboundsAverage + assistsAverage << endl
 		 << endl;
 
 	return 0;
