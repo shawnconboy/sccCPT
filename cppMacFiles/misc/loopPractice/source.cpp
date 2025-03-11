@@ -82,22 +82,32 @@ int main()
     //     cout << i << endl;
     // }
 
-    int userInput = 0;
-    int total = 0;
-    double average = 0.0;
-    int i = 0;
+    //     int userInput = 0;
+    //     int total = 0;
+    //     double average = 0.0;
+    //     int i = 0;
 
-    for (i = 0; i < 8; i++)
+    //     for (i = 0; i < 8; i++)
+    //     {
+    //         cout << "Please enter a number : ";
+    //         cin >> userInput;
+
+    //         total += userInput;
+    //     }
+    //     average = total / i;
+    //     cout << "Average is " << average << endl;
+
+    //     cout << "Total is " << total << endl;
+
+    //     return 0;
+    // }
+
+    // 7. write a while loop that computes a total, an average of numbers entered by the user until a sentinel value is entered.
+
+    cout << "Please enter a number. : ";
+    cin >> num;
+
+    while (num != -1)
     {
-        cout << "Please enter a number : ";
-        cin >> userInput;
-
-        total += userInput;
     }
-    average = total / i;
-    cout << "Average is " << average << endl;
-
-    cout << "Total is " << total << endl;
-
-    return 0;
 }
