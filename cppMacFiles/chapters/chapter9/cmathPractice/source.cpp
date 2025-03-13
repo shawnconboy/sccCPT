@@ -5,10 +5,6 @@ using namespace std;
 
 // ************************************************************************
 
-double num1 = 0;
-double num2 = 0;
-double answer = 0;
-
 double add(double num1, double num2);
 
 int main()
@@ -22,10 +18,9 @@ int main()
 double add(double num1, double num2)
 {
     num1 = pow(num1, 3);
-
     num2 = sqrt(num2);
 
-    answer = num1 + num2;
+    double answer = num1 + num2;
     return answer;
 }
 
