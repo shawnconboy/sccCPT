@@ -5,7 +5,8 @@ int main()
 {
     system("clear");
 
-    cout << "\nLoop Practice" << endl;
+    cout << "Loop Practice" << endl
+         << endl;
 
     double testScore = 0.0;
     char letterGrade = ' ';
@@ -21,7 +22,7 @@ int main()
 
         for (int i = 0; i < 4; i++)
         {
-            cout << "Please enter test " << i + 1 << " score : ";
+            cout << "Please Enter Score For Test " << i + 1 << " : ";
             cin >> testScore;
 
             totalTestScore += testScore;
@@ -51,8 +52,10 @@ int main()
         cout << "Student " << currentStudent << "'s Grade is : " << letterGrade << endl;
 
         currentStudent++;
-        cout << "Do you have another student to enter? : ";
+        cout << "\nDo you have another student to enter? : ";
         cin >> nextStudent;
     } while (toupper(nextStudent) == 'Y');
+
+    cout << "\nProgram Ended. Thank you." << endl;
     return 0;
 }
