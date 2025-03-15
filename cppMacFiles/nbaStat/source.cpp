@@ -5,6 +5,7 @@ using namespace std;
 void getPoints();
 void getRebounds();
 void getAssists();
+void getAllStats();
 
 int main()
 {
@@ -20,7 +21,7 @@ int main()
 
         cout << "\n**********************" << endl;
         cout << "*                    *" << endl;
-        cout << "*  NBA Stat Tracker  *" << endl;
+        cout << "*  NBA Stat Average  *" << endl;
         cout << "*                    *" << endl;
         cout << "**********************" << endl;
 
@@ -34,6 +35,8 @@ int main()
 
         cout << "Option : ";
         cin >> option;
+
+        cout << endl;
 
         if (option < 0 || option > 4)
         {
@@ -53,12 +56,18 @@ int main()
         }
         else if (option == 4)
         {
-            getRebounds();
+            getAllStats();
         }
 
         cout << "Would you like to run again? : ";
         cin >> runAgain;
         runAgain = toupper(runAgain);
+
+        if (runAgain == 'N')
+        {
+            cout << "Program has ended." << endl
+                 << endl;
+        }
 
     } while (runAgain == 'Y');
 
@@ -114,5 +123,58 @@ void getAssists()
     }
     assistAverage = totalAssists / 5;
     cout << "Assist Average : " << assistAverage << endl
+         << endl;
+}
+
+void getAllStats()
+{
+
+    int points = 0;
+    int totalPoints = 0;
+    double pointAverage = 0;
+
+    for (int i = 0; i < 5; i++)
+    {
+        cout << "Please enter number of points : ";
+        cin >> points;
+        totalPoints += points;
+    }
+    pointAverage = totalPoints / 5;
+
+    cout << endl;
+
+    int rebounds = 0;
+    int totalRebounds = 0;
+    double reboundAverage = 0;
+    for (int i = 0; i < 5; i++)
+    {
+        cout << "Please enter number of rebounds : ";
+        cin >> rebounds;
+        totalRebounds += rebounds;
+    }
+    reboundAverage = totalRebounds / 5;
+
+    cout << endl;
+
+    int assists = 0;
+    int totalAssists = 0;
+    double assistAverage = 0;
+    for (int i = 0; i < 5; i++)
+    {
+        cout << "Please enter number of assists : ";
+        cin >> assists;
+        totalAssists += assists;
+    }
+    assistAverage = totalAssists / 5;
+
+    cout << endl;
+
+    cout << "Assist Average : " << assistAverage << endl
+         << endl;
+
+    cout << "Rebound Average : " << reboundAverage << endl
+         << endl;
+
+    cout << "Point Average : " << pointAverage << endl
          << endl;
 }
