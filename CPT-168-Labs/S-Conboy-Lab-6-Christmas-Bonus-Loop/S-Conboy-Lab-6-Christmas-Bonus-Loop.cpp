@@ -2,7 +2,8 @@
 #include <iomanip>
 using namespace std;
 
-int main() {
+int main()
+{
 
     system("color f0");
 
@@ -23,23 +24,27 @@ int main() {
     cin >> yearsWorked;
 
     // process
-    while (yearsWorked > 0 && yearsWorked < 99) {
+    while (yearsWorked > 0 && yearsWorked < 99)
+    {
 
         // output input
         cout << "Please enter your gross pay per year: ";
         cin >> salary;
 
         // process
-        if (yearsWorked < 5) {
+        if (yearsWorked < 5)
+        {
             bonus = salary * 0.01;
         }
-        else {
+        else
+        {
             bonus = salary * 0.02;
         }
 
         // output input
         cout << fixed << setprecision(2);
-        cout << "Your bonus is: $" << bonus << endl << endl;
+        cout << "Your bonus is: $" << bonus << endl
+             << endl;
 
         // output input
         cout << "Please enter number of years worked (0 to exit): ";
