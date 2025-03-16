@@ -15,6 +15,8 @@ void clearScreen()
 int main()
 {
 
+	system("color f0");
+
 	// declare variables
 
 	int userNum = 0;
