@@ -5,6 +5,9 @@ void clearScreen();
 
 int main()
 {
+
+	system("color f0");
+
 	// variables
 	string actors[6] = { "Angelina Jolie", "Bradd Pitt", "Margot Robbit", "George Clooney", "Jennifer Lopez", "Jennifer Lawrence" };
 
@@ -47,6 +50,8 @@ int main()
 	cout << "\n\t\tProgram has ended." << endl;
 	cout << "\t\tT H A N K   Y O U"
 		<< endl;
+
+	system("pause");
 
 	return 0;
 }
