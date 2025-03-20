@@ -18,10 +18,11 @@ int main() {
 	char userInput = ' ';
 	double tax = 0.1;
 
-	cout << "\t\tMembership Fees Chart" << endl << endl;
 
 
 	while (toupper(userChoice) == 'Y') {
+		system("cls");
+		cout << "\t\tMembership Fees Chart" << endl << endl;
 		for (int i = 0; i < 5; i++) {
 			cout << "\t\t" << type[i] << " - " << fees[i] << endl;
 		}
