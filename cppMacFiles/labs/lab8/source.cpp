@@ -5,6 +5,9 @@ void clearScreen();
 
 int main()
 {
+
+    system("color f0");
+
     // variables
     string actors[6] = {"Angelina Jolie", "Bradd Pitt", "Margot Robbit", "George Clooney", "Jennifer Lopez", "Jennifer Lawrence"};
 
@@ -30,14 +33,14 @@ int main()
         cout << "Enter a number from 1 to 6 to display an actor's info : ";
         cin >> userNumber;
 
-        for (int i = 0; i < 6; i++)
+        if (userNumber >= 1 && userNumber <= 6)
         {
-
-            if (userNumber >= 1 && userNumber <= 6)
-            {
-                cout << "\n\tYour actor's name is : " << actors[userNumber - 1] << endl;
-                cout << "\tYour actor's number is : " << info[userNumber - 1] << endl;
-            }
+            cout << "\n\tYour actor's name is : " << actors[userNumber - 1] << endl;
+            cout << "\tYour actor's number is : " << info[userNumber - 1] << endl;
+        }
+        else
+        {
+            cout << "\n\tInvalid number. Please enter a number between 1 and 6." << endl;
         }
 
         cout << "\nWould you like to continue (Y or N)? ";
@@ -45,8 +48,10 @@ int main()
     }
 
     cout << "\n\t\tProgram has ended." << endl;
-    cout << "\t\tT H A N K   Y O U\n\n"
+    cout << "\t\tT H A N K   Y O U"
          << endl;
+
+    system("pause");
 
     return 0;
 }
