@@ -1,0 +1,31 @@
+#include <iostream>
+#include <string>
+#include <iomanip>
+using namespace std;
+
+int main()
+{
+
+    system("clear");
+
+    const double RATE = 0.12;
+    string name = "";
+    int price = 0;
+    double premium = 0.0;
+
+    cout << "Buyer's name: ";
+    getline(cin, name);
+    cout << "Purchase price: ";
+    cin >> price;
+
+    premium = price * RATE;
+
+    system("clear");
+
+    cout << fixed << setprecision(2);
+    cout << "********** Auction Summary **********" << endl;
+    cout << "Buyer : " << name << endl;
+    cout << "Premium : $" << premium << endl;
+
+    return 0;
+}
