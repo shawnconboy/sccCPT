@@ -12,11 +12,15 @@ int main()
     string name = "";
     int price = 0;
     double premium = 0.0;
+    string itemNum = "";
 
     cout << "Buyer's name: ";
     getline(cin, name);
     cout << "Purchase price: ";
     cin >> price;
+    cin.ignore(100, '\n');
+    cout << "Item Number: ";
+    getline(cin, itemNum);
 
     premium = price * RATE;
 
@@ -25,6 +29,7 @@ int main()
     cout << fixed << setprecision(2);
     cout << "********** Auction Summary **********" << endl;
     cout << "Buyer : " << name << endl;
+    cout << "Item Number : " << itemNum << endl;
     cout << "Premium : $" << premium << endl;
 
     return 0;
