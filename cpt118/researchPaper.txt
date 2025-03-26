@@ -6,20 +6,22 @@
 		ii. 1994 T-Mobile is established as VoiceStream Wireless PCS, a subsidiary of Western Wireless(MarketLine)
 
 	b. Who founded the company
-
+		i. VoiceStream Wireless, which was formed as a subsidiary of Western Wireless in 1995, was John’s third wireless endeavor.  VoiceStream (NASDAQ: VSTR) which was spun off from Western Wireless as a public company in May of 1999 and was sold to Deutsche Telecom for $50.7B in 2001.  Deutsche Telecom subsequently changed the name to T-Mobile USA.  John served as Chairman and Chief Executive Officer of the company from 1995-2003.
 	c. How did the founders come up with the idea?
 
 	d. Where is the company headquartered?
         i. Bellevue, Washington, USA
 
 	e. What is the mission and vision of the company?
+		i. At T-Mobile we have a simple mission — to be the best in the world at connecting customers to their world. It inspires us to use our network, scale and resources to drive transformational improvements for our customers and employees, society and the planet. (https://www.t-mobile.com/news/community/a-word-from-our-ceo-cr-report-2022)
 
 3. What product(s)/service(s) does the company provide
-    a. Wireless communication services
-			- Voice, messaging, and data services
-			- Prepaid, postpaid, and wholesale
+    	i. Wireless communication services
+				- Voice, messaging, and data services
+				- Prepaid, postpaid, and wholesale
 
 4. Who is their competition, and what product(s)/service(s) do those competitors provide?
+		i. AT&T, Charter, Comcast, TracFone, Verizon
 
 5. What is the company’s financial condition and its’ future financial forecast?
 	a. Provide a 5-year financial summary of Income(Sales), Net Income (Profit) and common stock performance
@@ -27,10 +29,18 @@
 	b. Include a written summary and your interpretation of the financial information
 
 6. Do they offer any special perks or benefits (such as gym memberships, free food onsite)? Explain each one.
+		i. Medical, Dental, vision
+		ii. Mobile and home internet discounts
 
 7. Explain why you would or would not like to work for this company, and how you think you would fit in working at this company.
 	a. Evaluate reviews of the industry
+		i. The overall vibe that i'm understanding is that T-Mobile is not a bad place to work.  Most employees are happy. Some say you can get grouped with employees who lack team skills and create a more difficult work environment. I feel this is a common theme among all work places.  Employees say they enjoy the benefits, but pay is less than average for the industry.
+
 	b. Evaluate salary reviews for the specific job description
 		i. Include national and regional averages for the upstate of SC
 		ii. Provide type of compensation, i.e., salaried or hourly
+			- Pay is salary bases, averaging 100k to begin with
+
 	c. Check for any employee reviews of organization
+		i. 3.7 / 5 Star rating via glassdoor
+		ii. Most ratings were high but did fortell not so great working conditions to come.
