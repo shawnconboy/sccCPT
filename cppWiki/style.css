@@ -1,74 +1,37 @@
+/* Reset & Global Styles */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, sans-serif;
     font-family: "Nunito", sans-serif;
 }
 
 body {
     display: flex;
     height: 100vh;
+    background-color: #0d1b2a;
+    /* Dark blue background */
+    color: #f0f0f0;
 }
 
-a {
-    text-decoration: none;
-    color: white;
-}
-
-.intro {
-    max-width: 800px;
-    margin: 0px auto;
-    padding: 20px;
-    padding-top: 5;
-    background: #2e2e2f;
-    border-radius: 8px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-.intro h1 {
-    color: rgb(0, 189, 66);
-}
-
-.intro h2 {
-    color: #a98dfb;
-    margin-top: 14px;
-}
-
-.intro p,
-.intro ul {
-    font-size: 16px;
-    line-height: 1.6;
-    color: #efefef;
-}
-
-.intro strong {
-    color: rgb(46, 140, 255);
-}
-
-.intro ul {
-    padding-left: 20px;
-}
-
-.intro ul li {
-    margin-bottom: 10px;
-}
-
-
+/* Sidebar */
 .sidebar {
     width: 250px;
     height: 100vh;
-    background-color: #333;
+    background-color: #1b263b;
     color: white;
     padding: 20px;
     position: fixed;
     left: 0;
     top: 0;
     overflow-y: auto;
+    border-right: 2px solid #415a77;
 }
 
 .sidebar h2 {
     text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
 }
 
 .sidebar ul {
@@ -86,16 +49,110 @@ a {
     display: block;
     padding: 10px;
     border-radius: 5px;
+    transition: background 0.3s;
 }
 
 .sidebar ul li a:hover {
-    background: #555;
+    background: #415a77;
 }
 
+/* Content Area */
 .content {
     flex-grow: 1;
     margin-left: 250px;
     padding: 20px;
-    background-color: #1a1919;
+    background-color: #0d1b2a;
     min-height: 100vh;
+
+}
+
+/* Styling for Intro Box */
+.intro {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #1b263b;
+    border: 1px solid #415a77;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.intro h1 {
+    color: #4caf50;
+    text-align: center;
+}
+
+.intro h2 {
+    color: #a98dfb;
+    margin-top: 14px;
+}
+
+.intro p,
+.intro ul {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #f0f0f0;
+}
+
+.intro strong {
+    color: rgb(46, 140, 255);
+}
+
+.intro ul {
+    padding-left: 20px;
+}
+
+.intro ul li {
+    margin-bottom: 10px;
+}
+
+h3 {
+    padding: 10px 0px;
+    color: rgb(255, 157, 0);
+}
+
+/* Code Block Styling */
+pre {
+    flex: 1;
+    max-width: 600px;
+    background: #162447;
+    padding: 0px 15px;
+    border-radius: 5px;
+    overflow-x: auto;
+    border: 1px solid #415a77;
+    text-wrap: wrap;
+}
+
+code {
+    font-family: "Courier New", monospace;
+    color: #c9c9c8;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .sidebar {
+        width: 200px;
+    }
+
+    .content {
+        margin-left: 200px;
+    }
+}
+
+@media (max-width: 480px) {
+    .sidebar {
+        width: 100%;
+        position: relative;
+        height: auto;
+    }
+
+    .content {
+        margin-left: 0;
+    }
 }

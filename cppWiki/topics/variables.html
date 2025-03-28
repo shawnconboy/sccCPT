@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Variables - C++ Wiki</title>
+    <link rel="stylesheet" href="../style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <a href="../index.html">
+            <h2>C++ Wiki</h2>
+        </a>
+        <ul>
+            <li><a href="../index.html">Introduction</a></li>
+            <li><a href="variables.html">Variables</a></li>
+            <li><a href="#">Loops</a></li>
+            <li><a href="#">Functions</a></li>
+            <li><a href="#">Arrays</a></li>
+        </ul>
+    </div>
+
+    <!-- Main Content -->
+    <div class="content">
+        <div class="intro">
+            <h1>Variables in C++</h1>
+
+            <h2>What is a Variable?</h2>
+            <p>A variable in C++ is like a storage box where you can keep data. Think of it as a label that holds a
+                value,
+                such as a number or a word, which your program can use and change.</p>
+
+            <h2>Declaring a Variable</h2>
+            <p>To create a variable, you need to specify its type (what kind of data it will hold) and give it a name.
+            </p>
+
+            <h3>Example:</h3>
+            <pre><code>
+#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+    int age = 25;  // Declaring an integer variable called 'age' and assigning it a value
+    cout << "My age is: " << age << endl;
+    return 0;
+}
+            </code></pre>
+
+            <h2>Common Variable Types</h2>
+            <ul>
+                <li><strong>int</strong> – Stores whole numbers (e.g., <code>int age = 25;</code>)</li>
+                <li><strong>double</strong> – Stores decimal numbers (e.g., <code>double price = 9.99;</code>)</li>
+                <li><strong>char</strong> – Stores a single character (e.g., <code>char grade = 'A';</code>)</li>
+                <li><strong>string</strong> – Stores text (e.g., <code>string name = "John";</code>)</li>
+                <li><strong>bool</strong> – Stores true or false values (e.g., <code>bool isStudent = true;</code>)</li>
+            </ul>
+
+            <h2>Changing Variable Values</h2>
+            <p>Once you declare a variable, you can change its value later in the program.</p>
+
+            <h3>Example:</h3>
+            <pre><code>
+#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+    int score = 10;
+    cout << "Initial score: " << score << endl;
+
+    score = 20; // Changing the value
+    cout << "Updated score: " << score << endl;
+
+    return 0;
+}
+            </code></pre>
+
+            <h2>Rules for Naming Variables</h2>
+            <ul>
+                <li>Variable names can contain letters, numbers, and underscores (_).</li>
+                <li>They cannot start with a number.</li>
+                <li>They cannot contain spaces or special characters.</li>
+                <li>They are case-sensitive (<code>Age</code> and <code>age</code> are different).</li>
+            </ul>
+
+            <h2>Try It Yourself!</h2>
+            <p>Create a program that declares different types of variables and prints them to the screen.</p>
+        </div>
+    </div>
+</body>
+
+</html>
