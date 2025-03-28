@@ -8,7 +8,6 @@
 
 body {
     display: flex;
-    height: 100vh;
     background-color: #0d1b2a;
     /* Dark blue background */
     color: #f0f0f0;
@@ -60,16 +59,14 @@ body {
 .content {
     flex-grow: 1;
     margin-left: 250px;
-    padding: 20px;
+    padding: 40px 20px;
     background-color: #0d1b2a;
-    min-height: 100vh;
-
 }
 
 /* Styling for Intro Box */
 .intro {
     max-width: 800px;
-    margin: 20px auto;
+    margin: 0px auto;
     padding: 20px;
     background: #1b263b;
     border: 1px solid #415a77;
