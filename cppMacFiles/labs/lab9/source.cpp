@@ -43,8 +43,17 @@ int main()
         string fullName = firstName + " " + lastName;
         cout << "\nYour full name is: " << fullName << endl;
 
-        string reversedName = string(fullName.rbegin(), fullName.rend());
-        cout << "Your reversed full name is: " << reversedName << endl;
+        // reversed name needs to be a for loop that outputs the numbers backwards
+
+        cout << "Your reversed full name is: ";
+        for (int i = fullName.length() - 1; i >= 0; i--)
+        {
+            cout << fullName[i];
+        }
+        cout << endl;
+
+        // string reversedName = string(fullName.rbegin(), fullName.rend());
+        // cout << "Your reversed full name is: " << reversedName << endl;
 
         phoneNumber = phoneNumber.insert(0, "(");
         phoneNumber = phoneNumber.insert(4, ") ");
