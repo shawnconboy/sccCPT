@@ -1,0 +1,3 @@
+﻿  S-Conboy-Lab-9.cpp
+C:\Users\tpsol\source\repos\cppPracticeProjects\CPT-168-Labs\S-Conboy-Lab-9\S-Conboy-Lab-9.cpp(51,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  S-Conboy-Lab-9.vcxproj -> C:\Users\tpsol\source\repos\cppPracticeProjects\CPT-168-Labs\S-Conboy-Lab-9\x64\Debug\S-Conboy-Lab-9.exe
