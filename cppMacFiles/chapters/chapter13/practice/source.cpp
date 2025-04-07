@@ -26,6 +26,10 @@ int main()
         cin >> phoneNumber;
     }
 
+    phoneNumber.insert(0, "(");
+    phoneNumber.insert(4, ")");
+    phoneNumber.insert(8, "-");
+
     fullName = firstName + " " + lastName;
 
     cout << "Full name is : " << fullName << endl;
