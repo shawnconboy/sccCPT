@@ -9,81 +9,103 @@ int main()
 
     system("clear");
 
-    // read from Names.txt print out names and ages
+    char menuChoice;
 
-    // int studentAge = 0;
-    // string studentName = "";
+    cout << "Would you like to (R)ead file or (W)rite new names? ";
+    cin >> menuChoice;
+    cin.ignore(); // clear the newline after menu input
 
-    // ifstream inNames;
-
-    // inNames.open("Names.txt");
-    // if (inNames.is_open())
-    // {
-    //     cout << "Open" << endl;
-    // }
-    // else
-    // {
-    //     cout << "Failed" << endl;
-    // }
-
-    // getline(inNames, studentName, "\#");
-    // inNames >> studentName;
-
-    // getline(inNames, studentAge);
-    // inNames >> studentAge;
-
-    // inNames.close();
-
-    // write student names to a file and their ages.
-
-    // variables
-
-    string studentName = "";
-
-    int age = 0;
-
-    char userChoice = 'Y';
-
-    // creat file object
-    ofstream outNames;
-
-    // open the output file
-    outNames.open("Names.txt", ios::app);
-
-    // check to see if file opened.
-
-    if (outNames.is_open())
+    if (toupper(menuChoice) == 'R')
     {
-        cout << "Success." << endl;
+        // read from Names.txt print out names and ages
+
+        int studentAge = 0;
+        string studentName = "";
+
+        ifstream inNames;
+
+        inNames.open("Names.txt");
+        if (inNames.is_open())
+        {
+            cout << "File opened successfully." << endl;
+        }
+        else
+        {
+            cout << "File failed to open." << endl;
+        }
+
+        // read until the end of the file
+        while (getline(inNames, studentName, '#'))
+        {
+            inNames >> studentAge;
+
+            if (inNames.fail())
+            {
+                break;
+            }
+
+            inNames.ignore(); // ignore the newline after the number
+
+            cout << "Student name: " << studentName << endl;
+            cout << "Student age: " << studentAge << endl;
+        }
+
+        inNames.close();
+    }
+    else if (toupper(menuChoice) == 'W')
+    {
+        // write student names to a file and their ages.
+
+        // variables
+
+        string studentNameWrite = "";
+        int age = 0;
+        char userChoice = 'Y';
+
+        // creat file object
+        ofstream outNames;
+
+        // open the output file
+        outNames.open("Names.txt", ios::app);
+
+        // check to see if file opened.
+
+        if (outNames.is_open())
+        {
+            cout << "Success." << endl;
+        }
+        else
+        {
+            cout << "File failed to open." << endl;
+        }
+
+        while (toupper(userChoice) == 'Y')
+        {
+            cout << "Please enter your name : ";
+            getline(cin, studentNameWrite);
+
+            cout << "Please enter age : ";
+            cin >> age;
+
+            // write it to the file
+
+            cout << "Student name is: " << studentNameWrite << endl;
+
+            outNames << studentNameWrite << "#" << age << endl;
+
+            cout << "Would you like to enter another name? (Y/N): ";
+            cin >> userChoice;
+            cin.ignore();
+        }
+
+        // close the file
+
+        outNames.close();
     }
     else
     {
-        cout << "File failed to open." << endl;
+        cout << "Invalid option selected. Please run the program again." << endl;
     }
-
-    while (toupper(userChoice) == 'Y')
-    {
-
-        cout << "Please enter your name : ";
-        getline(cin, studentName);
-
-        cout << "Please enter age : ";
-        cin >> age;
-
-        // write it to the file
-
-        cout << "Student name is: " << studentName << endl;
-
-        outNames << studentName << "#" << age << endl;
-
-        cout << "Would you like to enter another name? (Y/N): ";
-        cin >> userChoice;
-        cin.ignore();
-    }
-
-    // close the file
-
-    outNames.close();
 
     return 0;
 }
