@@ -71,5 +71,18 @@ int main()
 
     // *************************************************
 
+    ofstream outFeb;
+
+    outFeb.open("febSales.txt");
+
+    if (outFeb.is_open())
+    {
+        cout << "success\n";
+    }
+    else
+    {
+        cout << "failure\n";
+    }
+
     return 0;
 }

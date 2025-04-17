@@ -1,0 +1,16 @@
+
+    reading and writing files
+
+    - Add the include directive(fstream) - Create the file object(ifstream or ofstream) - Open the file(fileObject.open("name of file")) - Check to see if file opened
+    - File operations(reading or writing)
+
+        if reading () = > while (!fileObject.eof())
+
+    - Close thee file(fileObject.close())
+
+    reading from a file(getline(), or you can use >> -extraction operator(cin))
+    fileObject>>variable
+    getline(fileObject, variable, '\#')
+
+    writing to a file( << - insertion operator)
+    fileObject << variable
