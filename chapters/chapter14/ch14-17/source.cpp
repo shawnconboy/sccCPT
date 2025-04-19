@@ -4,21 +4,39 @@
 
 using namespace std;
 
+// input and output declarations
+ofstream outGrades;
+ifstream inGrades;
+
+// variables
+
+string name = "";
+int grade = 0;
+char userChoice = 'Y';
+
+// functions
+
+void outOpen();
+void outClose();
+void outWriteData();
+
+void inOpen();
+
 int main()
 {
     system("clear");
 
-    // input and output declarations
-    ofstream outGrades;
-    ifstream inGrades;
+    outOpen();
+    outWriteData();
+    outClose();
 
-    // variables
+    inOpen();
 
-    string name = "";
-    int grade = 0;
-    char userChoice = 'Y';
+    return 0;
+}
 
-    // open outGrades
+void outOpen()
+{
     outGrades.open("grades.txt", ios::app);
     if (outGrades.is_open())
     {
@@ -28,9 +46,10 @@ int main()
     {
         cout << "grades.txt failed to open\n";
     }
+}
 
-    // get name and grade from user and insert into grades.txt file
-
+void outWriteData()
+{
     while (toupper(userChoice) == 'Y')
     {
         cout << "Please enter name: ";
@@ -45,7 +64,10 @@ int main()
         cin >> userChoice;
         cin.ignore();
     }
+}
 
+void outClose()
+{
     // close and check if closed
     outGrades.close();
     if (!outGrades.is_open())
@@ -56,6 +78,17 @@ int main()
     {
         cout << "grades.txt failed to close\n";
     }
+}
 
-    return 0;
+void inOpen()
+{
+    inGrades.open("grades.txt");
+    if (inGrades.is_open())
+    {
+        cout << "grades.txt opened successfully\n";
+    }
+    else
+    {
+        cout << "grades.txt failed to open\n";
+    }
 }
