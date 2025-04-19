@@ -6,15 +6,20 @@ using namespace std;
 
 int main()
 {
+    system("clear");
 
+    // input and output declarations
     ofstream outGrades;
     ifstream inGrades;
 
+    // variables
+
     string name = "";
     int grade = 0;
+    char userChoice = 'Y';
 
-    outGrades.open("grades.txt");
-
+    // open outGrades
+    outGrades.open("grades.txt", ios::app);
     if (outGrades.is_open())
     {
         cout << "grades.txt opened successfully\n";
@@ -24,11 +29,33 @@ int main()
         cout << "grades.txt failed to open\n";
     }
 
-    cout << "Please enter name: ";
-    getline(cin, name);
+    // get name and grade from user and insert into grades.txt file
 
-    cout << "Please enter grade: ";
-    cin >> grade;
+    while (toupper(userChoice) == 'Y')
+    {
+        cout << "Please enter name: ";
+        getline(cin, name);
+
+        cout << "Please enter grade: ";
+        cin >> grade;
+
+        outGrades << name << "#" << grade << endl;
+
+        cout << "Enter another student? (Y/N) : ";
+        cin >> userChoice;
+        cin.ignore();
+    }
+
+    // close and check if closed
+    outGrades.close();
+    if (!outGrades.is_open())
+    {
+        cout << "grades.txt closed successfully\n";
+    }
+    else
+    {
+        cout << "grades.txt failed to close\n";
+    }
 
     return 0;
 }
