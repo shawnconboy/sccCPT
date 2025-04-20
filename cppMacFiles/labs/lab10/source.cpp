@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <iomanip>
 
 using namespace std;
 
@@ -19,8 +20,16 @@ int records = 0;
 
 int main()
 {
-
     system("clear");
+
+    cout << "\t\t*******************************************" << endl;
+    cout << "\t\t*                                         *" << endl;
+    cout << "\t\t*              Shawn Conboy               *" << endl;
+    cout << "\t\t*              CPT 168 A01H               *" << endl;
+    cout << "\t\t*      Lab 10 Sequential Access Files     *" << endl;
+    cout << "\t\t*                                         *" << endl;
+    cout << "\t\t*******************************************" << endl
+         << endl;
 
     // outPayroll.open("payroll.txt", ios::app);
     // if (outPayroll.is_open())
