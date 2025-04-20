@@ -5,10 +5,19 @@
 
 using namespace std;
 
+// function declarations
+void info();
+void outPayrollOpen();
+void outPayrollClose();
+void inPayrollOpen();
+void inPayrollClose();
+void codeThatAltersFile();
+
 // object declarations
 ofstream outPayroll;
 ifstream inPayroll;
 
+// variables
 string name = "";
 string ssn = "";
 int hours = 0;
@@ -20,8 +29,23 @@ int records = 0;
 
 int main()
 {
-    system("clear");
+    system("cls");
+    system("color f0");
 
+    info();
+    // outPayrollOpen();
+    // outPayrollClose();
+    inPayrollOpen();
+    codeThatAltersFile();
+    inPayrollClose();
+    cout << "T H A N K  Y O U !" << endl;
+
+    system("pause");
+    return 0;
+}
+
+void info()
+{
     cout << "\t\t*******************************************" << endl;
     cout << "\t\t*                                         *" << endl;
     cout << "\t\t*              Shawn Conboy               *" << endl;
@@ -30,34 +54,43 @@ int main()
     cout << "\t\t*                                         *" << endl;
     cout << "\t\t*******************************************" << endl
          << endl;
+}
 
-    // outPayroll.open("payroll.txt", ios::app);
-    // if (outPayroll.is_open())
-    // {
-    //     cout << "payroll.txt opened successfully" << endl;
-    // }
-    // else
-    // {
-    //     cout << "payroll.txt failed to open" << endl;
-    // }
+void outPayrollOpen()
+{
+    outPayroll.open("payroll.txt", ios::app);
+    if (outPayroll.is_open())
+    {
+        cout << "payroll.txt opened successfully" << endl;
+    }
+    else
+    {
+        cout << "payroll.txt failed to open" << endl;
+    }
 
-    // cout << "___________________________________________" << endl
-    //      << endl;
+    cout << "___________________________________________" << endl
+         << endl;
+}
 
-    // outPayroll.close();
+void outPayrollClose()
+{
+    outPayroll.close();
 
-    // if (!outPayroll.is_open())
-    // {
-    //     cout << "payroll.txt closed successfully" << endl;
-    // }
-    // else
-    // {
-    //     cout << "payroll.txt failed to close" << endl;
-    // }
+    if (!outPayroll.is_open())
+    {
+        cout << "payroll.txt closed successfully" << endl;
+    }
+    else
+    {
+        cout << "payroll.txt failed to close" << endl;
+    }
 
-    // cout << "___________________________________________" << endl
-    //      << endl;
+    cout << "___________________________________________" << endl
+         << endl;
+}
 
+void inPayrollOpen()
+{
     inPayroll.open("payroll.txt");
 
     if (inPayroll.is_open())
@@ -71,6 +104,27 @@ int main()
 
     cout << "___________________________________________" << endl
          << endl;
+}
+
+void inPayrollClose()
+{
+    inPayroll.close();
+
+    if (!inPayroll.is_open())
+    {
+        cout << "payroll.txt closed successfully" << endl;
+    }
+    else
+    {
+        cout << "payroll.txt failed to closed" << endl;
+    }
+
+    cout << "___________________________________________" << endl
+         << endl;
+}
+
+void codeThatAltersFile()
+{
 
     string hoursString = "";
     string rateString = "";
@@ -118,20 +172,4 @@ int main()
 
     cout << endl
          << endl;
-
-    inPayroll.close();
-
-    if (!inPayroll.is_open())
-    {
-        cout << "payroll.txt closed successfully" << endl;
-    }
-    else
-    {
-        cout << "payroll.txt failed to closed" << endl;
-    }
-
-    cout << "___________________________________________" << endl
-         << endl;
-
-    return 0;
 }
