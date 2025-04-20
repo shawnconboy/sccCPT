@@ -1,87 +1,173 @@
 #include <iostream>
-#include <string>
 #include <fstream>
+#include <string>
 #include <iomanip>
 
 using namespace std;
 
-int main() {
+// function declarations
+void info();
+void outPayrollOpen();
+void outPayrollClose();
+void inPayrollOpen();
+void inPayrollClose();
+void codeThatAltersFile();
 
-	cout << "*******************************************" << endl;
-	cout << "*                                         *" << endl;
-	cout << "*             Shawn Conboy                *" << endl;
-	cout << "*             CPT 168 A01H                *" << endl;
-	cout << "*        Payroll Sequential File          *" << endl;
-	cout << "*                                         *" << endl;
-	cout << "*******************************************\n" << endl;
 
-	cout << "---------------------------------------------------------\n\n";
 
-	ifstream inRecords;
-	inRecords.open("payroll.txt");
+// object declarations
+ofstream outPayroll;
+ifstream inPayroll;
 
-	if (!inRecords.is_open()) {
-		cout << "Failed to open payroll.txt\n";
-		return 1;
+// variables
+string name = "";
+string ssn = "";
+int hours = 0;
+double rate = 0.0;
+double gross = 0.0;
+double deductions = 0.0;
+double net = 0.0;
+int records = 0;
+
+int main()
+{
+	system("cls");
+	system("color f0");
+
+	info();
+	//outPayrollOpen();
+	//outPayrollClose();
+	inPayrollOpen();
+	codeThatAltersFile();
+	inPayrollClose();
+	cout << "T H A N K  Y O U !" << endl;
+
+	system("pause");
+	return 0;
+}
+
+
+void info() {
+	cout << "\t\t*******************************************" << endl;
+	cout << "\t\t*                                         *" << endl;
+	cout << "\t\t*              Shawn Conboy               *" << endl;
+	cout << "\t\t*              CPT 168 A01H               *" << endl;
+	cout << "\t\t*      Lab 10 Sequential Access Files     *" << endl;
+	cout << "\t\t*                                         *" << endl;
+	cout << "\t\t*******************************************" << endl
+		<< endl;
+}
+
+void outPayrollOpen() {
+	outPayroll.open("payroll.txt", ios::app);
+	if (outPayroll.is_open())
+	{
+		cout << "payroll.txt opened successfully" << endl;
+	}
+	else
+	{
+		cout << "payroll.txt failed to open" << endl;
 	}
 
-	// Variables
-	string firstName = "";
-	string lastName = "";
-	string ssn = "";
-	int hoursWorked = 0;
-	double rate = 0.0;
-	double gross = 0.0;
-	double deductions = 0.0;
-	double net = 0.0;
-	int recordCount = 0;
+	cout << "___________________________________________" << endl
+		<< endl;
+}
 
-	// Print table header
-	cout << left << setw(6) << "SSN"
-		<< setw(4) << "In."
-		<< setw(12) << "Last Name"
-		<< right << setw(10) << "Hours"
-		<< setw(10) << "Rate"
-		<< setw(10) << "Gross"
-		<< setw(12) << "Deductions"
-		<< setw(10) << "Net" << endl;
+void outPayrollClose() {
+	outPayroll.close();
 
-	cout << "--------------------------------------------------------------------------" << endl;
+	if (!outPayroll.is_open())
+	{
+		cout << "payroll.txt closed successfully" << endl;
+	}
+	else
+	{
+		cout << "payroll.txt failed to close" << endl;
+	}
 
-	// Process each record
-	while (!inRecords.eof()) {
-		inRecords >> firstName >> lastName >> ssn >> hoursWorked >> rate;
+	cout << "___________________________________________" << endl
+		<< endl;
+}
 
-		// Calculate gross pay
-		if (hoursWorked > 40) {
-			gross = (40 * rate) + ((hoursWorked - 40) * rate * 1.5);
+void inPayrollOpen() {
+	inPayroll.open("payroll.txt");
+
+	if (inPayroll.is_open())
+	{
+		cout << "payroll.txt opened successfully" << endl;
+	}
+	else
+	{
+		cout << "payroll.txt failed to open" << endl;
+	}
+
+	cout << "___________________________________________" << endl
+		<< endl;
+}
+
+void inPayrollClose() {
+	inPayroll.close();
+
+	if (!inPayroll.is_open())
+	{
+		cout << "payroll.txt closed successfully" << endl;
+	}
+	else
+	{
+		cout << "payroll.txt failed to closed" << endl;
+	}
+
+	cout << "___________________________________________" << endl
+		<< endl;
+
+}
+
+void codeThatAltersFile() {
+
+	string hoursString = "";
+	string rateString = "";
+
+	cout << fixed << setprecision(2);
+
+	cout << "SSN\t" << "Name\t\t" << "Hours\t" << "Rate\t" << "Gross\t\t" << "Deductions\t" << "NetPay" << endl;
+	cout << "___\t" << "____\t\t" << "_____\t" << "____\t" << "_____\t\t" << "__________\t" << "______" << endl
+		<< endl;
+
+	while (getline(inPayroll, name, '#') && getline(inPayroll, ssn, '#') && getline(inPayroll, hoursString, '#') && getline(inPayroll, rateString))
+	{
+		hours = stoi(hoursString);
+		rate = stod(rateString);
+
+		if (hours > 40)
+		{
+			gross = 40 * rate + (hours - 40) * (rate * 1.5);
 		}
-		else {
-			gross = hoursWorked * rate;
+		else
+		{
+			gross = hours * rate;
 		}
 
-		deductions = gross * 0.10;
+		deductions = gross * 0.1;
+
 		net = gross - deductions;
 
-		string lastFourSSN = ssn.substr(ssn.length() - 4);
+		int ssnLength = ssn.length();
+		ssn = ssn.substr(ssnLength - 4);
+
+		int space = name.find(' ');
+
+		string firstName = name.substr(0, space);
+		string lastName = name.substr(space);
+
 		string firstInitial = firstName.substr(0, 1);
 
-		// Print row
-		cout << left << setw(6) << lastFourSSN
-			<< setw(4) << firstInitial + "."
-			<< setw(12) << lastName
-			<< right << setw(10) << hoursWorked
-			<< setw(10) << fixed << setprecision(2) << rate
-			<< setw(10) << gross
-			<< setw(12) << deductions
-			<< setw(10) << net << endl;
+		cout << ssn << "\t" << firstInitial << ". " << lastName << "\t" << hours << "\t" << rate << "\t" << gross << "\t\t" << deductions << "\t\t" << net << endl;
 
-		recordCount++;
+		records++;
 	}
 
-	inRecords.close();
+	cout << "\nNumber of records: " << records << endl;
 
-	cout << "\nTotal Records Processed: " << recordCount << endl;
-
-	return 0;
+	cout << endl
+		<< endl;
 }
