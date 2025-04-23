@@ -1,3 +1,2 @@
-Student Name is Shawn	Student Grade 10
-Student Name is Jimmy	Student Grade 100
-Student Name is Carl	Student Grade 88
+Jimmy Brooks#100#90#77#66#66#79.80
+Harry Cawks#10#10#10#10#10#10.00
