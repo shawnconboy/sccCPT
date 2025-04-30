@@ -1,0 +1,10 @@
+Item      Category  Quantity  Price  Revenue   Rating    
+________  ________  ________  _____  ________  ________  
+
+
+Burger    Meal      43        6.50   279.5     Medium    
+Soda      Drink     112       1.25   140       High      
+Fries     Snack     57        2.00   114       High      
+Cookie    Snack     9         1.75   15.75     Low       
+Taco      Meal      28        4.25   119       Medium    
+Coffee    Drink     8         2.50   20        Low       

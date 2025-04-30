@@ -1,0 +1,6 @@
+Burger#Meal#43#6.50
+Soda#Drink#112#1.25
+Fries#Snack#57#2.00
+Cookie#Snack#9#1.75
+Taco#Meal#28#4.25
+Coffee#Drink#8#2.50

@@ -1,0 +1,24 @@
+Last Name 	First Initial	State   	Zip Code    	Acres  	Tax     	Odd/Even
+_________ 	____________	________	____________	_______	________	______
+Conboy    	S.          	SC      	29369-1740  	1.2    	120.00  	Even  
+
+Bets      	K.          	FL      	81023       	3.6    	720.00  	Even  
+
+Kidman    	N.          	CA      	92653       	2.1    	1050.00 	Odd   
+
+Pitt      	B.          	FL      	85640       	3.5    	700.00  	Odd   
+
+Foster    	J.          	SC      	29532-1820  	4.5    	450.00  	Even  
+
+Newton    	T.          	SC      	29532       	2.9    	290.00  	Odd   
+
+Johnson   	C.          	FL      	82329       	5.3    	1060.00 	Even  
+
+Benjamin  	M.          	SC      	29520-1223  	10.2   	1020.00 	Odd   
+
+Jones     	P.          	SC      	29442       	8.4    	840.00  	Odd   
+
+Jackson   	K.          	SC      	24931       	9.1    	910.00  	Even  
+
+Total Count = 10
+
