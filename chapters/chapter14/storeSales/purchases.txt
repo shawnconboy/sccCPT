@@ -1,0 +1,10 @@
+Apples#20
+Bananas#15
+Oranges#10
+Milk#8
+Bread#12
+Eggs#18
+Cereal#7
+Juice#9
+Coffee#5
+Yogurt#14
