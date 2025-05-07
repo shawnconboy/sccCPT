@@ -59,6 +59,8 @@
   "files.associations": {
     "iostream": "cpp",
     "ostream": "cpp",
-    "complex": "cpp"
+    "complex": "cpp",
+    "string": "cpp",
+    "ios": "cpp"
   },
 }
