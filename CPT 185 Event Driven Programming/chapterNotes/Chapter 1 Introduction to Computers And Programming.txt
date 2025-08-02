@@ -2,7 +2,7 @@
 Chapter 1 – Introduction to Computers and Programming
 ==========================================
 
-Author: Tony Gaddis
+Author: Tony Gaddis  
 Book: Starting Out with Visual C# (5th Edition)
 
 -------------------------------
@@ -63,62 +63,183 @@ Book: Starting Out with Visual C# (5th Edition)
 - Compilation – converts to MSIL (Microsoft Intermediate Language)
 - .NET Runtime – executes the compiled app
 
-FLOW:
+FLOW:  
 C# Source Code → Compiler → MSIL → .NET Runtime → Executable Program
 
 -------------------------------
 8. The Programming Process
 -------------------------------
-1. Define the problem
-2. Design a solution (flowchart or pseudocode)
-3. Code the solution
-4. Test and debug
+1. Define the problem  
+2. Design a solution (flowchart or pseudocode)  
+3. Code the solution  
+4. Test and debug  
 5. Maintain the software
 
 -------------------------------
 9. Algorithms and Pseudocode
 -------------------------------
-- Algorithm = step-by-step process to solve a problem
-- Pseudocode = plain-English version of what the program should do
+- Algorithm = step-by-step process to solve a problem  
+- Pseudocode = plain-English version of what the program should do  
 
-Example Pseudocode:
-Prompt user for input
-Store input in variable
+Example Pseudocode:  
+Prompt user for input  
+Store input in variable  
 Display output using input
 
 -------------------------------
 10. IDE and Visual Studio
 -------------------------------
-- IDE = Integrated Development Environment
-  • Includes code editor, debugger, UI designer
+- IDE = Integrated Development Environment  
+  • Includes code editor, debugger, UI designer  
 - Visual Studio – the primary IDE for C# development
+
+-------------------------------
+11. Input and Output (I/O)
+-------------------------------
+- Input = data entered by the user  
+- Output = data shown to the user  
+
+Console-based I/O examples:
+Console.Write("Enter your name: ");
+string name = Console.ReadLine();
+
+Console.WriteLine("Hello, " + name);
+
+-------------------------------
+12. Data Types and Usage in C#
+-------------------------------
+- C# uses explicit typing like C++
+- You must declare the type of variable before using it
+
+Common data types:
+int age = 25;
+double price = 19.99;
+decimal balance = 105.50m; // Note the 'm' for decimal
+string name = "Shawn";
+char grade = 'A';
+bool isReady = true;
+
+Constants:
+const double Pi = 3.14159;
+
+Input conversion:
+string input = Console.ReadLine();
+int age = int.Parse(input); // Converts string to int
+
+Safe parsing:
+int.TryParse(Console.ReadLine(), out int result);
+
+String interpolation (preferred):
+Console.WriteLine($"Hello, {name}, you are {age} years old.");
+
+Using var for inferred types (optional):
+var username = "admin";  // Inferred as string
+var score = 100;         // Inferred as int
 
 -------------------------------
 KEYWORDS TO KNOW
 -------------------------------
-• Hardware
-• Software
-• CPU
-• Main Memory (RAM)
-• Secondary Storage
-• Input Device / Output Device
-• Bit / Byte
-• Program
-• Fetch-Decode-Execute
-• Machine Language
-• Assembly Language
-• High-Level Language
-• C#
-• .NET Framework
-• Source Code
-• Compiler
-• MSIL (Microsoft Intermediate Language)
-• Runtime
-• Algorithm
-• Pseudocode
-• IDE (Integrated Development Environment)
-• Visual Studio
+• Hardware  
+• Software  
+• CPU  
+• Main Memory (RAM)  
+• Secondary Storage  
+• Input Device / Output Device  
+• Bit / Byte  
+• Program  
+• Fetch-Decode-Execute  
+• Machine Language  
+• Assembly Language  
+• High-Level Language  
+• C#  
+• .NET Framework  
+• Source Code  
+• Compiler  
+• MSIL (Microsoft Intermediate Language)  
+• Runtime  
+• Algorithm  
+• Pseudocode  
+• IDE (Integrated Development Environment)  
+• Visual Studio  
+• Input / Output  
+• Console.ReadLine()  
+• Console.WriteLine()  
+• Data Type  
+• Variable  
+• int, double, decimal, string, char, bool  
+• const  
+• var  
+• int.Parse(), int.TryParse()
 
 -------------------------------
 End of Chapter 1 Notes
 -------------------------------
+
+🔍 QUICK REVIEW QUESTIONS
+-------------------------------
+1. What is the difference between hardware and software?  
+2. What does the CPU do in a computer?  
+3. What is the smallest unit of data storage in a computer?  
+4. How many bits are in a byte?  
+5. What are the two main categories of software?  
+6. What is the fetch-decode-execute cycle?  
+7. What are the three types of programming languages?  
+8. What is C# and what platform does it run on?  
+9. What is the purpose of a compiler?  
+10. What is pseudocode used for?  
+11. What is an IDE and why is Visual Studio commonly used?  
+12. What are the most common data types in C#?  
+13. How do you safely convert string input into an integer?
+
+✅ REVIEW ANSWERS
+-------------------------------
+1. Hardware = physical parts; Software = programs that run on hardware  
+2. Executes instructions; acts as the computer's brain  
+3. Bit  
+4. 8 bits  
+5. System software and application software  
+6. The CPU fetches, decodes, and executes instructions  
+7. Machine, Assembly, High-Level  
+8. C# is a high-level language that runs on the .NET Framework  
+9. Converts source code into intermediate code for execution  
+10. Used to plan a program using plain English before coding  
+11. IDE = toolset for building programs; Visual Studio is the main IDE for C#  
+12. int, double, decimal, string, char, bool  
+13. Use int.TryParse(Console.ReadLine(), out int result) to avoid crashes
+
+
+-------------------------------
+Sample Code File
+-------------------------------
+
+// Sample C# Program: Simple Algorithm
+// Description: This program takes a user's name and age, then tells them how old they'll be in 10 years.
+
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Ask for user's name
+        Console.Write("Enter your name: ");
+        string name = Console.ReadLine();
+
+        // Ask for user's age
+        Console.Write("Enter your age: ");
+        string input = Console.ReadLine();
+        int age = int.Parse(input);
+
+        // Calculate future age
+        int futureAge = age + 10;
+
+        // Output results
+        Console.WriteLine($"\nHello, {name}!");
+        Console.WriteLine($"You are {age} years old.");
+        Console.WriteLine($"In 10 years, you will be {futureAge} years old.");
+
+        // Pause the console window
+        Console.WriteLine("\nPress any key to exit...");
+        Console.ReadKey();
+    }
+}
