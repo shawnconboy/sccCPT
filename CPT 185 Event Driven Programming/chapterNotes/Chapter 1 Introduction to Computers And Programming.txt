@@ -1,0 +1,124 @@
+==========================================
+Chapter 1 – Introduction to Computers and Programming
+==========================================
+
+Author: Tony Gaddis
+Book: Starting Out with Visual C# (5th Edition)
+
+-------------------------------
+1. What is a Computer?
+-------------------------------
+- A device that executes instructions to perform tasks.
+- Two main components:
+  • Hardware – physical parts (CPU, RAM, etc.)
+  • Software – programs and operating systems
+
+-------------------------------
+2. Major Hardware Components
+-------------------------------
+- CPU (Central Processing Unit): executes instructions
+- Main Memory (RAM): stores temporary data/programs
+- Secondary Storage: permanent storage (e.g., SSD, HDD)
+- Input Devices: keyboard, mouse, scanner
+- Output Devices: monitor, speakers, printer
+
+-------------------------------
+3. Binary Data Storage
+-------------------------------
+- Computers store all data as binary (1s and 0s)
+- Bit = single binary digit
+- Byte = 8 bits
+- Everything (text, numbers, images) is stored in binary form
+
+-------------------------------
+4. Software and Programs
+-------------------------------
+- Program = set of instructions
+- Execution cycle:
+  • Fetch → Decode → Execute
+- Two types of software:
+  • System Software – e.g., Windows, macOS
+  • Application Software – e.g., Excel, Chrome
+
+-------------------------------
+5. Programming Languages
+-------------------------------
+- Purpose: allow humans to write instructions
+- Types:
+  • Machine Language – binary code (lowest level)
+  • Assembly Language – uses symbolic names
+  • High-Level Language – readable syntax (e.g., C#, Java, Python)
+
+-------------------------------
+6. C# and the .NET Framework
+-------------------------------
+- C# (pronounced “C-Sharp”) – high-level, object-oriented language by Microsoft
+- Runs on .NET Framework
+  • Provides libraries, runtime, and tools
+
+-------------------------------
+7. From Code to Execution
+-------------------------------
+- Source Code – written by programmer (e.g., .cs file)
+- Compilation – converts to MSIL (Microsoft Intermediate Language)
+- .NET Runtime – executes the compiled app
+
+FLOW:
+C# Source Code → Compiler → MSIL → .NET Runtime → Executable Program
+
+-------------------------------
+8. The Programming Process
+-------------------------------
+1. Define the problem
+2. Design a solution (flowchart or pseudocode)
+3. Code the solution
+4. Test and debug
+5. Maintain the software
+
+-------------------------------
+9. Algorithms and Pseudocode
+-------------------------------
+- Algorithm = step-by-step process to solve a problem
+- Pseudocode = plain-English version of what the program should do
+
+Example Pseudocode:
+Prompt user for input
+Store input in variable
+Display output using input
+
+-------------------------------
+10. IDE and Visual Studio
+-------------------------------
+- IDE = Integrated Development Environment
+  • Includes code editor, debugger, UI designer
+- Visual Studio – the primary IDE for C# development
+
+-------------------------------
+KEYWORDS TO KNOW
+-------------------------------
+• Hardware
+• Software
+• CPU
+• Main Memory (RAM)
+• Secondary Storage
+• Input Device / Output Device
+• Bit / Byte
+• Program
+• Fetch-Decode-Execute
+• Machine Language
+• Assembly Language
+• High-Level Language
+• C#
+• .NET Framework
+• Source Code
+• Compiler
+• MSIL (Microsoft Intermediate Language)
+• Runtime
+• Algorithm
+• Pseudocode
+• IDE (Integrated Development Environment)
+• Visual Studio
+
+-------------------------------
+End of Chapter 1 Notes
+-------------------------------
