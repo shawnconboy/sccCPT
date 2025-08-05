@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9F5CCCD4-0C64-4878-9961-7E11C61E0FE3}</ProjectGuid>
+    <ProjectGuid>{2ECD25A9-EF73-4604-A842-D10F58CB81C1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>program</RootNamespace>
-    <AssemblyName>program</AssemblyName>
+    <RootNamespace>arrays</RootNamespace>
+    <AssemblyName>arrays</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

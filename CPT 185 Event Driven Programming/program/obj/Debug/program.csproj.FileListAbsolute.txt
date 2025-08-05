@@ -1,8 +1,0 @@
-C:\Users\shawn\source\repos\program\bin\Debug\program.exe.config
-C:\Users\shawn\source\repos\program\bin\Debug\program.exe
-C:\Users\shawn\source\repos\program\bin\Debug\program.pdb
-C:\Users\shawn\source\repos\program\obj\Debug\program.csproj.AssemblyReference.cache
-C:\Users\shawn\source\repos\program\obj\Debug\program.csproj.CoreCompileInputs.cache
-C:\Users\shawn\source\repos\program\obj\Debug\program.exe
-C:\Users\shawn\source\repos\program\obj\Debug\program.pdb
-C:\Users\shawn\source\repos\program\obj\Debug\program.exe.config
