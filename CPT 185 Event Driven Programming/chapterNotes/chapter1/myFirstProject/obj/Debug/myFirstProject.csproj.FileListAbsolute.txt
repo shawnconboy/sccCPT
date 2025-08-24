@@ -1,0 +1,11 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\bin\Debug\myFirstProject.exe.config
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\bin\Debug\myFirstProject.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\bin\Debug\myFirstProject.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.csproj.AssemblyReference.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.Properties.Resources.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.exe.config
