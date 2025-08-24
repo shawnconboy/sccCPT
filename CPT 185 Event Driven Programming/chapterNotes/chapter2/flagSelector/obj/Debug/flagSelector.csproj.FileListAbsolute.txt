@@ -1,0 +1,11 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\flagSelector\bin\Debug\flagSelector.exe.config
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\flagSelector\bin\Debug\flagSelector.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\flagSelector\bin\Debug\flagSelector.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\flagSelector\obj\Debug\flagSelector.csproj.AssemblyReference.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\flagSelector\obj\Debug\flagSelector.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\flagSelector\obj\Debug\flagSelector.Properties.Resources.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\flagSelector\obj\Debug\flagSelector.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\flagSelector\obj\Debug\flagSelector.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\flagSelector\obj\Debug\flagSelector.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\flagSelector\obj\Debug\flagSelector.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\flagSelector\obj\Debug\flagSelector.exe.config
