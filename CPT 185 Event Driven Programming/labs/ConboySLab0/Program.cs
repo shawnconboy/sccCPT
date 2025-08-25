@@ -75,6 +75,7 @@ while (runAgain == 'y')
     int examTotal = 0;
     int labTotal = 0;
     int quizTotal = 0;
+    char letterGrade = ' ';
 
     Console.WriteLine("Hello. Please enter your name.");
     studentName = Console.ReadLine();
@@ -156,6 +157,25 @@ while (runAgain == 'y')
     double finalAverage = weightedExam + weightedLab + weightedQuiz;
 
     Console.WriteLine($"Your overall grade is {finalAverage}");
+
+    if (finalAverage >= 90)
+    {
+        letterGrade = 'A';
+    } else if (finalAverage >= 80)
+    {
+        letterGrade = 'B';
+    } else if (finalAverage >= 70)
+    {
+        letterGrade = 'C';
+    } else if (finalAverage >= 60)
+    {
+        letterGrade = 'D';
+    } else
+    {
+        letterGrade = 'F';
+    }
+
+    Console.WriteLine($"Your letter grade is {letterGrade}");
 
     Console.WriteLine("Would you like to check another student's grades? (Y/N)");
     runAgain = char.Parse(Console.ReadLine().ToLower());
