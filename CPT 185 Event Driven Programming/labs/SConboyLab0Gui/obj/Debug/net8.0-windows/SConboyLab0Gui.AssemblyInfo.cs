@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SConboyLab0Gui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+079c4d26efb4a09b5655c897d3d9419ed9728135")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7433729acbfb525649e329decf095425599eb7d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SConboyLab0Gui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SConboyLab0Gui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
