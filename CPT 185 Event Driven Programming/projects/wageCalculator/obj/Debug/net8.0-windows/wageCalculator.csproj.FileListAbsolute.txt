@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\wageCalculator\bin\Debug\net8.0-windows\wageCalculator.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\wageCalculator\bin\Debug\net8.0-windows\wageCalculator.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\wageCalculator\bin\Debug\net8.0-windows\wageCalculator.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\wageCalculator\bin\Debug\net8.0-windows\wageCalculator.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\wageCalculator\bin\Debug\net8.0-windows\wageCalculator.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\wageCalculator\obj\Debug\net8.0-windows\wageCalculator.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\wageCalculator\obj\Debug\net8.0-windows\wageCalculator.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\wageCalculator\obj\Debug\net8.0-windows\wageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\wageCalculator\obj\Debug\net8.0-windows\wageCalculator.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\wageCalculator\obj\Debug\net8.0-windows\wageCalculator.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\wageCalculator\obj\Debug\net8.0-windows\wageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\wageCalculator\obj\Debug\net8.0-windows\wageCalculator.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\wageCalculator\obj\Debug\net8.0-windows\wageCalculator.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\wageCalculator\obj\Debug\net8.0-windows\refint\wageCalculator.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\wageCalculator\obj\Debug\net8.0-windows\wageCalculator.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\wageCalculator\obj\Debug\net8.0-windows\wageCalculator.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\wageCalculator\obj\Debug\net8.0-windows\ref\wageCalculator.dll

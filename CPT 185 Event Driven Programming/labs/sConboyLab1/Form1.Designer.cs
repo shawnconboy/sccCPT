@@ -488,7 +488,6 @@
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Shawn Conboy Chapter 1 Student Grade Report";
-            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }

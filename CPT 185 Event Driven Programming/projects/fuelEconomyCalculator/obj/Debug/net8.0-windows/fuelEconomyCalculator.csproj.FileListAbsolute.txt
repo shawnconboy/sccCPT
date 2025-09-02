@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\fuelEconomyCalculator\obj\Debug\net8.0-windows\fuelEconomyCalculator.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\fuelEconomyCalculator\obj\Debug\net8.0-windows\fuelEconomyCalculator.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\fuelEconomyCalculator\obj\Debug\net8.0-windows\fuelEconomyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\fuelEconomyCalculator\obj\Debug\net8.0-windows\fuelEconomyCalculator.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\fuelEconomyCalculator\obj\Debug\net8.0-windows\fuelEconomyCalculator.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\fuelEconomyCalculator\obj\Debug\net8.0-windows\fuelEconomyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\fuelEconomyCalculator\obj\Debug\net8.0-windows\fuelEconomyCalculator.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\fuelEconomyCalculator\bin\Debug\net8.0-windows\fuelEconomyCalculator.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\fuelEconomyCalculator\bin\Debug\net8.0-windows\fuelEconomyCalculator.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\fuelEconomyCalculator\bin\Debug\net8.0-windows\fuelEconomyCalculator.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\fuelEconomyCalculator\bin\Debug\net8.0-windows\fuelEconomyCalculator.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\fuelEconomyCalculator\bin\Debug\net8.0-windows\fuelEconomyCalculator.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\fuelEconomyCalculator\obj\Debug\net8.0-windows\fuelEconomyCalculator.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\fuelEconomyCalculator\obj\Debug\net8.0-windows\refint\fuelEconomyCalculator.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\fuelEconomyCalculator\obj\Debug\net8.0-windows\fuelEconomyCalculator.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\fuelEconomyCalculator\obj\Debug\net8.0-windows\fuelEconomyCalculator.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\projects\fuelEconomyCalculator\obj\Debug\net8.0-windows\ref\fuelEconomyCalculator.dll

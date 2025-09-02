@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\latinTranslator\bin\Debug\net8.0-windows\latinTranslator.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\latinTranslator\bin\Debug\net8.0-windows\latinTranslator.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\latinTranslator\bin\Debug\net8.0-windows\latinTranslator.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\latinTranslator\bin\Debug\net8.0-windows\latinTranslator.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\latinTranslator\bin\Debug\net8.0-windows\latinTranslator.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\latinTranslator\obj\Debug\net8.0-windows\latinTranslator.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\latinTranslator\obj\Debug\net8.0-windows\latinTranslator.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\latinTranslator\obj\Debug\net8.0-windows\latinTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\latinTranslator\obj\Debug\net8.0-windows\latinTranslator.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\latinTranslator\obj\Debug\net8.0-windows\latinTranslator.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\latinTranslator\obj\Debug\net8.0-windows\latinTranslator.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\latinTranslator\obj\Debug\net8.0-windows\latinTranslator.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\latinTranslator\obj\Debug\net8.0-windows\latinTranslator.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\latinTranslator\obj\Debug\net8.0-windows\refint\latinTranslator.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\latinTranslator\obj\Debug\net8.0-windows\latinTranslator.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\latinTranslator\obj\Debug\net8.0-windows\latinTranslator.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter2\latinTranslator\obj\Debug\net8.0-windows\ref\latinTranslator.dll
