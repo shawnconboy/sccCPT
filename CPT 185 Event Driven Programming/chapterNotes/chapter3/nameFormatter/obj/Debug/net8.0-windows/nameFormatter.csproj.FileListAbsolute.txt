@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\nameFormatter\bin\Debug\net8.0-windows\nameFormatter.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\nameFormatter\bin\Debug\net8.0-windows\nameFormatter.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\nameFormatter\bin\Debug\net8.0-windows\nameFormatter.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\nameFormatter\bin\Debug\net8.0-windows\nameFormatter.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\nameFormatter\bin\Debug\net8.0-windows\nameFormatter.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\nameFormatter\obj\Debug\net8.0-windows\nameFormatter.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\nameFormatter\obj\Debug\net8.0-windows\nameFormatter.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\nameFormatter\obj\Debug\net8.0-windows\nameFormatter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\nameFormatter\obj\Debug\net8.0-windows\nameFormatter.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\nameFormatter\obj\Debug\net8.0-windows\nameFormatter.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\nameFormatter\obj\Debug\net8.0-windows\nameFormatter.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\nameFormatter\obj\Debug\net8.0-windows\nameFormatter.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\nameFormatter\obj\Debug\net8.0-windows\nameFormatter.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\nameFormatter\obj\Debug\net8.0-windows\refint\nameFormatter.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\nameFormatter\obj\Debug\net8.0-windows\nameFormatter.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\nameFormatter\obj\Debug\net8.0-windows\nameFormatter.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\nameFormatter\obj\Debug\net8.0-windows\ref\nameFormatter.dll

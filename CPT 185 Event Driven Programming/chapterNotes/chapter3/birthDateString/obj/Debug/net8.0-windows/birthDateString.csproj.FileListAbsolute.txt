@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\birthDateString\bin\Debug\net8.0-windows\birthDateString.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\birthDateString\bin\Debug\net8.0-windows\birthDateString.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\birthDateString\bin\Debug\net8.0-windows\birthDateString.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\birthDateString\bin\Debug\net8.0-windows\birthDateString.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\birthDateString\bin\Debug\net8.0-windows\birthDateString.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\birthDateString\obj\Debug\net8.0-windows\birthDateString.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\birthDateString\obj\Debug\net8.0-windows\birthDateString.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\birthDateString\obj\Debug\net8.0-windows\birthDateString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\birthDateString\obj\Debug\net8.0-windows\birthDateString.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\birthDateString\obj\Debug\net8.0-windows\birthDateString.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\birthDateString\obj\Debug\net8.0-windows\birthDateString.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\birthDateString\obj\Debug\net8.0-windows\birthDateString.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\birthDateString\obj\Debug\net8.0-windows\birthDateString.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\birthDateString\obj\Debug\net8.0-windows\refint\birthDateString.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\birthDateString\obj\Debug\net8.0-windows\birthDateString.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\birthDateString\obj\Debug\net8.0-windows\birthDateString.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\birthDateString\obj\Debug\net8.0-windows\ref\birthDateString.dll
