@@ -1,0 +1,17 @@
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\workshopSelector\bin\Debug\net8.0-windows\workshopSelector.exe
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\workshopSelector\bin\Debug\net8.0-windows\workshopSelector.deps.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\workshopSelector\bin\Debug\net8.0-windows\workshopSelector.runtimeconfig.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\workshopSelector\bin\Debug\net8.0-windows\workshopSelector.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\workshopSelector\bin\Debug\net8.0-windows\workshopSelector.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\workshopSelector\obj\Debug\net8.0-windows\workshopSelector.Form1.resources
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\workshopSelector\obj\Debug\net8.0-windows\workshopSelector.csproj.GenerateResource.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\workshopSelector\obj\Debug\net8.0-windows\workshopSelector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\workshopSelector\obj\Debug\net8.0-windows\workshopSelector.AssemblyInfoInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\workshopSelector\obj\Debug\net8.0-windows\workshopSelector.AssemblyInfo.cs
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\workshopSelector\obj\Debug\net8.0-windows\workshopSelector.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\workshopSelector\obj\Debug\net8.0-windows\workshopSelector.sourcelink.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\workshopSelector\obj\Debug\net8.0-windows\workshopSelector.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\workshopSelector\obj\Debug\net8.0-windows\refint\workshopSelector.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\workshopSelector\obj\Debug\net8.0-windows\workshopSelector.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\workshopSelector\obj\Debug\net8.0-windows\workshopSelector.genruntimeconfig.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\workshopSelector\obj\Debug\net8.0-windows\ref\workshopSelector.dll
