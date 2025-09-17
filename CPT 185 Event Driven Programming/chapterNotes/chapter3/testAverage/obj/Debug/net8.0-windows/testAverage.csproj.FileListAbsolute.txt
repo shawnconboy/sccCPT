@@ -1,0 +1,17 @@
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\testAverage\bin\Debug\net8.0-windows\testAverage.exe
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\testAverage\bin\Debug\net8.0-windows\testAverage.deps.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\testAverage\bin\Debug\net8.0-windows\testAverage.runtimeconfig.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\testAverage\bin\Debug\net8.0-windows\testAverage.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\testAverage\bin\Debug\net8.0-windows\testAverage.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\testAverage\obj\Debug\net8.0-windows\testAverage.Form1.resources
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\testAverage\obj\Debug\net8.0-windows\testAverage.csproj.GenerateResource.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\testAverage\obj\Debug\net8.0-windows\testAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\testAverage\obj\Debug\net8.0-windows\testAverage.AssemblyInfoInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\testAverage\obj\Debug\net8.0-windows\testAverage.AssemblyInfo.cs
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\testAverage\obj\Debug\net8.0-windows\testAverage.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\testAverage\obj\Debug\net8.0-windows\testAverage.sourcelink.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\testAverage\obj\Debug\net8.0-windows\testAverage.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\testAverage\obj\Debug\net8.0-windows\refint\testAverage.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\testAverage\obj\Debug\net8.0-windows\testAverage.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\testAverage\obj\Debug\net8.0-windows\testAverage.genruntimeconfig.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\testAverage\obj\Debug\net8.0-windows\ref\testAverage.dll

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("birthDateString")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("testAverage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8419676533410673cf27b64d84a1a98ad4c06c40")]
-[assembly: System.Reflection.AssemblyProductAttribute("birthDateString")]
-[assembly: System.Reflection.AssemblyTitleAttribute("birthDateString")]
+[assembly: System.Reflection.AssemblyProductAttribute("testAverage")]
+[assembly: System.Reflection.AssemblyTitleAttribute("testAverage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

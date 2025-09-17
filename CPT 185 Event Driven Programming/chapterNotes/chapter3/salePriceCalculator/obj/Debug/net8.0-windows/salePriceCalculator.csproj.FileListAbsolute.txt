@@ -1,0 +1,17 @@
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\salePriceCalculator\bin\Debug\net8.0-windows\salePriceCalculator.exe
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\salePriceCalculator\bin\Debug\net8.0-windows\salePriceCalculator.deps.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\salePriceCalculator\bin\Debug\net8.0-windows\salePriceCalculator.runtimeconfig.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\salePriceCalculator\bin\Debug\net8.0-windows\salePriceCalculator.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\salePriceCalculator\bin\Debug\net8.0-windows\salePriceCalculator.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\salePriceCalculator\obj\Debug\net8.0-windows\salePriceCalculator.Form1.resources
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\salePriceCalculator\obj\Debug\net8.0-windows\salePriceCalculator.csproj.GenerateResource.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\salePriceCalculator\obj\Debug\net8.0-windows\salePriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\salePriceCalculator\obj\Debug\net8.0-windows\salePriceCalculator.AssemblyInfoInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\salePriceCalculator\obj\Debug\net8.0-windows\salePriceCalculator.AssemblyInfo.cs
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\salePriceCalculator\obj\Debug\net8.0-windows\salePriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\salePriceCalculator\obj\Debug\net8.0-windows\salePriceCalculator.sourcelink.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\salePriceCalculator\obj\Debug\net8.0-windows\salePriceCalculator.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\salePriceCalculator\obj\Debug\net8.0-windows\refint\salePriceCalculator.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\salePriceCalculator\obj\Debug\net8.0-windows\salePriceCalculator.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\salePriceCalculator\obj\Debug\net8.0-windows\salePriceCalculator.genruntimeconfig.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter3\salePriceCalculator\obj\Debug\net8.0-windows\ref\salePriceCalculator.dll
