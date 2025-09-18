@@ -1,0 +1,17 @@
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\loanQualifier\bin\Debug\net8.0-windows\loanQualifier.exe
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\loanQualifier\bin\Debug\net8.0-windows\loanQualifier.deps.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\loanQualifier\bin\Debug\net8.0-windows\loanQualifier.runtimeconfig.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\loanQualifier\bin\Debug\net8.0-windows\loanQualifier.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\loanQualifier\bin\Debug\net8.0-windows\loanQualifier.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\loanQualifier\obj\Debug\net8.0-windows\loanQualifier.Form1.resources
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\loanQualifier\obj\Debug\net8.0-windows\loanQualifier.csproj.GenerateResource.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\loanQualifier\obj\Debug\net8.0-windows\loanQualifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\loanQualifier\obj\Debug\net8.0-windows\loanQualifier.AssemblyInfoInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\loanQualifier\obj\Debug\net8.0-windows\loanQualifier.AssemblyInfo.cs
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\loanQualifier\obj\Debug\net8.0-windows\loanQualifier.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\loanQualifier\obj\Debug\net8.0-windows\loanQualifier.sourcelink.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\loanQualifier\obj\Debug\net8.0-windows\loanQualifier.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\loanQualifier\obj\Debug\net8.0-windows\refint\loanQualifier.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\loanQualifier\obj\Debug\net8.0-windows\loanQualifier.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\loanQualifier\obj\Debug\net8.0-windows\loanQualifier.genruntimeconfig.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\loanQualifier\obj\Debug\net8.0-windows\ref\loanQualifier.dll

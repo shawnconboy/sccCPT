@@ -1,0 +1,17 @@
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\magicDates\bin\Debug\net8.0-windows\magicDates.exe
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\magicDates\bin\Debug\net8.0-windows\magicDates.deps.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\magicDates\bin\Debug\net8.0-windows\magicDates.runtimeconfig.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\magicDates\bin\Debug\net8.0-windows\magicDates.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\magicDates\bin\Debug\net8.0-windows\magicDates.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\magicDates\obj\Debug\net8.0-windows\magicDates.Form1.resources
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\magicDates\obj\Debug\net8.0-windows\magicDates.csproj.GenerateResource.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\magicDates\obj\Debug\net8.0-windows\magicDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\magicDates\obj\Debug\net8.0-windows\magicDates.AssemblyInfoInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\magicDates\obj\Debug\net8.0-windows\magicDates.AssemblyInfo.cs
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\magicDates\obj\Debug\net8.0-windows\magicDates.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\magicDates\obj\Debug\net8.0-windows\magicDates.sourcelink.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\magicDates\obj\Debug\net8.0-windows\magicDates.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\magicDates\obj\Debug\net8.0-windows\refint\magicDates.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\magicDates\obj\Debug\net8.0-windows\magicDates.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\magicDates\obj\Debug\net8.0-windows\magicDates.genruntimeconfig.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\magicDates\obj\Debug\net8.0-windows\ref\magicDates.dll
