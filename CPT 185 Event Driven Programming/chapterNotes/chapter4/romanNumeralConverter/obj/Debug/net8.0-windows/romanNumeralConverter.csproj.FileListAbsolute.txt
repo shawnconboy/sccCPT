@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\romanNumeralConverter\obj\Debug\net8.0-windows\romanNumeralConverter.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\romanNumeralConverter\obj\Debug\net8.0-windows\romanNumeralConverter.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\romanNumeralConverter\obj\Debug\net8.0-windows\romanNumeralConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\romanNumeralConverter\obj\Debug\net8.0-windows\romanNumeralConverter.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\romanNumeralConverter\obj\Debug\net8.0-windows\romanNumeralConverter.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\romanNumeralConverter\obj\Debug\net8.0-windows\romanNumeralConverter.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\romanNumeralConverter\obj\Debug\net8.0-windows\romanNumeralConverter.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\romanNumeralConverter\bin\Debug\net8.0-windows\romanNumeralConverter.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\romanNumeralConverter\bin\Debug\net8.0-windows\romanNumeralConverter.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\romanNumeralConverter\bin\Debug\net8.0-windows\romanNumeralConverter.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\romanNumeralConverter\bin\Debug\net8.0-windows\romanNumeralConverter.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\romanNumeralConverter\bin\Debug\net8.0-windows\romanNumeralConverter.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\romanNumeralConverter\obj\Debug\net8.0-windows\romanNumeralConverter.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\romanNumeralConverter\obj\Debug\net8.0-windows\refint\romanNumeralConverter.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\romanNumeralConverter\obj\Debug\net8.0-windows\romanNumeralConverter.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\romanNumeralConverter\obj\Debug\net8.0-windows\romanNumeralConverter.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\romanNumeralConverter\obj\Debug\net8.0-windows\ref\romanNumeralConverter.dll
