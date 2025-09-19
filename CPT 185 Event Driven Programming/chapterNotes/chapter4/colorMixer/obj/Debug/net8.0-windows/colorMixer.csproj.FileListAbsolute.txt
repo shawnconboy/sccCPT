@@ -1,0 +1,17 @@
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\colorMixer\bin\Debug\net8.0-windows\colorMixer.exe
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\colorMixer\bin\Debug\net8.0-windows\colorMixer.deps.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\colorMixer\bin\Debug\net8.0-windows\colorMixer.runtimeconfig.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\colorMixer\bin\Debug\net8.0-windows\colorMixer.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\colorMixer\bin\Debug\net8.0-windows\colorMixer.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\colorMixer\obj\Debug\net8.0-windows\colorMixer.Form1.resources
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\colorMixer\obj\Debug\net8.0-windows\colorMixer.csproj.GenerateResource.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\colorMixer\obj\Debug\net8.0-windows\colorMixer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\colorMixer\obj\Debug\net8.0-windows\colorMixer.AssemblyInfoInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\colorMixer\obj\Debug\net8.0-windows\colorMixer.AssemblyInfo.cs
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\colorMixer\obj\Debug\net8.0-windows\colorMixer.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\colorMixer\obj\Debug\net8.0-windows\colorMixer.sourcelink.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\colorMixer\obj\Debug\net8.0-windows\colorMixer.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\colorMixer\obj\Debug\net8.0-windows\refint\colorMixer.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\colorMixer\obj\Debug\net8.0-windows\colorMixer.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\colorMixer\obj\Debug\net8.0-windows\colorMixer.genruntimeconfig.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\colorMixer\obj\Debug\net8.0-windows\ref\colorMixer.dll
