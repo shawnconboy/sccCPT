@@ -1,0 +1,17 @@
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\massAndWeight\bin\Debug\net8.0-windows\massAndWeight.exe
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\massAndWeight\bin\Debug\net8.0-windows\massAndWeight.deps.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\massAndWeight\bin\Debug\net8.0-windows\massAndWeight.runtimeconfig.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\massAndWeight\bin\Debug\net8.0-windows\massAndWeight.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\massAndWeight\bin\Debug\net8.0-windows\massAndWeight.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\massAndWeight\obj\Debug\net8.0-windows\massAndWeight.Form1.resources
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\massAndWeight\obj\Debug\net8.0-windows\massAndWeight.csproj.GenerateResource.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\massAndWeight\obj\Debug\net8.0-windows\massAndWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\massAndWeight\obj\Debug\net8.0-windows\massAndWeight.AssemblyInfoInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\massAndWeight\obj\Debug\net8.0-windows\massAndWeight.AssemblyInfo.cs
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\massAndWeight\obj\Debug\net8.0-windows\massAndWeight.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\massAndWeight\obj\Debug\net8.0-windows\massAndWeight.sourcelink.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\massAndWeight\obj\Debug\net8.0-windows\massAndWeight.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\massAndWeight\obj\Debug\net8.0-windows\refint\massAndWeight.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\massAndWeight\obj\Debug\net8.0-windows\massAndWeight.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\massAndWeight\obj\Debug\net8.0-windows\massAndWeight.genruntimeconfig.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\massAndWeight\obj\Debug\net8.0-windows\ref\massAndWeight.dll
