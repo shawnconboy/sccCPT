@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\bookClubPoints\bin\Debug\net8.0-windows\bookClubPoints.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\bookClubPoints\bin\Debug\net8.0-windows\bookClubPoints.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\bookClubPoints\bin\Debug\net8.0-windows\bookClubPoints.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\bookClubPoints\bin\Debug\net8.0-windows\bookClubPoints.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\bookClubPoints\bin\Debug\net8.0-windows\bookClubPoints.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\bookClubPoints\obj\Debug\net8.0-windows\bookClubPoints.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\bookClubPoints\obj\Debug\net8.0-windows\bookClubPoints.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\bookClubPoints\obj\Debug\net8.0-windows\bookClubPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\bookClubPoints\obj\Debug\net8.0-windows\bookClubPoints.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\bookClubPoints\obj\Debug\net8.0-windows\bookClubPoints.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\bookClubPoints\obj\Debug\net8.0-windows\bookClubPoints.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\bookClubPoints\obj\Debug\net8.0-windows\bookClubPoints.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\bookClubPoints\obj\Debug\net8.0-windows\bookClubPoints.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\bookClubPoints\obj\Debug\net8.0-windows\refint\bookClubPoints.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\bookClubPoints\obj\Debug\net8.0-windows\bookClubPoints.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\bookClubPoints\obj\Debug\net8.0-windows\bookClubPoints.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\bookClubPoints\obj\Debug\net8.0-windows\ref\bookClubPoints.dll
