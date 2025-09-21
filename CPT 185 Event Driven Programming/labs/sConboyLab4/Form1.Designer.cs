@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             headingLabel = new Label();
             distanceTextbox = new TextBox();
             groupBox1 = new GroupBox();
@@ -38,6 +39,8 @@
             convertedLabel = new Label();
             convertButton = new Button();
             exitButton = new Button();
+            clearButton = new Button();
+            toolTip1 = new ToolTip(components);
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
             SuspendLayout();
@@ -45,44 +48,55 @@
             // headingLabel
             // 
             headingLabel.AutoSize = true;
-            headingLabel.Location = new Point(179, 46);
+            headingLabel.Font = new Font("Times New Roman", 9.75F, FontStyle.Bold);
+            headingLabel.Location = new Point(157, 34);
             headingLabel.Name = "headingLabel";
-            headingLabel.Size = new Size(185, 20);
+            headingLabel.Size = new Size(150, 15);
             headingLabel.TabIndex = 0;
             headingLabel.Text = "Enter a distance to convert";
             // 
             // distanceTextbox
             // 
-            distanceTextbox.Location = new Point(437, 43);
+            distanceTextbox.Font = new Font("Times New Roman", 9.75F, FontStyle.Bold);
+            distanceTextbox.Location = new Point(382, 32);
+            distanceTextbox.Margin = new Padding(3, 2, 3, 2);
             distanceTextbox.Name = "distanceTextbox";
-            distanceTextbox.Size = new Size(125, 27);
-            distanceTextbox.TabIndex = 1;
+            distanceTextbox.Size = new Size(110, 22);
+            distanceTextbox.TabIndex = 0;
             // 
             // groupBox1
             // 
             groupBox1.Controls.Add(fromListbox);
-            groupBox1.Location = new Point(114, 108);
+            groupBox1.Font = new Font("Times New Roman", 9.75F, FontStyle.Bold);
+            groupBox1.Location = new Point(100, 81);
+            groupBox1.Margin = new Padding(3, 2, 3, 2);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(250, 136);
-            groupBox1.TabIndex = 2;
+            groupBox1.Padding = new Padding(3, 2, 3, 2);
+            groupBox1.Size = new Size(219, 102);
+            groupBox1.TabIndex = 1;
             groupBox1.TabStop = false;
             groupBox1.Text = "From";
             // 
             // fromListbox
             // 
             fromListbox.FormattingEnabled = true;
+            fromListbox.ItemHeight = 15;
             fromListbox.Items.AddRange(new object[] { "Inches", "Feet", "Yards" });
-            fromListbox.Location = new Point(42, 28);
+            fromListbox.Location = new Point(37, 21);
+            fromListbox.Margin = new Padding(3, 2, 3, 2);
             fromListbox.Name = "fromListbox";
-            fromListbox.Size = new Size(166, 64);
+            fromListbox.Size = new Size(146, 49);
             fromListbox.TabIndex = 0;
             // 
             // groupBox2
             // 
             groupBox2.Controls.Add(toListbox);
-            groupBox2.Location = new Point(437, 108);
+            groupBox2.Font = new Font("Times New Roman", 9.75F, FontStyle.Bold);
+            groupBox2.Location = new Point(382, 81);
+            groupBox2.Margin = new Padding(3, 2, 3, 2);
             groupBox2.Name = "groupBox2";
-            groupBox2.Size = new Size(250, 136);
+            groupBox2.Padding = new Padding(3, 2, 3, 2);
+            groupBox2.Size = new Size(219, 102);
             groupBox2.TabIndex = 2;
             groupBox2.TabStop = false;
             groupBox2.Text = "To";
@@ -90,56 +104,80 @@
             // toListbox
             // 
             toListbox.FormattingEnabled = true;
+            toListbox.ItemHeight = 15;
             toListbox.Items.AddRange(new object[] { "Inches", "Feet", "Yards" });
-            toListbox.Location = new Point(42, 28);
+            toListbox.Location = new Point(37, 21);
+            toListbox.Margin = new Padding(3, 2, 3, 2);
             toListbox.Name = "toListbox";
-            toListbox.Size = new Size(166, 64);
+            toListbox.Size = new Size(146, 49);
             toListbox.TabIndex = 0;
             // 
             // subHeadingLabel
             // 
             subHeadingLabel.AutoSize = true;
-            subHeadingLabel.Location = new Point(226, 296);
+            subHeadingLabel.Font = new Font("Times New Roman", 9.75F, FontStyle.Bold);
+            subHeadingLabel.Location = new Point(198, 222);
             subHeadingLabel.Name = "subHeadingLabel";
-            subHeadingLabel.Size = new Size(138, 20);
+            subHeadingLabel.Size = new Size(113, 15);
             subHeadingLabel.TabIndex = 0;
             subHeadingLabel.Text = "Converted Distance";
             // 
             // convertedLabel
             // 
             convertedLabel.BorderStyle = BorderStyle.FixedSingle;
-            convertedLabel.Location = new Point(437, 284);
+            convertedLabel.Font = new Font("Times New Roman", 9.75F, FontStyle.Bold);
+            convertedLabel.Location = new Point(382, 213);
             convertedLabel.Name = "convertedLabel";
-            convertedLabel.Size = new Size(179, 32);
+            convertedLabel.Size = new Size(157, 24);
             convertedLabel.TabIndex = 0;
+            convertedLabel.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // convertButton
             // 
-            convertButton.Location = new Point(270, 382);
+            convertButton.Font = new Font("Times New Roman", 9.75F, FontStyle.Bold);
+            convertButton.Location = new Point(211, 286);
+            convertButton.Margin = new Padding(3, 2, 3, 2);
             convertButton.Name = "convertButton";
-            convertButton.Size = new Size(94, 29);
+            convertButton.Size = new Size(82, 22);
             convertButton.TabIndex = 3;
-            convertButton.Text = "Convert";
+            convertButton.Text = "&Convert";
+            toolTip1.SetToolTip(convertButton, "press to convert distance");
             convertButton.UseVisualStyleBackColor = true;
             convertButton.Click += convertButton_Click;
             // 
             // exitButton
             // 
-            exitButton.Location = new Point(437, 382);
+            exitButton.Font = new Font("Times New Roman", 9.75F, FontStyle.Bold);
+            exitButton.Location = new Point(407, 286);
+            exitButton.Margin = new Padding(3, 2, 3, 2);
             exitButton.Name = "exitButton";
-            exitButton.Size = new Size(94, 29);
-            exitButton.TabIndex = 3;
-            exitButton.Text = "Exit";
+            exitButton.Size = new Size(82, 22);
+            exitButton.TabIndex = 4;
+            exitButton.Text = "E&xit";
+            toolTip1.SetToolTip(exitButton, "press to exit the form");
             exitButton.UseVisualStyleBackColor = true;
             exitButton.Click += exitButton_Click;
+            // 
+            // clearButton
+            // 
+            clearButton.Font = new Font("Times New Roman", 9.75F, FontStyle.Bold);
+            clearButton.Location = new Point(313, 286);
+            clearButton.Name = "clearButton";
+            clearButton.Size = new Size(75, 23);
+            clearButton.TabIndex = 5;
+            clearButton.Text = "C&lear";
+            toolTip1.SetToolTip(clearButton, "press to clear the form");
+            clearButton.UseVisualStyleBackColor = true;
+            clearButton.Click += clearButton_Click;
             // 
             // Form1
             // 
             AcceptButton = convertButton;
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             CancelButton = exitButton;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(700, 338);
+            Controls.Add(clearButton);
             Controls.Add(exitButton);
             Controls.Add(convertButton);
             Controls.Add(groupBox2);
@@ -148,9 +186,10 @@
             Controls.Add(convertedLabel);
             Controls.Add(subHeadingLabel);
             Controls.Add(headingLabel);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Distance Converter";
+            Text = "Shawn Conboy Chapter 4 Distance Converter";
             groupBox1.ResumeLayout(false);
             groupBox2.ResumeLayout(false);
             ResumeLayout(false);
@@ -169,5 +208,7 @@
         private Label convertedLabel;
         private Button convertButton;
         private Button exitButton;
+        private Button clearButton;
+        private ToolTip toolTip1;
     }
 }
