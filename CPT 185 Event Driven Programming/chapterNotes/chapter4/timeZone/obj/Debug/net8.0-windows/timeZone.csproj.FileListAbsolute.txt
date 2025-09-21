@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\timeZone\bin\Debug\net8.0-windows\timeZone.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\timeZone\bin\Debug\net8.0-windows\timeZone.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\timeZone\bin\Debug\net8.0-windows\timeZone.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\timeZone\bin\Debug\net8.0-windows\timeZone.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\timeZone\bin\Debug\net8.0-windows\timeZone.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\timeZone\obj\Debug\net8.0-windows\timeZone.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\timeZone\obj\Debug\net8.0-windows\timeZone.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\timeZone\obj\Debug\net8.0-windows\timeZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\timeZone\obj\Debug\net8.0-windows\timeZone.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\timeZone\obj\Debug\net8.0-windows\timeZone.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\timeZone\obj\Debug\net8.0-windows\timeZone.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\timeZone\obj\Debug\net8.0-windows\timeZone.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\timeZone\obj\Debug\net8.0-windows\timeZone.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\timeZone\obj\Debug\net8.0-windows\refint\timeZone.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\timeZone\obj\Debug\net8.0-windows\timeZone.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\timeZone\obj\Debug\net8.0-windows\timeZone.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\timeZone\obj\Debug\net8.0-windows\ref\timeZone.dll
