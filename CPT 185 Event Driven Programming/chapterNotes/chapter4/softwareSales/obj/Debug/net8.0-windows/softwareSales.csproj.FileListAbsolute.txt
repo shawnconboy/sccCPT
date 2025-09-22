@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\softwareSales\bin\Debug\net8.0-windows\softwareSales.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\softwareSales\bin\Debug\net8.0-windows\softwareSales.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\softwareSales\bin\Debug\net8.0-windows\softwareSales.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\softwareSales\bin\Debug\net8.0-windows\softwareSales.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\softwareSales\bin\Debug\net8.0-windows\softwareSales.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\softwareSales\obj\Debug\net8.0-windows\softwareSales.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\softwareSales\obj\Debug\net8.0-windows\softwareSales.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\softwareSales\obj\Debug\net8.0-windows\softwareSales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\softwareSales\obj\Debug\net8.0-windows\softwareSales.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\softwareSales\obj\Debug\net8.0-windows\softwareSales.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\softwareSales\obj\Debug\net8.0-windows\softwareSales.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\softwareSales\obj\Debug\net8.0-windows\softwareSales.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\softwareSales\obj\Debug\net8.0-windows\softwareSales.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\softwareSales\obj\Debug\net8.0-windows\refint\softwareSales.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\softwareSales\obj\Debug\net8.0-windows\softwareSales.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\softwareSales\obj\Debug\net8.0-windows\softwareSales.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter4\softwareSales\obj\Debug\net8.0-windows\ref\softwareSales.dll
