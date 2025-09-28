@@ -27,7 +27,7 @@
           ]
         },
         {
-          "DockedWidth": 233,
+          "DockedWidth": 293,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -40,23 +40,29 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest1\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAYwGsAAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T15:29:07.909Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest1\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T14:31:29.336Z",
+              "WhenOpened": "2025-09-23T15:34:26.751Z",
               "EditorCaption": " [Design]"
             }
           ]
