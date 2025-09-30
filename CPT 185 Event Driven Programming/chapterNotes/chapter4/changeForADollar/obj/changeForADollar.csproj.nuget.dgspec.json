@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\changeForADollar.csproj": {}
+    "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\changeForADollar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\changeForADollar.csproj": {
+    "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\changeForADollar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\changeForADollar.csproj",
+        "projectUniqueName": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\changeForADollar.csproj",
         "projectName": "changeForADollar",
-        "projectPath": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\changeForADollar.csproj",
-        "packagesPath": "C:\\Users\\Shawn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\obj\\",
+        "projectPath": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\changeForADollar.csproj",
+        "packagesPath": "C:\\Users\\shawn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Shawn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shawn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
