@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\",
+  "WorkspaceRootPath": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\",
   "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{0E3B5DC4-B4A2-4920-9FA8-3EF925A9064C}|changeForADollar.csproj|c:\\users\\shawn\\documents\\scccpt\\cpt 185 event driven programming\\chapternotes\\chapter4\\changeforadollar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0E3B5DC4-B4A2-4920-9FA8-3EF925A9064C}|changeForADollar.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
     {
       "AbsoluteMoniker": "D:0:0:{0E3B5DC4-B4A2-4920-9FA8-3EF925A9064C}|changeForADollar.csproj|c:\\users\\shawn\\documents\\scccpt\\cpt 185 event driven programming\\chapternotes\\chapter4\\changeforadollar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E3B5DC4-B4A2-4920-9FA8-3EF925A9064C}|changeForADollar.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3B5DC4-B4A2-4920-9FA8-3EF925A9064C}|changeForADollar.csproj|c:\\users\\shawn\\documents\\scccpt\\cpt 185 event driven programming\\chapternotes\\chapter4\\changeforadollar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E3B5DC4-B4A2-4920-9FA8-3EF925A9064C}|changeForADollar.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,11 +36,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\Form1.cs",
+              "ToolTip": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAADfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,11 +55,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter4\\changeForADollar\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T05:44:34.375Z",

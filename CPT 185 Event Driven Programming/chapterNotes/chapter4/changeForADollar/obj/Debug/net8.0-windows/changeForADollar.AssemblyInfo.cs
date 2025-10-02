@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("changeForADollar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ba9a28b5d4abef79962b538f760e91de22ca523")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e77a42af81c2675024f77e8e39f1e6755de33c48")]
 [assembly: System.Reflection.AssemblyProductAttribute("changeForADollar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("changeForADollar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
