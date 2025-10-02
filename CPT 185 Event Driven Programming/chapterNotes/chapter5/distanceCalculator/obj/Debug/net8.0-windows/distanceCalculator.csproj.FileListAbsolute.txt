@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\distanceCalculator\bin\Debug\net8.0-windows\distanceCalculator.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\distanceCalculator\bin\Debug\net8.0-windows\distanceCalculator.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\distanceCalculator\bin\Debug\net8.0-windows\distanceCalculator.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\distanceCalculator\bin\Debug\net8.0-windows\distanceCalculator.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\distanceCalculator\bin\Debug\net8.0-windows\distanceCalculator.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\distanceCalculator\obj\Debug\net8.0-windows\distanceCalculator.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\distanceCalculator\obj\Debug\net8.0-windows\distanceCalculator.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\distanceCalculator\obj\Debug\net8.0-windows\distanceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\distanceCalculator\obj\Debug\net8.0-windows\distanceCalculator.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\distanceCalculator\obj\Debug\net8.0-windows\distanceCalculator.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\distanceCalculator\obj\Debug\net8.0-windows\distanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\distanceCalculator\obj\Debug\net8.0-windows\distanceCalculator.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\distanceCalculator\obj\Debug\net8.0-windows\distanceCalculator.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\distanceCalculator\obj\Debug\net8.0-windows\refint\distanceCalculator.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\distanceCalculator\obj\Debug\net8.0-windows\distanceCalculator.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\distanceCalculator\obj\Debug\net8.0-windows\distanceCalculator.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\distanceCalculator\obj\Debug\net8.0-windows\ref\distanceCalculator.dll
