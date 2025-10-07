@@ -1,0 +1,17 @@
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\penniesForPay\bin\Debug\net8.0-windows\penniesForPay.exe
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\penniesForPay\bin\Debug\net8.0-windows\penniesForPay.deps.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\penniesForPay\bin\Debug\net8.0-windows\penniesForPay.runtimeconfig.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\penniesForPay\bin\Debug\net8.0-windows\penniesForPay.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\penniesForPay\bin\Debug\net8.0-windows\penniesForPay.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\penniesForPay\obj\Debug\net8.0-windows\penniesForPay.Form1.resources
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\penniesForPay\obj\Debug\net8.0-windows\penniesForPay.csproj.GenerateResource.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\penniesForPay\obj\Debug\net8.0-windows\penniesForPay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\penniesForPay\obj\Debug\net8.0-windows\penniesForPay.AssemblyInfoInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\penniesForPay\obj\Debug\net8.0-windows\penniesForPay.AssemblyInfo.cs
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\penniesForPay\obj\Debug\net8.0-windows\penniesForPay.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\penniesForPay\obj\Debug\net8.0-windows\penniesForPay.sourcelink.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\penniesForPay\obj\Debug\net8.0-windows\penniesForPay.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\penniesForPay\obj\Debug\net8.0-windows\refint\penniesForPay.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\penniesForPay\obj\Debug\net8.0-windows\penniesForPay.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\penniesForPay\obj\Debug\net8.0-windows\penniesForPay.genruntimeconfig.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\penniesForPay\obj\Debug\net8.0-windows\ref\penniesForPay.dll

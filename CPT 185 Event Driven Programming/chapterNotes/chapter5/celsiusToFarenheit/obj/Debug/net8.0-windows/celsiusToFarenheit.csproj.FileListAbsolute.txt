@@ -1,0 +1,17 @@
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\celsiusToFarenheit\bin\Debug\net8.0-windows\celsiusToFarenheit.exe
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\celsiusToFarenheit\bin\Debug\net8.0-windows\celsiusToFarenheit.deps.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\celsiusToFarenheit\bin\Debug\net8.0-windows\celsiusToFarenheit.runtimeconfig.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\celsiusToFarenheit\bin\Debug\net8.0-windows\celsiusToFarenheit.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\celsiusToFarenheit\bin\Debug\net8.0-windows\celsiusToFarenheit.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\celsiusToFarenheit\obj\Debug\net8.0-windows\celsiusToFarenheit.Form1.resources
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\celsiusToFarenheit\obj\Debug\net8.0-windows\celsiusToFarenheit.csproj.GenerateResource.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\celsiusToFarenheit\obj\Debug\net8.0-windows\celsiusToFarenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\celsiusToFarenheit\obj\Debug\net8.0-windows\celsiusToFarenheit.AssemblyInfoInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\celsiusToFarenheit\obj\Debug\net8.0-windows\celsiusToFarenheit.AssemblyInfo.cs
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\celsiusToFarenheit\obj\Debug\net8.0-windows\celsiusToFarenheit.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\celsiusToFarenheit\obj\Debug\net8.0-windows\celsiusToFarenheit.sourcelink.json
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\celsiusToFarenheit\obj\Debug\net8.0-windows\celsiusToFarenheit.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\celsiusToFarenheit\obj\Debug\net8.0-windows\refint\celsiusToFarenheit.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\celsiusToFarenheit\obj\Debug\net8.0-windows\celsiusToFarenheit.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\celsiusToFarenheit\obj\Debug\net8.0-windows\celsiusToFarenheit.genruntimeconfig.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\celsiusToFarenheit\obj\Debug\net8.0-windows\ref\celsiusToFarenheit.dll
