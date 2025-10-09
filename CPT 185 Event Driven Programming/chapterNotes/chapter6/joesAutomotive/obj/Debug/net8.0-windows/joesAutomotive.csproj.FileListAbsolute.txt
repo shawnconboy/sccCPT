@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\joesAutomotive\obj\Debug\net8.0-windows\joesAutomotive.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\joesAutomotive\obj\Debug\net8.0-windows\joesAutomotive.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\joesAutomotive\obj\Debug\net8.0-windows\joesAutomotive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\joesAutomotive\obj\Debug\net8.0-windows\joesAutomotive.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\joesAutomotive\obj\Debug\net8.0-windows\joesAutomotive.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\joesAutomotive\obj\Debug\net8.0-windows\joesAutomotive.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\joesAutomotive\obj\Debug\net8.0-windows\joesAutomotive.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\joesAutomotive\bin\Debug\net8.0-windows\joesAutomotive.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\joesAutomotive\bin\Debug\net8.0-windows\joesAutomotive.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\joesAutomotive\bin\Debug\net8.0-windows\joesAutomotive.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\joesAutomotive\bin\Debug\net8.0-windows\joesAutomotive.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\joesAutomotive\bin\Debug\net8.0-windows\joesAutomotive.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\joesAutomotive\obj\Debug\net8.0-windows\joesAutomotive.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\joesAutomotive\obj\Debug\net8.0-windows\refint\joesAutomotive.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\joesAutomotive\obj\Debug\net8.0-windows\joesAutomotive.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\joesAutomotive\obj\Debug\net8.0-windows\joesAutomotive.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\joesAutomotive\obj\Debug\net8.0-windows\ref\joesAutomotive.dll
