@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\tuitionCalculator\bin\Debug\net8.0-windows\tuitionCalculator.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\tuitionCalculator\bin\Debug\net8.0-windows\tuitionCalculator.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\tuitionCalculator\bin\Debug\net8.0-windows\tuitionCalculator.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\tuitionCalculator\bin\Debug\net8.0-windows\tuitionCalculator.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\tuitionCalculator\bin\Debug\net8.0-windows\tuitionCalculator.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\tuitionCalculator\obj\Debug\net8.0-windows\tuitionCalculator.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\tuitionCalculator\obj\Debug\net8.0-windows\tuitionCalculator.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\tuitionCalculator\obj\Debug\net8.0-windows\tuitionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\tuitionCalculator\obj\Debug\net8.0-windows\tuitionCalculator.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\tuitionCalculator\obj\Debug\net8.0-windows\tuitionCalculator.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\tuitionCalculator\obj\Debug\net8.0-windows\tuitionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\tuitionCalculator\obj\Debug\net8.0-windows\tuitionCalculator.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\tuitionCalculator\obj\Debug\net8.0-windows\tuitionCalculator.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\tuitionCalculator\obj\Debug\net8.0-windows\refint\tuitionCalculator.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\tuitionCalculator\obj\Debug\net8.0-windows\tuitionCalculator.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\tuitionCalculator\obj\Debug\net8.0-windows\tuitionCalculator.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\tuitionCalculator\obj\Debug\net8.0-windows\ref\tuitionCalculator.dll

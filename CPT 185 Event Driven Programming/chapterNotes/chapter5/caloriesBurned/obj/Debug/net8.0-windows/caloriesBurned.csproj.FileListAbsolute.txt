@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\caloriesBurned\obj\Debug\net8.0-windows\caloriesBurned.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\caloriesBurned\obj\Debug\net8.0-windows\caloriesBurned.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\caloriesBurned\obj\Debug\net8.0-windows\caloriesBurned.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\caloriesBurned\obj\Debug\net8.0-windows\caloriesBurned.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\caloriesBurned\obj\Debug\net8.0-windows\caloriesBurned.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\caloriesBurned\obj\Debug\net8.0-windows\caloriesBurned.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\caloriesBurned\obj\Debug\net8.0-windows\caloriesBurned.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\caloriesBurned\bin\Debug\net8.0-windows\caloriesBurned.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\caloriesBurned\bin\Debug\net8.0-windows\caloriesBurned.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\caloriesBurned\bin\Debug\net8.0-windows\caloriesBurned.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\caloriesBurned\bin\Debug\net8.0-windows\caloriesBurned.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\caloriesBurned\bin\Debug\net8.0-windows\caloriesBurned.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\caloriesBurned\obj\Debug\net8.0-windows\caloriesBurned.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\caloriesBurned\obj\Debug\net8.0-windows\refint\caloriesBurned.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\caloriesBurned\obj\Debug\net8.0-windows\caloriesBurned.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\caloriesBurned\obj\Debug\net8.0-windows\caloriesBurned.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter5\caloriesBurned\obj\Debug\net8.0-windows\ref\caloriesBurned.dll

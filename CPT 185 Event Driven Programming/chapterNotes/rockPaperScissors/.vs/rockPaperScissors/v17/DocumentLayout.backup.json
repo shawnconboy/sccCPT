@@ -30,9 +30,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\rockPaperScissors\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\rockPaperScissors\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAApwDwAAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\rockPaperScissors\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T15:59:46.888Z",
               "EditorCaption": ""
@@ -41,29 +41,23 @@
         },
         {
           "DockedWidth": 237,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\rockPaperScissors\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\rockPaperScissors\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\rockPaperScissors\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T15:52:38.991Z",
               "EditorCaption": " [Design]"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 153,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

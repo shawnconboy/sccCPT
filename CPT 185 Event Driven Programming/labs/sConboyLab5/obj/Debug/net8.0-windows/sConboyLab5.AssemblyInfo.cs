@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sConboyLab5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f1231f85c5bf9fc4c147dadbbd9e232b65c165a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+958a73142a645ce15249e0a39bc0bd0977bc3d8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("sConboyLab5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sConboyLab5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

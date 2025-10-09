@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest1\\sConboyTest1.csproj": {}
+    "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest1\\sConboyTest1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest1\\sConboyTest1.csproj": {
+    "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest1\\sConboyTest1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest1\\sConboyTest1.csproj",
+        "projectUniqueName": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest1\\sConboyTest1.csproj",
         "projectName": "sConboyTest1",
-        "projectPath": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest1\\sConboyTest1.csproj",
-        "packagesPath": "C:\\Users\\Shawn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest1\\obj\\",
+        "projectPath": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest1\\sConboyTest1.csproj",
+        "packagesPath": "C:\\Users\\shawn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Shawn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shawn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
