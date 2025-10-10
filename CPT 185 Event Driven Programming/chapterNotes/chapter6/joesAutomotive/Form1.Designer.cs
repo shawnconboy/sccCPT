@@ -79,7 +79,7 @@
             lubeJobCheckbox.Location = new Point(6, 47);
             lubeJobCheckbox.Name = "lubeJobCheckbox";
             lubeJobCheckbox.Size = new Size(117, 19);
-            lubeJobCheckbox.TabIndex = 0;
+            lubeJobCheckbox.TabIndex = 1;
             lubeJobCheckbox.Text = "Lube Job ($18.00)";
             lubeJobCheckbox.UseVisualStyleBackColor = true;
             // 
@@ -100,7 +100,7 @@
             groupBox2.Location = new Point(298, 92);
             groupBox2.Name = "groupBox2";
             groupBox2.Size = new Size(200, 100);
-            groupBox2.TabIndex = 0;
+            groupBox2.TabIndex = 2;
             groupBox2.TabStop = false;
             groupBox2.Text = "Flushes";
             // 
@@ -110,7 +110,7 @@
             transmissionCheckbox.Location = new Point(6, 47);
             transmissionCheckbox.Name = "transmissionCheckbox";
             transmissionCheckbox.Size = new Size(170, 19);
-            transmissionCheckbox.TabIndex = 0;
+            transmissionCheckbox.TabIndex = 1;
             transmissionCheckbox.Text = "Transmission Flush ($80.00)";
             transmissionCheckbox.UseVisualStyleBackColor = true;
             // 
@@ -132,7 +132,7 @@
             groupBox3.Location = new Point(65, 212);
             groupBox3.Name = "groupBox3";
             groupBox3.Size = new Size(200, 100);
-            groupBox3.TabIndex = 0;
+            groupBox3.TabIndex = 1;
             groupBox3.TabStop = false;
             groupBox3.Text = "Misc";
             // 
@@ -142,7 +142,7 @@
             tireRotationCheckbox.Location = new Point(6, 72);
             tireRotationCheckbox.Name = "tireRotationCheckbox";
             tireRotationCheckbox.Size = new Size(138, 19);
-            tireRotationCheckbox.TabIndex = 0;
+            tireRotationCheckbox.TabIndex = 2;
             tireRotationCheckbox.Text = "Tire Rotation ($20.00)";
             tireRotationCheckbox.UseVisualStyleBackColor = true;
             // 
@@ -152,7 +152,7 @@
             replaceMufflerCheckbox.Location = new Point(6, 47);
             replaceMufflerCheckbox.Name = "replaceMufflerCheckbox";
             replaceMufflerCheckbox.Size = new Size(159, 19);
-            replaceMufflerCheckbox.TabIndex = 0;
+            replaceMufflerCheckbox.TabIndex = 1;
             replaceMufflerCheckbox.Text = "Replace Muffler ($100.00)";
             replaceMufflerCheckbox.UseVisualStyleBackColor = true;
             // 
@@ -175,7 +175,7 @@
             groupBox4.Location = new Point(298, 212);
             groupBox4.Name = "groupBox4";
             groupBox4.Size = new Size(200, 100);
-            groupBox4.TabIndex = 0;
+            groupBox4.TabIndex = 3;
             groupBox4.TabStop = false;
             groupBox4.Text = "Parts and Labor";
             // 
@@ -200,7 +200,7 @@
             partsTextbox.Location = new Point(112, 22);
             partsTextbox.Name = "partsTextbox";
             partsTextbox.Size = new Size(64, 23);
-            partsTextbox.TabIndex = 1;
+            partsTextbox.TabIndex = 0;
             // 
             // label1
             // 
@@ -309,7 +309,7 @@
             calculateButton.Location = new Point(163, 561);
             calculateButton.Name = "calculateButton";
             calculateButton.Size = new Size(75, 23);
-            calculateButton.TabIndex = 1;
+            calculateButton.TabIndex = 4;
             calculateButton.Text = "Calculate";
             calculateButton.UseVisualStyleBackColor = true;
             calculateButton.Click += calculateButton_Click;
@@ -319,7 +319,7 @@
             clearButton.Location = new Point(244, 561);
             clearButton.Name = "clearButton";
             clearButton.Size = new Size(75, 23);
-            clearButton.TabIndex = 1;
+            clearButton.TabIndex = 5;
             clearButton.Text = "Clear";
             clearButton.UseVisualStyleBackColor = true;
             clearButton.Click += clearButton_Click;
@@ -329,7 +329,7 @@
             exitButton.Location = new Point(325, 561);
             exitButton.Name = "exitButton";
             exitButton.Size = new Size(75, 23);
-            exitButton.TabIndex = 1;
+            exitButton.TabIndex = 6;
             exitButton.Text = "Exit";
             exitButton.UseVisualStyleBackColor = true;
             exitButton.Click += exitButton_Click;

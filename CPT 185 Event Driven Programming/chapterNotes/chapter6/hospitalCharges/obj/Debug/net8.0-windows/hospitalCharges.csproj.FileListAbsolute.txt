@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\hospitalCharges\obj\Debug\net8.0-windows\hospitalCharges.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\hospitalCharges\obj\Debug\net8.0-windows\hospitalCharges.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\hospitalCharges\obj\Debug\net8.0-windows\hospitalCharges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\hospitalCharges\obj\Debug\net8.0-windows\hospitalCharges.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\hospitalCharges\obj\Debug\net8.0-windows\hospitalCharges.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\hospitalCharges\obj\Debug\net8.0-windows\hospitalCharges.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\hospitalCharges\obj\Debug\net8.0-windows\hospitalCharges.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\hospitalCharges\bin\Debug\net8.0-windows\hospitalCharges.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\hospitalCharges\bin\Debug\net8.0-windows\hospitalCharges.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\hospitalCharges\bin\Debug\net8.0-windows\hospitalCharges.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\hospitalCharges\bin\Debug\net8.0-windows\hospitalCharges.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\hospitalCharges\bin\Debug\net8.0-windows\hospitalCharges.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\hospitalCharges\obj\Debug\net8.0-windows\hospitalCharges.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\hospitalCharges\obj\Debug\net8.0-windows\refint\hospitalCharges.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\hospitalCharges\obj\Debug\net8.0-windows\hospitalCharges.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\hospitalCharges\obj\Debug\net8.0-windows\hospitalCharges.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter6\hospitalCharges\obj\Debug\net8.0-windows\ref\hospitalCharges.dll
