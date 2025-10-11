@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\totalSales\bin\Debug\net8.0-windows\totalSales.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\totalSales\bin\Debug\net8.0-windows\totalSales.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\totalSales\bin\Debug\net8.0-windows\totalSales.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\totalSales\bin\Debug\net8.0-windows\totalSales.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\totalSales\bin\Debug\net8.0-windows\totalSales.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\totalSales\obj\Debug\net8.0-windows\totalSales.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\totalSales\obj\Debug\net8.0-windows\totalSales.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\totalSales\obj\Debug\net8.0-windows\totalSales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\totalSales\obj\Debug\net8.0-windows\totalSales.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\totalSales\obj\Debug\net8.0-windows\totalSales.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\totalSales\obj\Debug\net8.0-windows\totalSales.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\totalSales\obj\Debug\net8.0-windows\totalSales.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\totalSales\obj\Debug\net8.0-windows\totalSales.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\totalSales\obj\Debug\net8.0-windows\refint\totalSales.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\totalSales\obj\Debug\net8.0-windows\totalSales.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\totalSales\obj\Debug\net8.0-windows\totalSales.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\totalSales\obj\Debug\net8.0-windows\ref\totalSales.dll
