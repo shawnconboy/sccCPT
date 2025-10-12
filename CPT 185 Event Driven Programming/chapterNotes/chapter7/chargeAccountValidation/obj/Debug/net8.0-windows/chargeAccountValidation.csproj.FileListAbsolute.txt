@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\chargeAccountValidation\bin\Debug\net8.0-windows\chargeAccountValidation.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\chargeAccountValidation\bin\Debug\net8.0-windows\chargeAccountValidation.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\chargeAccountValidation\bin\Debug\net8.0-windows\chargeAccountValidation.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\chargeAccountValidation\bin\Debug\net8.0-windows\chargeAccountValidation.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\chargeAccountValidation\bin\Debug\net8.0-windows\chargeAccountValidation.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\chargeAccountValidation\obj\Debug\net8.0-windows\chargeAccountValidation.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\chargeAccountValidation\obj\Debug\net8.0-windows\chargeAccountValidation.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\chargeAccountValidation\obj\Debug\net8.0-windows\chargeAccountValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\chargeAccountValidation\obj\Debug\net8.0-windows\chargeAccountValidation.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\chargeAccountValidation\obj\Debug\net8.0-windows\chargeAccountValidation.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\chargeAccountValidation\obj\Debug\net8.0-windows\chargeAccountValidation.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\chargeAccountValidation\obj\Debug\net8.0-windows\chargeAccountValidation.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\chargeAccountValidation\obj\Debug\net8.0-windows\chargeAccountValidation.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\chargeAccountValidation\obj\Debug\net8.0-windows\refint\chargeAccountValidation.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\chargeAccountValidation\obj\Debug\net8.0-windows\chargeAccountValidation.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\chargeAccountValidation\obj\Debug\net8.0-windows\chargeAccountValidation.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\chargeAccountValidation\obj\Debug\net8.0-windows\ref\chargeAccountValidation.dll
