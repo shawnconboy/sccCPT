@@ -78,7 +78,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(232, 136);
+            label4.Location = new Point(232, 133);
             label4.Name = "label4";
             label4.Size = new Size(76, 15);
             label4.TabIndex = 2;
@@ -87,7 +87,7 @@
             // lowScoreLabel
             // 
             lowScoreLabel.BorderStyle = BorderStyle.FixedSingle;
-            lowScoreLabel.Location = new Point(346, 135);
+            lowScoreLabel.Location = new Point(346, 132);
             lowScoreLabel.Name = "lowScoreLabel";
             lowScoreLabel.Size = new Size(51, 19);
             lowScoreLabel.TabIndex = 2;
@@ -131,8 +131,10 @@
             // 
             // Form1
             // 
+            AcceptButton = getScoresButton;
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            CancelButton = exitButton;
             ClientSize = new Size(469, 343);
             Controls.Add(exitButton);
             Controls.Add(getScoresButton);
@@ -145,6 +147,7 @@
             Controls.Add(testScoresListbox);
             Controls.Add(label1);
             Name = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
             ResumeLayout(false);
             PerformLayout();
