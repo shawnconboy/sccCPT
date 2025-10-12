@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\writeArrayToFile\bin\Debug\net8.0-windows\writeArrayToFile.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\writeArrayToFile\bin\Debug\net8.0-windows\writeArrayToFile.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\writeArrayToFile\bin\Debug\net8.0-windows\writeArrayToFile.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\writeArrayToFile\bin\Debug\net8.0-windows\writeArrayToFile.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\writeArrayToFile\bin\Debug\net8.0-windows\writeArrayToFile.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\writeArrayToFile\obj\Debug\net8.0-windows\writeArrayToFile.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\writeArrayToFile\obj\Debug\net8.0-windows\writeArrayToFile.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\writeArrayToFile\obj\Debug\net8.0-windows\writeArrayToFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\writeArrayToFile\obj\Debug\net8.0-windows\writeArrayToFile.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\writeArrayToFile\obj\Debug\net8.0-windows\writeArrayToFile.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\writeArrayToFile\obj\Debug\net8.0-windows\writeArrayToFile.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\writeArrayToFile\obj\Debug\net8.0-windows\writeArrayToFile.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\writeArrayToFile\obj\Debug\net8.0-windows\writeArrayToFile.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\writeArrayToFile\obj\Debug\net8.0-windows\refint\writeArrayToFile.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\writeArrayToFile\obj\Debug\net8.0-windows\writeArrayToFile.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\writeArrayToFile\obj\Debug\net8.0-windows\writeArrayToFile.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\writeArrayToFile\obj\Debug\net8.0-windows\ref\writeArrayToFile.dll

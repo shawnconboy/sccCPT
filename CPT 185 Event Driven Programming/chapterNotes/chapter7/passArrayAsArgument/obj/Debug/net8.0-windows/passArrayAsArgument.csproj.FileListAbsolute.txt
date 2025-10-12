@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\passArrayAsArgument\obj\Debug\net8.0-windows\passArrayAsArgument.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\passArrayAsArgument\obj\Debug\net8.0-windows\passArrayAsArgument.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\passArrayAsArgument\obj\Debug\net8.0-windows\passArrayAsArgument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\passArrayAsArgument\obj\Debug\net8.0-windows\passArrayAsArgument.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\passArrayAsArgument\obj\Debug\net8.0-windows\passArrayAsArgument.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\passArrayAsArgument\obj\Debug\net8.0-windows\passArrayAsArgument.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\passArrayAsArgument\obj\Debug\net8.0-windows\passArrayAsArgument.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\passArrayAsArgument\bin\Debug\net8.0-windows\passArrayAsArgument.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\passArrayAsArgument\bin\Debug\net8.0-windows\passArrayAsArgument.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\passArrayAsArgument\bin\Debug\net8.0-windows\passArrayAsArgument.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\passArrayAsArgument\bin\Debug\net8.0-windows\passArrayAsArgument.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\passArrayAsArgument\bin\Debug\net8.0-windows\passArrayAsArgument.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\passArrayAsArgument\obj\Debug\net8.0-windows\passArrayAsArgument.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\passArrayAsArgument\obj\Debug\net8.0-windows\refint\passArrayAsArgument.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\passArrayAsArgument\obj\Debug\net8.0-windows\passArrayAsArgument.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\passArrayAsArgument\obj\Debug\net8.0-windows\passArrayAsArgument.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\passArrayAsArgument\obj\Debug\net8.0-windows\ref\passArrayAsArgument.dll

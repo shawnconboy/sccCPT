@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "writeArrayToFile/1.0.0": {
+        "runtime": {
+          "writeArrayToFile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "writeArrayToFile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
