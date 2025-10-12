@@ -18,6 +18,10 @@ namespace totalSales
 
                 int index = 0;
 
+
+                // _______________________________________________________
+                // pull data from file
+
                 StreamReader inputFile;
 
                 inputFile = File.OpenText("Sales.txt");
@@ -30,19 +34,66 @@ namespace totalSales
 
                 inputFile.Close();
 
-                foreach (int value in sales)
+                // _______________________________________________________
+
+
+                // for each element in the "sales" array, do code in block
+                foreach (double value in sales)
                 {
                     salesListbox.Items.Add(value);
                 }
+
+
+                // add all elements to find total of all sales
+                double totalSales = 0;
+
+                for (int i = 0; i < sales.Length; i++)
+                {
+                    totalSales += sales[i];
+                }
+
+                salesTotalLabel.Text = totalSales.ToString("c");
+
+                // create average of all values in array
+
+                double average = totalSales / salesListbox.Items.Count;
+
+                averageLabel.Text = average.ToString("c");
+
+                // find the largest value
+
+                double largest = sales[0];
+
+                for (int i = 0; i < sales.Length; i++)
+                {
+                    if (sales[i] > largest)
+                    {
+                        largest = sales[i];
+                    }
+                }
+
+                largestLabel.Text = largest.ToString("c");
+
+                // find the smallest value
+
+                double smallest = sales[0];
+
+                for (int i = 0; i < sales.Length; i++)
+                {
+                    if (sales[i] < smallest)
+                    {
+                        smallest = sales[i];
+                    }
+                }
+                
+                smallestLabel.Text = smallest.ToString("c");
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
             }
 
-
             // calculate total for all elements in array
-
             // display total to user
         }
     }
