@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\sConboyArraysLab\bin\Debug\net8.0-windows\sConboyArraysLab.exe
+C:\Users\shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\sConboyArraysLab\bin\Debug\net8.0-windows\sConboyArraysLab.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\sConboyArraysLab\bin\Debug\net8.0-windows\sConboyArraysLab.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\sConboyArraysLab\bin\Debug\net8.0-windows\sConboyArraysLab.dll
+C:\Users\shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\sConboyArraysLab\bin\Debug\net8.0-windows\sConboyArraysLab.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\sConboyArraysLab\obj\Debug\net8.0-windows\sConboyArraysLab.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\sConboyArraysLab\obj\Debug\net8.0-windows\sConboyArraysLab.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\sConboyArraysLab\obj\Debug\net8.0-windows\sConboyArraysLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\sConboyArraysLab\obj\Debug\net8.0-windows\sConboyArraysLab.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\sConboyArraysLab\obj\Debug\net8.0-windows\sConboyArraysLab.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\sConboyArraysLab\obj\Debug\net8.0-windows\sConboyArraysLab.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\sConboyArraysLab\obj\Debug\net8.0-windows\sConboyArraysLab.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\sConboyArraysLab\obj\Debug\net8.0-windows\sConboyArraysLab.dll
+C:\Users\shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\sConboyArraysLab\obj\Debug\net8.0-windows\refint\sConboyArraysLab.dll
+C:\Users\shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\sConboyArraysLab\obj\Debug\net8.0-windows\sConboyArraysLab.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\sConboyArraysLab\obj\Debug\net8.0-windows\sConboyArraysLab.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\sConboyArraysLab\obj\Debug\net8.0-windows\ref\sConboyArraysLab.dll
