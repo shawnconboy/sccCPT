@@ -55,18 +55,23 @@ namespace sConboyLab7
                 }
                 else
                 {
+                    // add wrong to separate listbox
                     incorrect++;
-                    incorrectAnswer[i] = i.ToString();
+                    incorrectAnswerListbox.Items.Add((i + 1) + ".");
                 }
             }
 
-            // if computerAnswer == userAnswer
-            // correct ++
+            correctLabel.Text = correct.ToString();
+            wrongLabel.Text = incorrect.ToString();
 
-            // else
-            // incorrect ++
-            // incorrectAnswer.Items.Add()
-            // correct.
+            if (correct >= 15)
+            {
+                MessageBox.Show("Congrats. You passed!");
+            }
+            else
+            {
+                MessageBox.Show("Try harder bud.");
+            }
 
         }
     }
