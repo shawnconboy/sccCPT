@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             groupBox1 = new GroupBox();
             lubeJobCheckbox = new CheckBox();
             oilChangeCheckbox = new CheckBox();
@@ -55,6 +56,7 @@
             calculateButton = new Button();
             clearButton = new Button();
             exitButton = new Button();
+            toolTip1 = new ToolTip(components);
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
             groupBox3.SuspendLayout();
@@ -310,7 +312,8 @@
             calculateButton.Name = "calculateButton";
             calculateButton.Size = new Size(75, 23);
             calculateButton.TabIndex = 4;
-            calculateButton.Text = "Calculate";
+            calculateButton.Text = "&Calculate";
+            toolTip1.SetToolTip(calculateButton, "Press to see costs");
             calculateButton.UseVisualStyleBackColor = true;
             calculateButton.Click += calculateButton_Click;
             // 
@@ -320,7 +323,8 @@
             clearButton.Name = "clearButton";
             clearButton.Size = new Size(75, 23);
             clearButton.TabIndex = 5;
-            clearButton.Text = "Clear";
+            clearButton.Text = "C&lear";
+            toolTip1.SetToolTip(clearButton, "Press to clear form");
             clearButton.UseVisualStyleBackColor = true;
             clearButton.Click += clearButton_Click;
             // 
@@ -330,14 +334,17 @@
             exitButton.Name = "exitButton";
             exitButton.Size = new Size(75, 23);
             exitButton.TabIndex = 6;
-            exitButton.Text = "Exit";
+            exitButton.Text = "&Exit";
+            toolTip1.SetToolTip(exitButton, "Press to exit");
             exitButton.UseVisualStyleBackColor = true;
             exitButton.Click += exitButton_Click;
             // 
             // Form1
             // 
+            AcceptButton = calculateButton;
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            CancelButton = exitButton;
             ClientSize = new Size(562, 685);
             Controls.Add(exitButton);
             Controls.Add(clearButton);
@@ -349,7 +356,7 @@
             Controls.Add(groupBox1);
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Joes Automotive";
+            Text = "sConboyLab6 Joes Automotive";
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             groupBox2.ResumeLayout(false);
@@ -392,5 +399,6 @@
         private Button calculateButton;
         private Button clearButton;
         private Button exitButton;
+        private ToolTip toolTip1;
     }
 }

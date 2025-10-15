@@ -1,3 +1,6 @@
+//Shawn Conboy
+//CPT 185 A01H
+//Lab 6 Joes Automotive
 namespace joesAutomotive
 {
     public partial class Form1 : Form
