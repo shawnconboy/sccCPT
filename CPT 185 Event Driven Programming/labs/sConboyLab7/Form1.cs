@@ -12,17 +12,20 @@ namespace sConboyLab7
             // declaring and filling arrays
             int size = 20;
             int count = 0;
+            int correct = 0;
+            int incorrect = 0;
 
             char[] correctAnswer = ['B', 'D', 'A', 'A', 'C',
                                     'A', 'B', 'A', 'C', 'D',
                                     'B', 'C', 'D', 'A', 'D',
                                     'C', 'C', 'B', 'D', 'A'];
             char[] userAnswer = new char[size];
+            char[] incorrectAnswer = new char[size];
 
             // push correctAnswer elements into listbox
             for (int i = 0; i < correctAnswer.Length; i++)
             {
-                correctAnswerListbox.Items.Add((i+1) + ". " + correctAnswer[i]);
+                correctAnswerListbox.Items.Add((i + 1) + ". " + correctAnswer[i]);
             }
 
             // create streamreader object to import files
@@ -42,6 +45,27 @@ namespace sConboyLab7
             {
                 userAnswerListbox.Items.Add((i + 1) + ". " + userAnswer[i]);
             }
+
+            // compare right from wrong
+            for (int i = 0; i < userAnswer.Length; i++)
+            {
+                if (correctAnswer[i] == userAnswer[i])
+                {
+                    correct++;
+                }
+                else
+                {
+                    incorrect++;
+                    incorrectAnswer[i] = i.ToString();
+                }
+            }
+
+            // if computerAnswer == userAnswer
+            // correct ++
+
+            // else
+            // incorrect ++
+            // incorrectAnswer.Items.Add()
 
         }
     }
