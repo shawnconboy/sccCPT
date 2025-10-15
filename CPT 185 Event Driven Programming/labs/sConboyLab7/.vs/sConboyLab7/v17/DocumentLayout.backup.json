@@ -17,7 +17,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 724,
+          "DockedWidth": 798,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyLab7\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowEMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T14:20:41.477Z",
               "EditorCaption": ""
@@ -40,7 +40,7 @@
           ]
         },
         {
-          "DockedWidth": 724,
+          "DockedWidth": 650,
           "SelectedChildIndex": 1,
           "Children": [
             {
