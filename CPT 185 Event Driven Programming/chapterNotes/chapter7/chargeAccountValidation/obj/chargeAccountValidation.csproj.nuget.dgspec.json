@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter7\\chargeAccountValidation\\chargeAccountValidation.csproj": {}
+    "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter7\\chargeAccountValidation\\chargeAccountValidation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter7\\chargeAccountValidation\\chargeAccountValidation.csproj": {
+    "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter7\\chargeAccountValidation\\chargeAccountValidation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter7\\chargeAccountValidation\\chargeAccountValidation.csproj",
+        "projectUniqueName": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter7\\chargeAccountValidation\\chargeAccountValidation.csproj",
         "projectName": "chargeAccountValidation",
-        "projectPath": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter7\\chargeAccountValidation\\chargeAccountValidation.csproj",
-        "packagesPath": "C:\\Users\\shawn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter7\\chargeAccountValidation\\obj\\",
+        "projectPath": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter7\\chargeAccountValidation\\chargeAccountValidation.csproj",
+        "packagesPath": "C:\\Users\\Shawn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter7\\chargeAccountValidation\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\shawn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Shawn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

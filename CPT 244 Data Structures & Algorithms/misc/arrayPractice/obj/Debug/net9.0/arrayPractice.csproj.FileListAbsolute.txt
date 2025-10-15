@@ -1,0 +1,15 @@
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/misc/arrayPractice/bin/Debug/net9.0/arrayPractice
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/misc/arrayPractice/bin/Debug/net9.0/arrayPractice.deps.json
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/misc/arrayPractice/bin/Debug/net9.0/arrayPractice.runtimeconfig.json
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/misc/arrayPractice/bin/Debug/net9.0/arrayPractice.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/misc/arrayPractice/bin/Debug/net9.0/arrayPractice.pdb
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/misc/arrayPractice/obj/Debug/net9.0/arrayPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/misc/arrayPractice/obj/Debug/net9.0/arrayPractice.AssemblyInfoInputs.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/misc/arrayPractice/obj/Debug/net9.0/arrayPractice.AssemblyInfo.cs
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/misc/arrayPractice/obj/Debug/net9.0/arrayPractice.csproj.CoreCompileInputs.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/misc/arrayPractice/obj/Debug/net9.0/arrayPractice.sourcelink.json
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/misc/arrayPractice/obj/Debug/net9.0/arrayPractice.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/misc/arrayPractice/obj/Debug/net9.0/refint/arrayPractice.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/misc/arrayPractice/obj/Debug/net9.0/arrayPractice.pdb
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/misc/arrayPractice/obj/Debug/net9.0/arrayPractice.genruntimeconfig.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/misc/arrayPractice/obj/Debug/net9.0/ref/arrayPractice.dll

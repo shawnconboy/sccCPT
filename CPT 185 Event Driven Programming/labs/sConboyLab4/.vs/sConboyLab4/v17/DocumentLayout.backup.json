@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyLab4\\",
+  "WorkspaceRootPath": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyLab4\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{8DD870B9-1E47-4733-BC8D-D19B8DA0C8AC}|sConboyLab4.csproj|c:\\users\\shawn\\documents\\scccpt\\cpt 185 event driven programming\\labs\\sconboylab4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DD870B9-1E47-4733-BC8D-D19B8DA0C8AC}|sConboyLab4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DD870B9-1E47-4733-BC8D-D19B8DA0C8AC}|sConboyLab4.csproj|c:\\users\\shawn\\documents\\scccpt\\cpt 185 event driven programming\\labs\\sconboylab4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8DD870B9-1E47-4733-BC8D-D19B8DA0C8AC}|sConboyLab4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyLab4\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyLab4\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyLab4\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowC0AAABTAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyLab4\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowC0AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T18:52:41.077Z",
               "EditorCaption": ""
@@ -41,23 +37,11 @@
         },
         {
           "DockedWidth": 228,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyLab4\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\shawn\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyLab4\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T18:46:15.149Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("joesAutomotive")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3df894f757be0e80df7aad2bf1c43783290276a")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60910974a3fb3a5ae385e5d50b2c412f60803d1e")]
+>>>>>>> 679affcb01c9099b9f9e6a37586970561bd15dbb
 [assembly: System.Reflection.AssemblyProductAttribute("joesAutomotive")]
 [assembly: System.Reflection.AssemblyTitleAttribute("joesAutomotive")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
