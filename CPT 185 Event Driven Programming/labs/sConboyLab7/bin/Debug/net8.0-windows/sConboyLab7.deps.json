@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sConboyLab7/1.0.0": {
+        "runtime": {
+          "sConboyLab7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sConboyLab7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

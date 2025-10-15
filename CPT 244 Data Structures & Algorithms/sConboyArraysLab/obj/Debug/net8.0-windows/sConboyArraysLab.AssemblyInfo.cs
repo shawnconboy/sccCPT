@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sConboyArraysLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60910974a3fb3a5ae385e5d50b2c412f60803d1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3df894f757be0e80df7aad2bf1c43783290276a")]
 [assembly: System.Reflection.AssemblyProductAttribute("sConboyArraysLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sConboyArraysLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("chargeAccountValidation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22af7e8d76585a444a07e46c56a97aba46854609")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3df894f757be0e80df7aad2bf1c43783290276a")]
 [assembly: System.Reflection.AssemblyProductAttribute("chargeAccountValidation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("chargeAccountValidation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
