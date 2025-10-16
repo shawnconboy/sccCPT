@@ -2,7 +2,7 @@ namespace worldSeriesChampions
 {
     public partial class Form1 : Form
     {
-        // Declare arrays at class level
+        // Declare arrays in higher scope
         private string[] teams = new string[29];
         private string[] seriesWinners = new string[108];
 
@@ -39,7 +39,7 @@ namespace worldSeriesChampions
 
             // add teams to listbox
             teamsListbox.Items.AddRange(teams);
-            
+
             // sets a value in the listbox on load
             teamsListbox.SelectedIndex = 0;
         }
@@ -62,6 +62,36 @@ namespace worldSeriesChampions
                 // show data to users
                 teamNameLabel.Text = selectedTeam;
                 championshipsWonLabel.Text = winCount.ToString();
+            }
+        }
+
+        private void saveButton_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                // grab what’s currently shown
+                string team = teamNameLabel.Text;
+                string wins = championshipsWonLabel.Text;
+
+                if (string.IsNullOrWhiteSpace(team) || string.IsNullOrWhiteSpace(wins))
+                {
+                    MessageBox.Show("No team selected to save.");
+                    return;
+                }
+
+                // write the result to a new file
+                using (StreamWriter output = new StreamWriter("TeamWins.txt", false))
+                {
+                    output.WriteLine("Team Name:\t" + team);
+                    output.WriteLine("Championships Won:\t" + wins);
+                    output.WriteLine("Date Saved:\t" + DateTime.Now.ToString());
+                }
+
+                MessageBox.Show("Result written to TeamWins.txt");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
             }
         }
     }

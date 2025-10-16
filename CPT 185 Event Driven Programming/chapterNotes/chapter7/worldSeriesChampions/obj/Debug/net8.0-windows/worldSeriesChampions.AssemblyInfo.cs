@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("worldSeriesChampions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+692dcd47ebb67f2dbc813224ca64adebbe9124cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c978346c6f2b00cdac89af9ca3214399652ee20")]
 [assembly: System.Reflection.AssemblyProductAttribute("worldSeriesChampions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("worldSeriesChampions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
