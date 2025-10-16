@@ -1,0 +1,17 @@
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\worldSeriesChampions\bin\Debug\net8.0-windows\worldSeriesChampions.exe
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\worldSeriesChampions\bin\Debug\net8.0-windows\worldSeriesChampions.deps.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\worldSeriesChampions\bin\Debug\net8.0-windows\worldSeriesChampions.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\worldSeriesChampions\bin\Debug\net8.0-windows\worldSeriesChampions.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\worldSeriesChampions\bin\Debug\net8.0-windows\worldSeriesChampions.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\worldSeriesChampions\obj\Debug\net8.0-windows\worldSeriesChampions.Form1.resources
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\worldSeriesChampions\obj\Debug\net8.0-windows\worldSeriesChampions.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\worldSeriesChampions\obj\Debug\net8.0-windows\worldSeriesChampions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\worldSeriesChampions\obj\Debug\net8.0-windows\worldSeriesChampions.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\worldSeriesChampions\obj\Debug\net8.0-windows\worldSeriesChampions.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\worldSeriesChampions\obj\Debug\net8.0-windows\worldSeriesChampions.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\worldSeriesChampions\obj\Debug\net8.0-windows\worldSeriesChampions.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\worldSeriesChampions\obj\Debug\net8.0-windows\worldSeriesChampions.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\worldSeriesChampions\obj\Debug\net8.0-windows\refint\worldSeriesChampions.dll
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\worldSeriesChampions\obj\Debug\net8.0-windows\worldSeriesChampions.pdb
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\worldSeriesChampions\obj\Debug\net8.0-windows\worldSeriesChampions.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter7\worldSeriesChampions\obj\Debug\net8.0-windows\ref\worldSeriesChampions.dll
