@@ -10,7 +10,7 @@ namespace sConboy_185_Test_2
         // create year array
         private int[] years = new int[124];
         private double[] salaries = new double[10];
-        
+
         // method to add years to combo box
         private void showYears()
         {
@@ -106,7 +106,6 @@ namespace sConboy_185_Test_2
             int arraySize = salaries.Length;
 
             average = total / arraySize;
-
             averageLabel.Text = "The average : " + average.ToString("C");
 
             return average;
@@ -142,7 +141,6 @@ namespace sConboy_185_Test_2
             smallestSalaryLabel.Text = "The smallest salary : " + smallest.ToString("c");
 
             return smallest;
-            
         }
 
         private double bonusPercent()
@@ -178,9 +176,7 @@ namespace sConboy_185_Test_2
             double averageTotal = average();
 
             bonusAmount = averageTotal * bonusPercentTotal;
-
             bonusLabel.Text = "The bonus amount is : " + bonusAmount.ToString("C");
-
 
             return bonusAmount;
         }
@@ -204,7 +200,5 @@ namespace sConboy_185_Test_2
         {
             this.Close();
         }
-
-        
     }
 }
