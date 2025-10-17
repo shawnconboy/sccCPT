@@ -1,0 +1,15 @@
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/playlist/obj/Debug/net9.0/playlist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/playlist/obj/Debug/net9.0/playlist.AssemblyInfoInputs.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/playlist/obj/Debug/net9.0/playlist.AssemblyInfo.cs
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/playlist/obj/Debug/net9.0/playlist.csproj.CoreCompileInputs.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/playlist/obj/Debug/net9.0/playlist.sourcelink.json
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/playlist/bin/Debug/net9.0/playlist
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/playlist/bin/Debug/net9.0/playlist.deps.json
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/playlist/bin/Debug/net9.0/playlist.runtimeconfig.json
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/playlist/bin/Debug/net9.0/playlist.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/playlist/bin/Debug/net9.0/playlist.pdb
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/playlist/obj/Debug/net9.0/playlist.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/playlist/obj/Debug/net9.0/refint/playlist.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/playlist/obj/Debug/net9.0/playlist.pdb
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/playlist/obj/Debug/net9.0/playlist.genruntimeconfig.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/playlist/obj/Debug/net9.0/ref/playlist.dll

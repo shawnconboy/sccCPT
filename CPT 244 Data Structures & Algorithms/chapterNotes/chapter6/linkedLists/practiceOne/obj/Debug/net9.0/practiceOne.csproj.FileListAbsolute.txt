@@ -1,0 +1,15 @@
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/practiceOne/bin/Debug/net9.0/practiceOne
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/practiceOne/bin/Debug/net9.0/practiceOne.deps.json
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/practiceOne/bin/Debug/net9.0/practiceOne.runtimeconfig.json
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/practiceOne/bin/Debug/net9.0/practiceOne.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/practiceOne/bin/Debug/net9.0/practiceOne.pdb
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/practiceOne/obj/Debug/net9.0/practiceOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/practiceOne/obj/Debug/net9.0/practiceOne.AssemblyInfoInputs.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/practiceOne/obj/Debug/net9.0/practiceOne.AssemblyInfo.cs
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/practiceOne/obj/Debug/net9.0/practiceOne.csproj.CoreCompileInputs.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/practiceOne/obj/Debug/net9.0/practiceOne.sourcelink.json
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/practiceOne/obj/Debug/net9.0/practiceOne.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/practiceOne/obj/Debug/net9.0/refint/practiceOne.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/practiceOne/obj/Debug/net9.0/practiceOne.pdb
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/practiceOne/obj/Debug/net9.0/practiceOne.genruntimeconfig.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/practiceOne/obj/Debug/net9.0/ref/practiceOne.dll
