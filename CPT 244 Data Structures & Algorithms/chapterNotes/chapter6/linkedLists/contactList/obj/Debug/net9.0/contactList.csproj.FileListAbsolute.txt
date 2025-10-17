@@ -1,0 +1,15 @@
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/contactList/bin/Debug/net9.0/contactList
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/contactList/bin/Debug/net9.0/contactList.deps.json
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/contactList/bin/Debug/net9.0/contactList.runtimeconfig.json
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/contactList/bin/Debug/net9.0/contactList.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/contactList/bin/Debug/net9.0/contactList.pdb
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/contactList/obj/Debug/net9.0/contactList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/contactList/obj/Debug/net9.0/contactList.AssemblyInfoInputs.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/contactList/obj/Debug/net9.0/contactList.AssemblyInfo.cs
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/contactList/obj/Debug/net9.0/contactList.csproj.CoreCompileInputs.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/contactList/obj/Debug/net9.0/contactList.sourcelink.json
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/contactList/obj/Debug/net9.0/contactList.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/contactList/obj/Debug/net9.0/refint/contactList.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/contactList/obj/Debug/net9.0/contactList.pdb
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/contactList/obj/Debug/net9.0/contactList.genruntimeconfig.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedLists/contactList/obj/Debug/net9.0/ref/contactList.dll
