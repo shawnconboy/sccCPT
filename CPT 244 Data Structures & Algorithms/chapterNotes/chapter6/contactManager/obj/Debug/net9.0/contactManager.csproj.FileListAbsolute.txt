@@ -1,0 +1,15 @@
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/contactManager/bin/Debug/net9.0/contactManager
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/contactManager/bin/Debug/net9.0/contactManager.deps.json
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/contactManager/bin/Debug/net9.0/contactManager.runtimeconfig.json
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/contactManager/bin/Debug/net9.0/contactManager.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/contactManager/bin/Debug/net9.0/contactManager.pdb
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/contactManager/obj/Debug/net9.0/contactManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/contactManager/obj/Debug/net9.0/contactManager.AssemblyInfoInputs.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/contactManager/obj/Debug/net9.0/contactManager.AssemblyInfo.cs
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/contactManager/obj/Debug/net9.0/contactManager.csproj.CoreCompileInputs.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/contactManager/obj/Debug/net9.0/contactManager.sourcelink.json
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/contactManager/obj/Debug/net9.0/contactManager.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/contactManager/obj/Debug/net9.0/refint/contactManager.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/contactManager/obj/Debug/net9.0/contactManager.pdb
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/contactManager/obj/Debug/net9.0/contactManager.genruntimeconfig.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/contactManager/obj/Debug/net9.0/ref/contactManager.dll
