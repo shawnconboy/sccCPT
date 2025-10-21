@@ -1,0 +1,15 @@
+C:\Users\Shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\Labs\sConboyLinkedListLab\bin\Debug\net8.0\sConboyLinkedListLab.exe
+C:\Users\Shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\Labs\sConboyLinkedListLab\bin\Debug\net8.0\sConboyLinkedListLab.deps.json
+C:\Users\Shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\Labs\sConboyLinkedListLab\bin\Debug\net8.0\sConboyLinkedListLab.runtimeconfig.json
+C:\Users\Shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\Labs\sConboyLinkedListLab\bin\Debug\net8.0\sConboyLinkedListLab.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\Labs\sConboyLinkedListLab\bin\Debug\net8.0\sConboyLinkedListLab.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\Labs\sConboyLinkedListLab\obj\Debug\net8.0\sConboyLinkedListLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\Labs\sConboyLinkedListLab\obj\Debug\net8.0\sConboyLinkedListLab.AssemblyInfoInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\Labs\sConboyLinkedListLab\obj\Debug\net8.0\sConboyLinkedListLab.AssemblyInfo.cs
+C:\Users\Shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\Labs\sConboyLinkedListLab\obj\Debug\net8.0\sConboyLinkedListLab.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\Labs\sConboyLinkedListLab\obj\Debug\net8.0\sConboyLinkedListLab.sourcelink.json
+C:\Users\Shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\Labs\sConboyLinkedListLab\obj\Debug\net8.0\sConboyLinkedListLab.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\Labs\sConboyLinkedListLab\obj\Debug\net8.0\refint\sConboyLinkedListLab.dll
+C:\Users\Shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\Labs\sConboyLinkedListLab\obj\Debug\net8.0\sConboyLinkedListLab.pdb
+C:\Users\Shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\Labs\sConboyLinkedListLab\obj\Debug\net8.0\sConboyLinkedListLab.genruntimeconfig.cache
+C:\Users\Shawn\Documents\sccCPT\CPT 244 Data Structures & Algorithms\Labs\sConboyLinkedListLab\obj\Debug\net8.0\ref\sConboyLinkedListLab.dll
