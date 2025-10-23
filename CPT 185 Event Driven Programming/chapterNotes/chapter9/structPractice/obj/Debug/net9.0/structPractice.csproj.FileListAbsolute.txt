@@ -1,0 +1,15 @@
+/Users/shawnconboy/Documents/sccCPT/CPT 185 Event Driven Programming/chapterNotes/chapter9/structPractice/bin/Debug/net9.0/structPractice
+/Users/shawnconboy/Documents/sccCPT/CPT 185 Event Driven Programming/chapterNotes/chapter9/structPractice/bin/Debug/net9.0/structPractice.deps.json
+/Users/shawnconboy/Documents/sccCPT/CPT 185 Event Driven Programming/chapterNotes/chapter9/structPractice/bin/Debug/net9.0/structPractice.runtimeconfig.json
+/Users/shawnconboy/Documents/sccCPT/CPT 185 Event Driven Programming/chapterNotes/chapter9/structPractice/bin/Debug/net9.0/structPractice.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 185 Event Driven Programming/chapterNotes/chapter9/structPractice/bin/Debug/net9.0/structPractice.pdb
+/Users/shawnconboy/Documents/sccCPT/CPT 185 Event Driven Programming/chapterNotes/chapter9/structPractice/obj/Debug/net9.0/structPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shawnconboy/Documents/sccCPT/CPT 185 Event Driven Programming/chapterNotes/chapter9/structPractice/obj/Debug/net9.0/structPractice.AssemblyInfoInputs.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 185 Event Driven Programming/chapterNotes/chapter9/structPractice/obj/Debug/net9.0/structPractice.AssemblyInfo.cs
+/Users/shawnconboy/Documents/sccCPT/CPT 185 Event Driven Programming/chapterNotes/chapter9/structPractice/obj/Debug/net9.0/structPractice.csproj.CoreCompileInputs.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 185 Event Driven Programming/chapterNotes/chapter9/structPractice/obj/Debug/net9.0/structPractice.sourcelink.json
+/Users/shawnconboy/Documents/sccCPT/CPT 185 Event Driven Programming/chapterNotes/chapter9/structPractice/obj/Debug/net9.0/structPractice.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 185 Event Driven Programming/chapterNotes/chapter9/structPractice/obj/Debug/net9.0/refint/structPractice.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 185 Event Driven Programming/chapterNotes/chapter9/structPractice/obj/Debug/net9.0/structPractice.pdb
+/Users/shawnconboy/Documents/sccCPT/CPT 185 Event Driven Programming/chapterNotes/chapter9/structPractice/obj/Debug/net9.0/structPractice.genruntimeconfig.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 185 Event Driven Programming/chapterNotes/chapter9/structPractice/obj/Debug/net9.0/ref/structPractice.dll
