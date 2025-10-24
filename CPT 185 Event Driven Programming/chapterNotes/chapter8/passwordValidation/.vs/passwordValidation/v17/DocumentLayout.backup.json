@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B11DEEFF-BCD6-4320-B668-22776664F6A0}|passwordValidation.csproj|c:\\users\\user\\documents\\scccpt\\cpt 185 event driven programming\\chapternotes\\chapter8\\passwordvalidation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B11DEEFF-BCD6-4320-B668-22776664F6A0}|passwordValidation.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B11DEEFF-BCD6-4320-B668-22776664F6A0}|passwordValidation.csproj|c:\\users\\user\\documents\\scccpt\\cpt 185 event driven programming\\chapternotes\\chapter8\\passwordvalidation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B11DEEFF-BCD6-4320-B668-22776664F6A0}|passwordValidation.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,30 +22,12 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\passwordValidation\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\passwordValidation\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\passwordValidation\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwE4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T07:53:04.671Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 680,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\passwordValidation\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\passwordValidation\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T07:44:52.297Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
