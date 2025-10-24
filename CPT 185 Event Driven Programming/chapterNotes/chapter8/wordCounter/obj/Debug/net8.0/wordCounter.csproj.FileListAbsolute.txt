@@ -1,0 +1,15 @@
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\wordCounter\bin\Debug\net8.0\wordCounter.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\wordCounter\bin\Debug\net8.0\wordCounter.deps.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\wordCounter\bin\Debug\net8.0\wordCounter.runtimeconfig.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\wordCounter\bin\Debug\net8.0\wordCounter.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\wordCounter\bin\Debug\net8.0\wordCounter.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\wordCounter\obj\Debug\net8.0\wordCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\wordCounter\obj\Debug\net8.0\wordCounter.AssemblyInfoInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\wordCounter\obj\Debug\net8.0\wordCounter.AssemblyInfo.cs
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\wordCounter\obj\Debug\net8.0\wordCounter.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\wordCounter\obj\Debug\net8.0\wordCounter.sourcelink.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\wordCounter\obj\Debug\net8.0\wordCounter.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\wordCounter\obj\Debug\net8.0\refint\wordCounter.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\wordCounter\obj\Debug\net8.0\wordCounter.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\wordCounter\obj\Debug\net8.0\wordCounter.genruntimeconfig.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\wordCounter\obj\Debug\net8.0\ref\wordCounter.dll
