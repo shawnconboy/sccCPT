@@ -1,0 +1,17 @@
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\vowelsAndConsonants\bin\Debug\net8.0-windows\vowelsAndConsonants.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\vowelsAndConsonants\bin\Debug\net8.0-windows\vowelsAndConsonants.deps.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\vowelsAndConsonants\bin\Debug\net8.0-windows\vowelsAndConsonants.runtimeconfig.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\vowelsAndConsonants\bin\Debug\net8.0-windows\vowelsAndConsonants.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\vowelsAndConsonants\bin\Debug\net8.0-windows\vowelsAndConsonants.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\vowelsAndConsonants\obj\Debug\net8.0-windows\vowelsAndConsonants.Form1.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\vowelsAndConsonants\obj\Debug\net8.0-windows\vowelsAndConsonants.csproj.GenerateResource.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\vowelsAndConsonants\obj\Debug\net8.0-windows\vowelsAndConsonants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\vowelsAndConsonants\obj\Debug\net8.0-windows\vowelsAndConsonants.AssemblyInfoInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\vowelsAndConsonants\obj\Debug\net8.0-windows\vowelsAndConsonants.AssemblyInfo.cs
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\vowelsAndConsonants\obj\Debug\net8.0-windows\vowelsAndConsonants.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\vowelsAndConsonants\obj\Debug\net8.0-windows\vowelsAndConsonants.sourcelink.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\vowelsAndConsonants\obj\Debug\net8.0-windows\vowelsAndConsonants.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\vowelsAndConsonants\obj\Debug\net8.0-windows\refint\vowelsAndConsonants.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\vowelsAndConsonants\obj\Debug\net8.0-windows\vowelsAndConsonants.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\vowelsAndConsonants\obj\Debug\net8.0-windows\vowelsAndConsonants.genruntimeconfig.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\vowelsAndConsonants\obj\Debug\net8.0-windows\ref\vowelsAndConsonants.dll

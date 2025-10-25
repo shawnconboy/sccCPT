@@ -1,0 +1,15 @@
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\sentenceCapitalizer\bin\Debug\net8.0\sentenceCapitalizer.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\sentenceCapitalizer\bin\Debug\net8.0\sentenceCapitalizer.deps.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\sentenceCapitalizer\bin\Debug\net8.0\sentenceCapitalizer.runtimeconfig.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\sentenceCapitalizer\bin\Debug\net8.0\sentenceCapitalizer.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\sentenceCapitalizer\bin\Debug\net8.0\sentenceCapitalizer.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\sentenceCapitalizer\obj\Debug\net8.0\sentenceCapitalizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\sentenceCapitalizer\obj\Debug\net8.0\sentenceCapitalizer.AssemblyInfoInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\sentenceCapitalizer\obj\Debug\net8.0\sentenceCapitalizer.AssemblyInfo.cs
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\sentenceCapitalizer\obj\Debug\net8.0\sentenceCapitalizer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\sentenceCapitalizer\obj\Debug\net8.0\sentenceCapitalizer.sourcelink.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\sentenceCapitalizer\obj\Debug\net8.0\sentenceCapitalizer.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\sentenceCapitalizer\obj\Debug\net8.0\refint\sentenceCapitalizer.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\sentenceCapitalizer\obj\Debug\net8.0\sentenceCapitalizer.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\sentenceCapitalizer\obj\Debug\net8.0\sentenceCapitalizer.genruntimeconfig.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\sentenceCapitalizer\obj\Debug\net8.0\ref\sentenceCapitalizer.dll
