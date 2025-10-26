@@ -1,0 +1,17 @@
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\frequentCharacter\bin\Debug\net8.0-windows\frequentCharacter.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\frequentCharacter\bin\Debug\net8.0-windows\frequentCharacter.deps.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\frequentCharacter\bin\Debug\net8.0-windows\frequentCharacter.runtimeconfig.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\frequentCharacter\bin\Debug\net8.0-windows\frequentCharacter.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\frequentCharacter\bin\Debug\net8.0-windows\frequentCharacter.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\frequentCharacter\obj\Debug\net8.0-windows\frequentCharacter.Form1.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\frequentCharacter\obj\Debug\net8.0-windows\frequentCharacter.csproj.GenerateResource.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\frequentCharacter\obj\Debug\net8.0-windows\frequentCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\frequentCharacter\obj\Debug\net8.0-windows\frequentCharacter.AssemblyInfoInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\frequentCharacter\obj\Debug\net8.0-windows\frequentCharacter.AssemblyInfo.cs
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\frequentCharacter\obj\Debug\net8.0-windows\frequentCharacter.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\frequentCharacter\obj\Debug\net8.0-windows\frequentCharacter.sourcelink.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\frequentCharacter\obj\Debug\net8.0-windows\frequentCharacter.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\frequentCharacter\obj\Debug\net8.0-windows\refint\frequentCharacter.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\frequentCharacter\obj\Debug\net8.0-windows\frequentCharacter.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\frequentCharacter\obj\Debug\net8.0-windows\frequentCharacter.genruntimeconfig.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\frequentCharacter\obj\Debug\net8.0-windows\ref\frequentCharacter.dll
