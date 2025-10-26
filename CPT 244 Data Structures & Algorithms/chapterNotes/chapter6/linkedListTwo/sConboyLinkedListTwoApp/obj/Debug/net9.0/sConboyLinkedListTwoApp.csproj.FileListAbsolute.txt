@@ -1,0 +1,15 @@
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedListTwo/sConboyLinkedListTwoApp/bin/Debug/net9.0/sConboyLinkedListTwoApp
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedListTwo/sConboyLinkedListTwoApp/bin/Debug/net9.0/sConboyLinkedListTwoApp.deps.json
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedListTwo/sConboyLinkedListTwoApp/bin/Debug/net9.0/sConboyLinkedListTwoApp.runtimeconfig.json
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedListTwo/sConboyLinkedListTwoApp/bin/Debug/net9.0/sConboyLinkedListTwoApp.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedListTwo/sConboyLinkedListTwoApp/bin/Debug/net9.0/sConboyLinkedListTwoApp.pdb
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedListTwo/sConboyLinkedListTwoApp/obj/Debug/net9.0/sConboyLinkedListTwoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedListTwo/sConboyLinkedListTwoApp/obj/Debug/net9.0/sConboyLinkedListTwoApp.AssemblyInfoInputs.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedListTwo/sConboyLinkedListTwoApp/obj/Debug/net9.0/sConboyLinkedListTwoApp.AssemblyInfo.cs
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedListTwo/sConboyLinkedListTwoApp/obj/Debug/net9.0/sConboyLinkedListTwoApp.csproj.CoreCompileInputs.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedListTwo/sConboyLinkedListTwoApp/obj/Debug/net9.0/sConboyLinkedListTwoApp.sourcelink.json
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedListTwo/sConboyLinkedListTwoApp/obj/Debug/net9.0/sConboyLinkedListTwoApp.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedListTwo/sConboyLinkedListTwoApp/obj/Debug/net9.0/refint/sConboyLinkedListTwoApp.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedListTwo/sConboyLinkedListTwoApp/obj/Debug/net9.0/sConboyLinkedListTwoApp.pdb
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedListTwo/sConboyLinkedListTwoApp/obj/Debug/net9.0/sConboyLinkedListTwoApp.genruntimeconfig.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 244 Data Structures & Algorithms/chapterNotes/chapter6/linkedListTwo/sConboyLinkedListTwoApp/obj/Debug/net9.0/ref/sConboyLinkedListTwoApp.dll
