@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.CompilerServices;
 
 struct Dog
 {
@@ -8,6 +9,8 @@ struct Dog
     public double Weight;
 
     // A method for behavior
+
+
     public void Bark()
     {
         Console.WriteLine($"{Name} says: Woof! 🐾");
@@ -31,6 +34,8 @@ class Program
 {
     static void Main()
     {
+
+
         Console.Clear();
         // Create a Dog struct instance
         Dog myDog;
@@ -43,5 +48,7 @@ class Program
         myDog.ShowInfo();
         myDog.Bark();
         myDog.Eat("kibble");
+
+        DoSomething();
     }
 }
