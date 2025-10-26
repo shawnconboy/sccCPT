@@ -1,0 +1,15 @@
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\chapter2\largestInArray\bin\Debug\net9.0\largestInArray.exe
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\chapter2\largestInArray\bin\Debug\net9.0\largestInArray.deps.json
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\chapter2\largestInArray\bin\Debug\net9.0\largestInArray.runtimeconfig.json
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\chapter2\largestInArray\bin\Debug\net9.0\largestInArray.dll
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\chapter2\largestInArray\bin\Debug\net9.0\largestInArray.pdb
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\chapter2\largestInArray\obj\Debug\net9.0\largestInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\chapter2\largestInArray\obj\Debug\net9.0\largestInArray.AssemblyInfoInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\chapter2\largestInArray\obj\Debug\net9.0\largestInArray.AssemblyInfo.cs
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\chapter2\largestInArray\obj\Debug\net9.0\largestInArray.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\chapter2\largestInArray\obj\Debug\net9.0\largestInArray.sourcelink.json
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\chapter2\largestInArray\obj\Debug\net9.0\largestInArray.dll
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\chapter2\largestInArray\obj\Debug\net9.0\refint\largestInArray.dll
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\chapter2\largestInArray\obj\Debug\net9.0\largestInArray.pdb
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\chapter2\largestInArray\obj\Debug\net9.0\largestInArray.genruntimeconfig.cache
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\chapter2\largestInArray\obj\Debug\net9.0\ref\largestInArray.dll
