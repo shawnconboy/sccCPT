@@ -1,0 +1,17 @@
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\labs\pigLatin\bin\Debug\net8.0-windows\pigLatin.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\labs\pigLatin\bin\Debug\net8.0-windows\pigLatin.deps.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\labs\pigLatin\bin\Debug\net8.0-windows\pigLatin.runtimeconfig.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\labs\pigLatin\bin\Debug\net8.0-windows\pigLatin.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\labs\pigLatin\bin\Debug\net8.0-windows\pigLatin.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\labs\pigLatin\obj\Debug\net8.0-windows\pigLatin.Form1.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\labs\pigLatin\obj\Debug\net8.0-windows\pigLatin.csproj.GenerateResource.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\labs\pigLatin\obj\Debug\net8.0-windows\pigLatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\labs\pigLatin\obj\Debug\net8.0-windows\pigLatin.AssemblyInfoInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\labs\pigLatin\obj\Debug\net8.0-windows\pigLatin.AssemblyInfo.cs
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\labs\pigLatin\obj\Debug\net8.0-windows\pigLatin.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\labs\pigLatin\obj\Debug\net8.0-windows\pigLatin.sourcelink.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\labs\pigLatin\obj\Debug\net8.0-windows\pigLatin.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\labs\pigLatin\obj\Debug\net8.0-windows\refint\pigLatin.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\labs\pigLatin\obj\Debug\net8.0-windows\pigLatin.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\labs\pigLatin\obj\Debug\net8.0-windows\pigLatin.genruntimeconfig.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\labs\pigLatin\obj\Debug\net8.0-windows\ref\pigLatin.dll
