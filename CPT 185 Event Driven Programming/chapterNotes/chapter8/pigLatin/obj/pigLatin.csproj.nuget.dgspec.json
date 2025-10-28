@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\pigLatin\\pigLatin.csproj": {}
+    "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\pigLatin\\pigLatin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\pigLatin\\pigLatin.csproj": {
+    "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\pigLatin\\pigLatin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\pigLatin\\pigLatin.csproj",
+        "projectUniqueName": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\pigLatin\\pigLatin.csproj",
         "projectName": "pigLatin",
-        "projectPath": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\pigLatin\\pigLatin.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\pigLatin\\obj\\",
+        "projectPath": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\pigLatin\\pigLatin.csproj",
+        "packagesPath": "C:\\Users\\shawnconboy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\pigLatin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shawnconboy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

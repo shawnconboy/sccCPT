@@ -1,0 +1,17 @@
+C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\bin\Debug\net8.0-windows\numberAdder.exe
+C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\bin\Debug\net8.0-windows\numberAdder.deps.json
+C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\bin\Debug\net8.0-windows\numberAdder.runtimeconfig.json
+C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\bin\Debug\net8.0-windows\numberAdder.dll
+C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\bin\Debug\net8.0-windows\numberAdder.pdb
+C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\obj\Debug\net8.0-windows\numberAdder.Form1.resources
+C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\obj\Debug\net8.0-windows\numberAdder.csproj.GenerateResource.cache
+C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\obj\Debug\net8.0-windows\numberAdder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\obj\Debug\net8.0-windows\numberAdder.AssemblyInfoInputs.cache
+C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\obj\Debug\net8.0-windows\numberAdder.AssemblyInfo.cs
+C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\obj\Debug\net8.0-windows\numberAdder.csproj.CoreCompileInputs.cache
+C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\obj\Debug\net8.0-windows\numberAdder.sourcelink.json
+C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\obj\Debug\net8.0-windows\numberAdder.dll
+C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\obj\Debug\net8.0-windows\refint\numberAdder.dll
+C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\obj\Debug\net8.0-windows\numberAdder.pdb
+C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\obj\Debug\net8.0-windows\numberAdder.genruntimeconfig.cache
+C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\obj\Debug\net8.0-windows\ref\numberAdder.dll
