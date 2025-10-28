@@ -15,3 +15,4 @@ C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNo
 C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\obj\Debug\net8.0-windows\numberAdder.pdb
 C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\obj\Debug\net8.0-windows\numberAdder.genruntimeconfig.cache
 C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\obj\Debug\net8.0-windows\ref\numberAdder.dll
+C:\Users\shawnconboy\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter8\numberAdder\obj\Debug\net8.0-windows\numberAdder.ErrorForm.resources

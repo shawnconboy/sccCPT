@@ -18,7 +18,7 @@ namespace numberAdder
             string[] numbers = userEntry.Split(',');
             int total = 0;
 
-            foreach(string number in numbers)
+            foreach (string number in numbers)
             {
                 total += int.Parse(number);
             }
@@ -39,6 +39,13 @@ namespace numberAdder
         private void exitButton_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void showFormButton_Click(object sender, EventArgs e)
+        {
+            ErrorForm errorForm = new ErrorForm();
+            errorForm.ShowDialog();
+            errorForm.label1.Text = "Hello. Bitches";
         }
     }
 }

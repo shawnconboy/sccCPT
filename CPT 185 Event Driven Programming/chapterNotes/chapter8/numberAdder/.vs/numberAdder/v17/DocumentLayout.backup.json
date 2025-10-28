@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{BFFAC4D4-421F-455E-92C8-9E647B6A0FFD}|numberAdder.csproj|c:\\users\\shawnconboy\\documents\\scccpt\\cpt 185 event driven programming\\chapternotes\\chapter8\\numberadder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFFAC4D4-421F-455E-92C8-9E647B6A0FFD}|numberAdder.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFAC4D4-421F-455E-92C8-9E647B6A0FFD}|numberAdder.csproj|c:\\users\\shawnconboy\\documents\\scccpt\\cpt 185 event driven programming\\chapternotes\\chapter8\\numberadder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFFAC4D4-421F-455E-92C8-9E647B6A0FFD}|numberAdder.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFAC4D4-421F-455E-92C8-9E647B6A0FFD}|numberAdder.csproj|c:\\users\\shawnconboy\\documents\\scccpt\\cpt 185 event driven programming\\chapternotes\\chapter8\\numberadder\\errorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFAC4D4-421F-455E-92C8-9E647B6A0FFD}|numberAdder.csproj|solutionrelative:errorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFAC4D4-421F-455E-92C8-9E647B6A0FFD}|numberAdder.csproj|c:\\users\\shawnconboy\\documents\\scccpt\\cpt 185 event driven programming\\chapternotes\\chapter8\\numberadder\\errorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFAC4D4-421F-455E-92C8-9E647B6A0FFD}|numberAdder.csproj|solutionrelative:errorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFAC4D4-421F-455E-92C8-9E647B6A0FFD}|numberAdder.csproj|c:\\users\\shawnconboy\\documents\\scccpt\\cpt 185 event driven programming\\chapternotes\\chapter8\\numberadder\\errorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFFAC4D4-421F-455E-92C8-9E647B6A0FFD}|numberAdder.csproj|solutionrelative:errorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 701,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\numberAdder\\ErrorForm.Designer.cs",
+              "RelativeDocumentMoniker": "ErrorForm.Designer.cs",
+              "ToolTip": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\numberAdder\\ErrorForm.Designer.cs",
+              "RelativeToolTip": "ErrorForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:23:50.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorForm.cs",
+              "DocumentMoniker": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\numberAdder\\ErrorForm.cs",
+              "RelativeDocumentMoniker": "ErrorForm.cs",
+              "ToolTip": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\numberAdder\\ErrorForm.cs",
+              "RelativeToolTip": "ErrorForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:20:23.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\numberAdder\\ErrorForm.cs",
+              "RelativeDocumentMoniker": "ErrorForm.cs",
+              "ToolTip": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\numberAdder\\ErrorForm.cs [Design]",
+              "RelativeToolTip": "ErrorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:17:56.632Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\numberAdder\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\numberAdder\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:16:31.185Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +90,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter8\\numberAdder\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAWwC8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T07:10:10.977Z",
               "EditorCaption": ""

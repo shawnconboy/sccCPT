@@ -35,6 +35,7 @@
             addButton = new Button();
             clearButton = new Button();
             exitButton = new Button();
+            showFormButton = new Button();
             SuspendLayout();
             // 
             // userTextbox
@@ -101,11 +102,22 @@
             exitButton.UseVisualStyleBackColor = true;
             exitButton.Click += exitButton_Click;
             // 
+            // showFormButton
+            // 
+            showFormButton.Location = new Point(373, 425);
+            showFormButton.Name = "showFormButton";
+            showFormButton.Size = new Size(150, 46);
+            showFormButton.TabIndex = 7;
+            showFormButton.Text = "Show Form";
+            showFormButton.UseVisualStyleBackColor = true;
+            showFormButton.Click += showFormButton_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(898, 535);
+            Controls.Add(showFormButton);
             Controls.Add(exitButton);
             Controls.Add(clearButton);
             Controls.Add(addButton);
@@ -128,5 +140,6 @@
         private Button addButton;
         private Button clearButton;
         private Button exitButton;
+        private Button showFormButton;
     }
 }

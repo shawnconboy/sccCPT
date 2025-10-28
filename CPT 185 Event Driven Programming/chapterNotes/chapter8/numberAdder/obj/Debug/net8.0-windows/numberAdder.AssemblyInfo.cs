@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("numberAdder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b32087dd65bd74fc55cfb7df4f9b266f4c11b07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7e971073375a4a804c495d288086aefdf38ae1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("numberAdder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("numberAdder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
