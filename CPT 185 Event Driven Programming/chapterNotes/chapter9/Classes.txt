@@ -1,0 +1,139 @@
+Classes
+
+class	obj  = 	new	constructor
+Random	rand = 	new 	Random();
+
+class Random
+{
+}
+
+class Test
+{
+}
+
+coin newCoin = new Coin();
+
+class Coin
+{
+	private string sideUp;
+
+	public Coin() // constructor
+	{
+		sideUp = "Heads";
+	}
+
+	public void Toss()
+	{
+		MessageBox.Show(sideUp);
+	}
+
+	public string GetSideUp()
+	{
+		return sideUp;
+	}
+
+}
+
+newcoin.Toss();
+
+******************************************************************
+
+
+// set automatically
+
+get set
+
+public string Name 
+{
+	get;
+	set;
+}
+
+// up top is equivocal to below
+
+public string_name;
+
+public string Name
+{
+	get
+	{
+		return_name;
+	}
+
+	set
+	{
+		_name = value
+	}
+}
+
+
+
+******************************************************************
+
+class BankAccount
+{
+	public BankAccount()
+	{
+		
+	}
+	
+	// parameterized constructor
+	public BankAccount(decimal startingBalance)
+	{
+		
+	}
+
+	public BankAccount(double startingBalance)
+	{
+		
+	}
+
+	public BankAccount(double startingBalance, int userID)
+	{
+		
+	}
+
+}
+
+BankAccount account1 = new BankAccount(100.0);
+
+BankAccount account2 = new BankAccount(100.0m);
+
+BankAccount account3 = new BankAccount(100.0, 12345);
+
+BankAccount account4 = new BankAccount(100.0)
+
+
+**********************************************************************************
+
+
+class CellPhone
+{
+	public string Brand {get; set;}
+	public string Model {get; set;}
+	public double Price {get; set;}
+}
+
+
+**********************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
