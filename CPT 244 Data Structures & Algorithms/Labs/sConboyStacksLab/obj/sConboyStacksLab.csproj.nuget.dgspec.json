@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 244 Data Structures & Algorithms\\Labs\\sConboyStacksLab\\sConboyStacksLab.csproj": {}
+    "C:\\Users\\User\\Documents\\sccCPT\\CPT 244 Data Structures & Algorithms\\Labs\\sConboyStacksLab\\sConboyStacksLab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 244 Data Structures & Algorithms\\Labs\\sConboyStacksLab\\sConboyStacksLab.csproj": {
+    "C:\\Users\\User\\Documents\\sccCPT\\CPT 244 Data Structures & Algorithms\\Labs\\sConboyStacksLab\\sConboyStacksLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 244 Data Structures & Algorithms\\Labs\\sConboyStacksLab\\sConboyStacksLab.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\sccCPT\\CPT 244 Data Structures & Algorithms\\Labs\\sConboyStacksLab\\sConboyStacksLab.csproj",
         "projectName": "sConboyStacksLab",
-        "projectPath": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 244 Data Structures & Algorithms\\Labs\\sConboyStacksLab\\sConboyStacksLab.csproj",
-        "packagesPath": "C:\\Users\\shawnconboy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 244 Data Structures & Algorithms\\Labs\\sConboyStacksLab\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\sccCPT\\CPT 244 Data Structures & Algorithms\\Labs\\sConboyStacksLab\\sConboyStacksLab.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\sccCPT\\CPT 244 Data Structures & Algorithms\\Labs\\sConboyStacksLab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shawnconboy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
