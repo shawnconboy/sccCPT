@@ -1,3 +1,6 @@
+// Shawn Conboy
+// CPT 244 A01H
+// Stack Lab
 using System.Security.Policy;
 
 namespace sConboyStacksLab
@@ -23,32 +26,59 @@ namespace sConboyStacksLab
         {
             // add site to stack
             userURL = urlTextbox.Text;
-            siteHistory.Push(userURL);
-            urlTextbox.Clear();
+            
+            if (userURL == "")
+            {
+                MessageBox.Show("Please enter a site.");
+            }
+            else
+            {
+                siteHistory.Push(userURL);
+                urlTextbox.Clear();
 
-            // simulate visiting site
-            MessageBox.Show($"{siteHistory.Peek()} visited.");
+                // simulate visiting site
+                MessageBox.Show($"{siteHistory.Peek()} visited.");
+            }
+                
         }
 
         private void historyButton_Click(object sender, EventArgs e)
         {
-            // add sites to history listbox
-            showHistory();
+            // show history if there is any.
+            if (siteHistory.Count == 0)
+            {
+                MessageBox.Show("No history stored.");
+            }
+            else
+            {
+                // add sites to history listbox
+                showHistory();
 
-            // ensure that box is visible
-            historyListbox.Visible = true;
+                // ensure that box is visible
+                historyListbox.Visible = true;
+            }
         }
 
         private void backPicturebox_Click(object sender, EventArgs e)
         {
-            historyListbox.Visible = true;
-            showHistory();
-            string lastVisited = siteHistory.Peek();
+            if (siteHistory.Count == 0)
+            {
+                MessageBox.Show("No history stored.");
+            }
+            else
+            {
+                historyListbox.Visible = true;
+                showHistory();
+                string lastVisited = siteHistory.Peek();
 
-            int placementForLastVisited = historyListbox.Items.IndexOf(lastVisited);
+                int placementForLastVisited = historyListbox.Items.IndexOf(lastVisited);
 
-            historyListbox.SelectedIndex = placementForLastVisited;
-            historyListbox.TopIndex = placementForLastVisited;
+                historyListbox.SelectedIndex = placementForLastVisited;
+                historyListbox.TopIndex = placementForLastVisited;
+
+                urlTextbox.Text = lastVisited;
+            }
+                
         }
 
         private void showHistory()
@@ -58,6 +88,15 @@ namespace sConboyStacksLab
             {
                 historyListbox.Items.Add(site);
             }
+        }
+
+        private void clearButton_Click(object sender, EventArgs e)
+        {
+            siteHistory.Clear();
+            showHistory();
+            historyListbox.Visible = false;
+            MessageBox.Show("History has been cleared.");
+            urlTextbox.Clear();
         }
     }
 }
