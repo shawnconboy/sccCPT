@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter9\\weatherParser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25ADE64D-86EC-4F3A-B2B3-2C614D51109F}|weatherParser.csproj|c:\\users\\user\\documents\\scccpt\\cpt 185 event driven programming\\chapternotes\\chapter9\\weatherparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25ADE64D-86EC-4F3A-B2B3-2C614D51109F}|weatherParser.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 902,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter9\\weatherParser\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter9\\weatherParser\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:21:19.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

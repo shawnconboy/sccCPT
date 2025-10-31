@@ -1,0 +1,15 @@
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherParser\bin\Debug\net8.0\weatherParser.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherParser\bin\Debug\net8.0\weatherParser.deps.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherParser\bin\Debug\net8.0\weatherParser.runtimeconfig.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherParser\bin\Debug\net8.0\weatherParser.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherParser\bin\Debug\net8.0\weatherParser.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherParser\obj\Debug\net8.0\weatherParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherParser\obj\Debug\net8.0\weatherParser.AssemblyInfoInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherParser\obj\Debug\net8.0\weatherParser.AssemblyInfo.cs
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherParser\obj\Debug\net8.0\weatherParser.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherParser\obj\Debug\net8.0\weatherParser.sourcelink.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherParser\obj\Debug\net8.0\weatherParser.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherParser\obj\Debug\net8.0\refint\weatherParser.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherParser\obj\Debug\net8.0\weatherParser.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherParser\obj\Debug\net8.0\weatherParser.genruntimeconfig.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherParser\obj\Debug\net8.0\ref\weatherParser.dll

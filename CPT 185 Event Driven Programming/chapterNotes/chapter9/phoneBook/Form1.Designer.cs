@@ -38,35 +38,37 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(281, 165);
+            label1.Location = new Point(321, 220);
             label1.Name = "label1";
-            label1.Size = new Size(88, 15);
+            label1.Size = new Size(108, 20);
             label1.TabIndex = 0;
             label1.Text = "Phone Number";
             // 
             // nameListbox
             // 
             nameListbox.FormattingEnabled = true;
-            nameListbox.ItemHeight = 15;
-            nameListbox.Location = new Point(91, 145);
+            nameListbox.Location = new Point(104, 193);
+            nameListbox.Margin = new Padding(3, 4, 3, 4);
             nameListbox.Name = "nameListbox";
-            nameListbox.Size = new Size(120, 124);
+            nameListbox.Size = new Size(137, 164);
             nameListbox.TabIndex = 1;
+            nameListbox.SelectedIndexChanged += nameListbox_SelectedIndexChanged;
             // 
             // phoneLabel
             // 
             phoneLabel.BorderStyle = BorderStyle.FixedSingle;
-            phoneLabel.Location = new Point(259, 190);
+            phoneLabel.Location = new Point(296, 253);
             phoneLabel.Name = "phoneLabel";
-            phoneLabel.Size = new Size(123, 25);
+            phoneLabel.Size = new Size(140, 33);
             phoneLabel.TabIndex = 2;
             phoneLabel.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // exitButton
             // 
-            exitButton.Location = new Point(199, 293);
+            exitButton.Location = new Point(227, 391);
+            exitButton.Margin = new Padding(3, 4, 3, 4);
             exitButton.Name = "exitButton";
-            exitButton.Size = new Size(75, 23);
+            exitButton.Size = new Size(86, 31);
             exitButton.TabIndex = 3;
             exitButton.Text = "Exit";
             exitButton.UseVisualStyleBackColor = true;
@@ -74,24 +76,26 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(111, 117);
+            label3.Location = new Point(127, 156);
             label3.Name = "label3";
-            label3.Size = new Size(78, 15);
+            label3.Size = new Size(99, 20);
             label3.TabIndex = 4;
             label3.Text = "Enter a Name";
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(473, 450);
+            ClientSize = new Size(541, 600);
             Controls.Add(label3);
             Controls.Add(exitButton);
             Controls.Add(phoneLabel);
             Controls.Add(nameListbox);
             Controls.Add(label1);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }

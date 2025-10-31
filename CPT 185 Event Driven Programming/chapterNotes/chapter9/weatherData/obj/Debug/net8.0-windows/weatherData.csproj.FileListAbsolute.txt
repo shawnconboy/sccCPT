@@ -1,0 +1,17 @@
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherData\bin\Debug\net8.0-windows\weatherData.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherData\bin\Debug\net8.0-windows\weatherData.deps.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherData\bin\Debug\net8.0-windows\weatherData.runtimeconfig.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherData\bin\Debug\net8.0-windows\weatherData.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherData\bin\Debug\net8.0-windows\weatherData.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherData\obj\Debug\net8.0-windows\weatherData.Form1.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherData\obj\Debug\net8.0-windows\weatherData.csproj.GenerateResource.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherData\obj\Debug\net8.0-windows\weatherData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherData\obj\Debug\net8.0-windows\weatherData.AssemblyInfoInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherData\obj\Debug\net8.0-windows\weatherData.AssemblyInfo.cs
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherData\obj\Debug\net8.0-windows\weatherData.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherData\obj\Debug\net8.0-windows\weatherData.sourcelink.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherData\obj\Debug\net8.0-windows\weatherData.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherData\obj\Debug\net8.0-windows\refint\weatherData.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherData\obj\Debug\net8.0-windows\weatherData.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherData\obj\Debug\net8.0-windows\weatherData.genruntimeconfig.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\weatherData\obj\Debug\net8.0-windows\ref\weatherData.dll

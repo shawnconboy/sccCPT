@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\shawnconboy\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter9\\phoneBook\\phoneBook.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter9\\phoneBook\\phoneBook.csproj",
       "projectName": "phoneBook",
-      "projectPath": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter9\\phoneBook\\phoneBook.csproj",
-      "packagesPath": "C:\\Users\\shawnconboy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter9\\phoneBook\\obj\\",
+      "projectPath": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter9\\phoneBook\\phoneBook.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\chapter9\\phoneBook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\shawnconboy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
