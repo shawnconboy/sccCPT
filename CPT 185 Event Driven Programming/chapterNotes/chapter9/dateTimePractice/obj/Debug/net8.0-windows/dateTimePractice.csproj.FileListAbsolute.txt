@@ -1,0 +1,17 @@
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\dateTimePractice\bin\Debug\net8.0-windows\dateTimePractice.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\dateTimePractice\bin\Debug\net8.0-windows\dateTimePractice.deps.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\dateTimePractice\bin\Debug\net8.0-windows\dateTimePractice.runtimeconfig.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\dateTimePractice\bin\Debug\net8.0-windows\dateTimePractice.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\dateTimePractice\bin\Debug\net8.0-windows\dateTimePractice.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\dateTimePractice\obj\Debug\net8.0-windows\dateTimePractice.Form1.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\dateTimePractice\obj\Debug\net8.0-windows\dateTimePractice.csproj.GenerateResource.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\dateTimePractice\obj\Debug\net8.0-windows\dateTimePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\dateTimePractice\obj\Debug\net8.0-windows\dateTimePractice.AssemblyInfoInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\dateTimePractice\obj\Debug\net8.0-windows\dateTimePractice.AssemblyInfo.cs
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\dateTimePractice\obj\Debug\net8.0-windows\dateTimePractice.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\dateTimePractice\obj\Debug\net8.0-windows\dateTimePractice.sourcelink.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\dateTimePractice\obj\Debug\net8.0-windows\dateTimePractice.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\dateTimePractice\obj\Debug\net8.0-windows\refint\dateTimePractice.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\dateTimePractice\obj\Debug\net8.0-windows\dateTimePractice.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\dateTimePractice\obj\Debug\net8.0-windows\dateTimePractice.genruntimeconfig.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter9\dateTimePractice\obj\Debug\net8.0-windows\ref\dateTimePractice.dll
