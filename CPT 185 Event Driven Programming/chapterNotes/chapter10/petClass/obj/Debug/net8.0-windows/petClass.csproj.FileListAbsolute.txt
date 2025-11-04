@@ -1,0 +1,17 @@
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter10\petClass\bin\Debug\net8.0-windows\petClass.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter10\petClass\bin\Debug\net8.0-windows\petClass.deps.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter10\petClass\bin\Debug\net8.0-windows\petClass.runtimeconfig.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter10\petClass\bin\Debug\net8.0-windows\petClass.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter10\petClass\bin\Debug\net8.0-windows\petClass.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter10\petClass\obj\Debug\net8.0-windows\petClass.csproj.GenerateResource.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter10\petClass\obj\Debug\net8.0-windows\petClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter10\petClass\obj\Debug\net8.0-windows\petClass.AssemblyInfoInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter10\petClass\obj\Debug\net8.0-windows\petClass.AssemblyInfo.cs
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter10\petClass\obj\Debug\net8.0-windows\petClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter10\petClass\obj\Debug\net8.0-windows\petClass.sourcelink.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter10\petClass\obj\Debug\net8.0-windows\petClass.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter10\petClass\obj\Debug\net8.0-windows\refint\petClass.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter10\petClass\obj\Debug\net8.0-windows\petClass.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter10\petClass\obj\Debug\net8.0-windows\petClass.genruntimeconfig.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter10\petClass\obj\Debug\net8.0-windows\ref\petClass.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter10\petClass\obj\Debug\net8.0-windows\petClass.Form1.resources

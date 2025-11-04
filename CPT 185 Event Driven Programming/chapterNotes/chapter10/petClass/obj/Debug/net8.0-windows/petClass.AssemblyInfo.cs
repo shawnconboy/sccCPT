@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("drinkMachine")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("petClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a40642dadc6c59cf82292341961a97e715c41fe2")]
-[assembly: System.Reflection.AssemblyProductAttribute("drinkMachine")]
-[assembly: System.Reflection.AssemblyTitleAttribute("drinkMachine")]
+[assembly: System.Reflection.AssemblyProductAttribute("petClass")]
+[assembly: System.Reflection.AssemblyTitleAttribute("petClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
