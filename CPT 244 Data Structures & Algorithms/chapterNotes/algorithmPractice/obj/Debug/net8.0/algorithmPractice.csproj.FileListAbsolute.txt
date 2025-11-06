@@ -1,0 +1,15 @@
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\algorithmPractice\bin\Debug\net8.0\algorithmPractice.exe
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\algorithmPractice\bin\Debug\net8.0\algorithmPractice.deps.json
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\algorithmPractice\bin\Debug\net8.0\algorithmPractice.runtimeconfig.json
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\algorithmPractice\bin\Debug\net8.0\algorithmPractice.dll
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\algorithmPractice\bin\Debug\net8.0\algorithmPractice.pdb
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\algorithmPractice\obj\Debug\net8.0\algorithmPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\algorithmPractice\obj\Debug\net8.0\algorithmPractice.AssemblyInfoInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\algorithmPractice\obj\Debug\net8.0\algorithmPractice.AssemblyInfo.cs
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\algorithmPractice\obj\Debug\net8.0\algorithmPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\algorithmPractice\obj\Debug\net8.0\algorithmPractice.sourcelink.json
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\algorithmPractice\obj\Debug\net8.0\algorithmPractice.dll
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\algorithmPractice\obj\Debug\net8.0\refint\algorithmPractice.dll
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\algorithmPractice\obj\Debug\net8.0\algorithmPractice.pdb
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\algorithmPractice\obj\Debug\net8.0\algorithmPractice.genruntimeconfig.cache
+C:\Users\User\Documents\sccCPT\CPT 244 Data Structures & Algorithms\chapterNotes\algorithmPractice\obj\Debug\net8.0\ref\algorithmPractice.dll
