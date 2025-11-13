@@ -1,0 +1,17 @@
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter11\employeeAndProductionWorker\bin\Debug\net8.0-windows\employeeAndProductionWorker.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter11\employeeAndProductionWorker\bin\Debug\net8.0-windows\employeeAndProductionWorker.deps.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter11\employeeAndProductionWorker\bin\Debug\net8.0-windows\employeeAndProductionWorker.runtimeconfig.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter11\employeeAndProductionWorker\bin\Debug\net8.0-windows\employeeAndProductionWorker.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter11\employeeAndProductionWorker\bin\Debug\net8.0-windows\employeeAndProductionWorker.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter11\employeeAndProductionWorker\obj\Debug\net8.0-windows\employeeAndProductionWorker.Form1.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter11\employeeAndProductionWorker\obj\Debug\net8.0-windows\employeeAndProductionWorker.csproj.GenerateResource.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter11\employeeAndProductionWorker\obj\Debug\net8.0-windows\employeeAndProductionWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter11\employeeAndProductionWorker\obj\Debug\net8.0-windows\employeeAndProductionWorker.AssemblyInfoInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter11\employeeAndProductionWorker\obj\Debug\net8.0-windows\employeeAndProductionWorker.AssemblyInfo.cs
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter11\employeeAndProductionWorker\obj\Debug\net8.0-windows\employeeAndProductionWorker.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter11\employeeAndProductionWorker\obj\Debug\net8.0-windows\employeeAndProductionWorker.sourcelink.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter11\employeeAndProductionWorker\obj\Debug\net8.0-windows\employeeAndProductionWorker.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter11\employeeAndProductionWorker\obj\Debug\net8.0-windows\refint\employeeAndProductionWorker.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter11\employeeAndProductionWorker\obj\Debug\net8.0-windows\employeeAndProductionWorker.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter11\employeeAndProductionWorker\obj\Debug\net8.0-windows\employeeAndProductionWorker.genruntimeconfig.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter11\employeeAndProductionWorker\obj\Debug\net8.0-windows\ref\employeeAndProductionWorker.dll

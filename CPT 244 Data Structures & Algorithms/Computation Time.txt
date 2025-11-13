@@ -1,0 +1,15 @@
+any assignment statement has a computation of 1
+if statements have a computation of 2 (true and false)
+loops have a computation of n(number of iterations)
+
+
+--------------------------------------------------------
+| Code Action      | Cost                              |
+| ---------------- | --------------------------------- |
+| Assignment       | 1                                 |
+| Return           | 1                                 |
+| Object Creation  | 1                                 |
+| If Statement     | 2 (condition + branch decision)   |
+| Loop Structure   | n (number of iterations)          |
+| Body Inside Loop | count statements normally × n     |
+--------------------------------------------------------
