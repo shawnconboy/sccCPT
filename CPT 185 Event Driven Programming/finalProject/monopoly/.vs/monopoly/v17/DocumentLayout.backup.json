@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\finalProject\\monopoly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCF846F-A127-4380-BAD7-8E11DB962996}|monopoly.csproj|C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\finalProject\\monopoly\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3CCF846F-A127-4380-BAD7-8E11DB962996}|monopoly.csproj|solutionrelative:gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCF846F-A127-4380-BAD7-8E11DB962996}|monopoly.csproj|c:\\users\\user\\documents\\scccpt\\cpt 185 event driven programming\\finalproject\\monopoly\\propertytilecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3CCF846F-A127-4380-BAD7-8E11DB962996}|monopoly.csproj|solutionrelative:propertytilecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCF846F-A127-4380-BAD7-8E11DB962996}|monopoly.csproj|c:\\users\\user\\documents\\scccpt\\cpt 185 event driven programming\\finalproject\\monopoly\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCF846F-A127-4380-BAD7-8E11DB962996}|monopoly.csproj|solutionrelative:gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCF846F-A127-4380-BAD7-8E11DB962996}|monopoly.csproj|c:\\users\\user\\documents\\scccpt\\cpt 185 event driven programming\\finalproject\\monopoly\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3CCF846F-A127-4380-BAD7-8E11DB962996}|monopoly.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCF846F-A127-4380-BAD7-8E11DB962996}|monopoly.csproj|C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\finalProject\\monopoly\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCF846F-A127-4380-BAD7-8E11DB962996}|monopoly.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\finalProject\\monopoly\\GameForm.cs",
+              "RelativeDocumentMoniker": "GameForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\finalProject\\monopoly\\GameForm.cs*",
+              "RelativeToolTip": "GameForm.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:06:15.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropertyTileControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\finalProject\\monopoly\\PropertyTileControl.cs",
+              "RelativeDocumentMoniker": "PropertyTileControl.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\finalProject\\monopoly\\PropertyTileControl.cs [Design]*",
+              "RelativeToolTip": "PropertyTileControl.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:00:00.502Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\finalProject\\monopoly\\GameForm.cs",
+              "RelativeDocumentMoniker": "GameForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\finalProject\\monopoly\\GameForm.cs [Design]*",
+              "RelativeToolTip": "GameForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T18:57:54.964Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\finalProject\\monopoly\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\finalProject\\monopoly\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:41:25.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\finalProject\\monopoly\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\finalProject\\monopoly\\Menu.cs [Design]",
+              "RelativeToolTip": "Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:33:05.524Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

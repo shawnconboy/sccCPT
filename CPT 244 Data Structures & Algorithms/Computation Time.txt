@@ -1,15 +1,36 @@
-any assignment statement has a computation of 1
-if statements have a computation of 2 (true and false)
-loops have a computation of n(number of iterations)
+Test Tuesday Nov. 25 In Person On Paper
+
+computations
+	any assignment statement has a computation of 1
+	if statements have a computation of 2 (true and false)
+	loops have a computation of n(number of iterations)
 
 
---------------------------------------------------------
-| Code Action      | Cost                              |
-| ---------------- | --------------------------------- |
-| Assignment       | 1                                 |
-| Return           | 1                                 |
-| Object Creation  | 1                                 |
-| If Statement     | 2 (condition + branch decision)   |
-| Loop Structure   | n (number of iterations)          |
-| Body Inside Loop | count statements normally × n     |
---------------------------------------------------------
+	--------------------------------------------------------
+	| Code Action      | Cost                              |
+	| ---------------- | --------------------------------- |
+	| Assignment       | 1                                 |
+	| Return           | 1                                 |
+	| Object Creation  | 1                                 |
+	| If Statement     | 2 (condition + branch decision)   |
+	| Loop Structure   | n (number of iterations)          |
+	| Body Inside Loop | count statements normally × n     |
+	--------------------------------------------------------
+
+algroithms
+	searching
+		-linear binary
+	sorting
+		-merge, bubble, quick, insertion, selection
+	
+	Big O
+		-runtime orders (smallest to largest)
+		-O(1) , O(n), O(n log n), O(n^2), O(2^n), O(n!)
+		
+	Big Omega / Big Theta
+	
+	Hashing - hash functions
+	Recursion
+	Iteration (opposite of recursion)
+	
+Chapter 1, 3, 4, 5, 7

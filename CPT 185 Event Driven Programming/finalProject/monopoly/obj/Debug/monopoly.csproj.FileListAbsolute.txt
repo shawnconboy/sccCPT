@@ -1,0 +1,13 @@
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\monopoly\bin\Debug\monopoly.exe.config
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\monopoly\bin\Debug\monopoly.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\monopoly\bin\Debug\monopoly.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\monopoly\obj\Debug\monopoly.csproj.AssemblyReference.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\monopoly\obj\Debug\monopoly.Properties.Resources.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\monopoly\obj\Debug\monopoly.csproj.GenerateResource.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\monopoly\obj\Debug\monopoly.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\monopoly\obj\Debug\monopoly.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\monopoly\obj\Debug\monopoly.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\monopoly\obj\Debug\monopoly.exe.config
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\monopoly\obj\Debug\monopoly.GameForm.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\monopoly\obj\Debug\monopoly.Menu.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\monopoly\obj\Debug\monopoly.PropertyTileControl.resources

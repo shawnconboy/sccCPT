@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sConboyStacksLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa49a35bdcbe4fdacf9e206e8a271cb8ef6b2d8d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd494b02962a9138e4a1b303c1538cb33e648f61")]
 [assembly: System.Reflection.AssemblyProductAttribute("sConboyStacksLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sConboyStacksLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

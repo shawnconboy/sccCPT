@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sConboyQueueLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8721a4aa9f81c85acc07712eaf7bba6d2188262c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd494b02962a9138e4a1b303c1538cb33e648f61")]
 [assembly: System.Reflection.AssemblyProductAttribute("sConboyQueueLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sConboyQueueLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
