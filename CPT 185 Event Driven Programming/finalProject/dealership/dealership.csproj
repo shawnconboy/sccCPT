@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4D25B3E5-9908-4796-BA65-CD65169CDC2E}</ProjectGuid>
+    <ProjectGuid>{572D8D8A-BA60-4339-BDAD-F3BF541522D2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>dealership</RootNamespace>
     <AssemblyName>dealership</AssemblyName>
@@ -12,6 +12,21 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -46,16 +61,57 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddVehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddVehicle.Designer.cs">
+      <DependentUpon>AddVehicle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllCustomers.Designer.cs">
+      <DependentUpon>AllCustomers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customers.Designer.cs">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DealershipDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DealershipDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory.Designer.cs">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AddVehicle.resx">
+      <DependentUpon>AddVehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllCustomers.resx">
+      <DependentUpon>AllCustomers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customers.resx">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory.resx">
+      <DependentUpon>Inventory.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -66,6 +122,17 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="DealershipDataSet.xsc">
+      <DependentUpon>DealershipDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DealershipDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DealershipDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DealershipDataSet.xss">
+      <DependentUpon>DealershipDataSet.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -78,6 +145,27 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Dealership.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Dealership_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Dealership.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

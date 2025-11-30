@@ -1,0 +1,12 @@
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\emailAddressBook_FinalStudyGuide\bin\Debug\emailAddressBook_FinalStudyGuide.exe.config
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\emailAddressBook_FinalStudyGuide\bin\Debug\emailAddressBook_FinalStudyGuide.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\emailAddressBook_FinalStudyGuide\bin\Debug\emailAddressBook_FinalStudyGuide.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\emailAddressBook_FinalStudyGuide\obj\Debug\emailAddressBook_FinalStudyGuide.csproj.AssemblyReference.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\emailAddressBook_FinalStudyGuide\obj\Debug\emailAddressBook_FinalStudyGuide.Form1.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\emailAddressBook_FinalStudyGuide\obj\Debug\emailAddressBook_FinalStudyGuide.Properties.Resources.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\emailAddressBook_FinalStudyGuide\obj\Debug\emailAddressBook_FinalStudyGuide.csproj.GenerateResource.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\emailAddressBook_FinalStudyGuide\obj\Debug\emailAddressBook_FinalStudyGuide.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\emailAddressBook_FinalStudyGuide\obj\Debug\emailAddressBook_FinalStudyGuide.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\emailAddressBook_FinalStudyGuide\obj\Debug\emailAddressBook_FinalStudyGuide.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\emailAddressBook_FinalStudyGuide\obj\Debug\emailAddressBook_FinalStudyGuide.exe.config
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\emailAddressBook_FinalStudyGuide\obj\Debug\emailAddressBook_FinalStudyGuide.Form2.resources

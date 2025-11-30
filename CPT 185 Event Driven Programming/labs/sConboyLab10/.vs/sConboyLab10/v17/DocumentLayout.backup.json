@@ -18,6 +18,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyLab10\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyLab10\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T19:19:08.149Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "06936f85-d80e-4fbc-9360-99cb6dd5a2b9",
+        "Display": 1,
+        "X": -5,
+        "Y": 151,
+        "Width": 1090,
+        "Height": 1130,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -26,24 +59,12 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyLab10\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyLab10\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAAJ0AAAAAAAAAAAAUwLEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyLab10\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAKQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T19:55:14.727Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyLab10\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyLab10\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T19:19:08.149Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

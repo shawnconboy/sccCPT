@@ -16,5 +16,22 @@ namespace dealership
         {
             InitializeComponent();
         }
+
+        private void closeButton_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void customerPicturebox_Click(object sender, EventArgs e)
+        {
+            Customers customers = new Customers();
+            customers.ShowDialog();
+        }
+
+        private void inventoryPicturebox_Click(object sender, EventArgs e)
+        {
+            Inventory inventory = new Inventory();
+            inventory.ShowDialog();
+        }
     }
 }

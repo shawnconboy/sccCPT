@@ -1,0 +1,342 @@
+
+
+
+=================================================================
+SECTION 1 — ALGORITHMS
+=================================================================
+- Algorithms are step-by-step instructions used to solve problems.
+- They let us solve tasks efficiently and predictably.
+- Analysis helps measure performance as input size grows.
+
+
+=================================================================
+SECTION 2 — SEARCHING
+=================================================================
+
+-------------------------------------------------
+WHAT IS LINEAR SEARCH?
+-------------------------------------------------
+- Checks each element one-by-one.
+- Works on any array (sorted or unsorted).
+- Slower for large data sets.
+
+-------------------------------------------------
+HOW DOES LINEAR SEARCH WORK?
+-------------------------------------------------
+- Start at index 0.
+- Compare each element to the target.
+- Return index if found, -1 if not.
+
+-------------------------------------------------
+ARRAY + LINEAR SEARCH METHOD
+-------------------------------------------------
+int[] arr = { 2, 4, 6, 8, 10, 12 };
+int target = 8;
+
+int LinearSearch(int[] arr, int target)
+{
+    for (int i = 0; i < arr.Length; i++)
+    {
+        int currentValue = arr[i];
+
+        if (currentValue == target)
+        {
+            return i;
+        }
+    }
+
+    return -1;
+}
+
+
+-------------------------------------------------
+WHAT IS BINARY SEARCH?
+-------------------------------------------------
+- Works only on sorted arrays.
+- Much faster than linear search.
+- Uses left, right, and middle indexes to shrink range.
+
+-------------------------------------------------
+ARRAY + BINARY SEARCH METHOD
+-------------------------------------------------
+int[] arr = { 1, 3, 5, 7, 9, 11 };
+int target = 7;
+
+int BinarySearch(int[] arr, int target)
+{
+    int left = 0;
+    int right = arr.Length - 1;
+
+    while (left <= right)
+    {
+        int middle = (left + right) / 2;
+        int middleValue = arr[middle];
+
+        if (middleValue == target)
+        {
+            return middle;
+        }
+
+        if (target > middleValue)
+        {
+            left = middle + 1;
+        }
+        else
+        {
+            right = middle - 1;
+        }
+    }
+
+    return -1;
+}
+
+
+=================================================================
+SECTION 3 — SORTING ALGORITHMS
+=================================================================
+Included:
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+
+RUNTIMES:
+- Bubble Sort → O(n^2)
+- Selection Sort → O(n^2)
+- Insertion Sort → O(n^2) average, O(n) best
+- Merge Sort → O(n log n)
+- Quick Sort → O(n log n) average, O(n^2) worst
+
+-------------------------------------------------
+BUBBLE SORT — ARRAY + METHOD
+-------------------------------------------------
+int[] arr = { 5, 2, 9, 1, 7 };
+
+void BubbleSort(int[] arr)
+{
+    for (int i = 0; i < arr.Length - 1; i++)
+    {
+        for (int j = 0; j < arr.Length - 1; j++)
+        {
+            int leftValue = arr[j];
+            int rightValue = arr[j + 1];
+
+            if (leftValue > rightValue)
+            {
+                int temp = arr[j];
+                arr[j] = arr[j + 1];
+                arr[j + 1] = temp;
+            }
+        }
+    }
+}
+
+
+-------------------------------------------------
+SELECTION SORT — ARRAY + METHOD
+-------------------------------------------------
+int[] arr = { 30, 10, 20, 50, 40 };
+
+void SelectionSort(int[] arr)
+{
+    for (int i = 0; i < arr.Length - 1; i++)
+    {
+        int smallestIndex = i;
+
+        for (int j = i + 1; j < arr.Length; j++)
+        {
+            int currentValue = arr[j];
+            int smallestValue = arr[smallestIndex];
+
+            if (currentValue < smallestValue)
+            {
+                smallestIndex = j;
+            }
+        }
+
+        int temp = arr[i];
+        arr[i] = arr[smallestIndex];
+        arr[smallestIndex] = temp;
+    }
+}
+
+
+-------------------------------------------------
+INSERTION SORT — ARRAY + METHOD
+-------------------------------------------------
+int[] arr = { 9, 3, 7, 1, 5 };
+
+void InsertionSort(int[] arr)
+{
+    for (int i = 1; i < arr.Length; i++)
+    {
+        int valueToInsert = arr[i];
+        int position = i - 1;
+
+        while (position >= 0)
+        {
+            int currentValue = arr[position];
+
+            if (currentValue > valueToInsert)
+            {
+                arr[position + 1] = currentValue;
+                position--;
+            }
+            else
+            {
+                break;
+            }
+        }
+
+        arr[position + 1] = valueToInsert;
+    }
+}
+
+
+-------------------------------------------------
+MERGE SORT — ARRAY + METHOD
+-------------------------------------------------
+int[] arr = { 8, 3, 1, 6, 2, 5 };
+
+int[] MergeSort(int[] arr)
+{
+    if (arr.Length <= 1)
+        return arr;
+
+    int middle = arr.Length / 2;
+
+    int[] leftHalf = arr.Take(middle).ToArray();
+    int[] rightHalf = arr.Skip(middle).ToArray();
+
+    int[] sortedLeft = MergeSort(leftHalf);
+    int[] sortedRight = MergeSort(rightHalf);
+
+    return Merge(sortedLeft, sortedRight);
+}
+
+int[] Merge(int[] left, int[] right)
+{
+    List<int> mergedList = new List<int>();
+    int i = 0;
+    int j = 0;
+
+    while (i < left.Length && j < right.Length)
+    {
+        int leftValue = left[i];
+        int rightValue = right[j];
+
+        if (leftValue <= rightValue)
+        {
+            mergedList.Add(leftValue);
+            i++;
+        }
+        else
+        {
+            mergedList.Add(rightValue);
+            j++;
+        }
+    }
+
+    while (i < left.Length)
+    {
+        mergedList.Add(left[i]);
+        i++;
+    }
+
+    while (j < right.Length)
+    {
+        mergedList.Add(right[j]);
+        j++;
+    }
+
+    return mergedList.ToArray();
+}
+
+
+-------------------------------------------------
+QUICK SORT — ARRAY + METHOD
+-------------------------------------------------
+int[] arr = { 12, 7, 14, 3, 9, 2 };
+
+int[] QuickSort(int[] arr)
+{
+    if (arr.Length <= 1)
+        return arr;
+
+    int pivot = arr[0];
+
+    List<int> smaller = new List<int>();
+    List<int> equal = new List<int>();
+    List<int> larger = new List<int>();
+
+    for (int i = 0; i < arr.Length; i++)
+    {
+        int value = arr[i];
+
+        if (value < pivot)
+            smaller.Add(value);
+        else if (value == pivot)
+            equal.Add(value);
+        else
+            larger.Add(value);
+    }
+
+    int[] sortedSmall = QuickSort(smaller.ToArray());
+    int[] sortedLarge = QuickSort(larger.ToArray());
+
+    return sortedSmall
+        .Concat(equal)
+        .Concat(sortedLarge)
+        .ToArray();
+}
+
+
+=================================================================
+SECTION 4 — BIG O NOTATION
+=================================================================
+O(1) → constant  
+O(n) → linear  
+O(n log n) → near-linear  
+O(n²) → quadratic  
+O(2ⁿ) → exponential  
+O(n!) → factorial  
+
+Difference:
+n=100 → 10,000 (n²) vs impossibly huge (2ⁿ)
+
+
+=================================================================
+SECTION 5 — BIG OMEGA / BIG THETA
+=================================================================
+Big Ω → best case  
+Big Θ → average case  
+Big O → worst case (most important)  
+
+
+=================================================================
+SECTION 6 — HASHING
+=================================================================
+Hashing converts data to fixed-size values.
+Very fast: O(1) lookups.
+
+
+=================================================================
+SECTION 7 — ENCRYPTION
+=================================================================
+Encryption protects data by scrambling it.
+Hashing verifies integrity, not secrecy.
+
+
+=================================================================
+SECTION 8 — RECURSION
+=================================================================
+Recursion = function calling itself.
+Opposite: iteration (loops).
+You can convert between both approaches.
+
+
+=================================================================
+STUDY CHAPTERS:
+1, 3, 4, 5, 7
+=================================================================

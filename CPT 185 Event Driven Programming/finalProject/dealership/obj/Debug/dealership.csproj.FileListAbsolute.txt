@@ -9,3 +9,9 @@ C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\dea
 C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\dealership\obj\Debug\dealership.exe
 C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\dealership\obj\Debug\dealership.pdb
 C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\dealership\obj\Debug\dealership.exe.config
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\dealership\obj\Debug\dealership.Customers.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\dealership\bin\Debug\Dealership.mdf
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\dealership\bin\Debug\Dealership_log.ldf
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\dealership\obj\Debug\dealership.AllCustomers.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\dealership\obj\Debug\dealership.Inventory.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\finalProject\dealership\obj\Debug\dealership.AddVehicle.resources
