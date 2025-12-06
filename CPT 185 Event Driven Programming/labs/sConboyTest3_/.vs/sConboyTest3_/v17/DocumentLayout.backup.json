@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1799329-D8BB-40B3-BF9E-C0CAC1F8E055}|sConboyTest3_.csproj|c:\\users\\user\\documents\\scccpt\\cpt 185 event driven programming\\labs\\sconboytest3_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1799329-D8BB-40B3-BF9E-C0CAC1F8E055}|sConboyTest3_.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1799329-D8BB-40B3-BF9E-C0CAC1F8E055}|sConboyTest3_.csproj|C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1799329-D8BB-40B3-BF9E-C0CAC1F8E055}|sConboyTest3_.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1799329-D8BB-40B3-BF9E-C0CAC1F8E055}|sConboyTest3_.csproj|C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\homecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1799329-D8BB-40B3-BF9E-C0CAC1F8E055}|sConboyTest3_.csproj|solutionrelative:homecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1799329-D8BB-40B3-BF9E-C0CAC1F8E055}|sConboyTest3_.csproj|C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\addbookcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1799329-D8BB-40B3-BF9E-C0CAC1F8E055}|sConboyTest3_.csproj|solutionrelative:addbookcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1799329-D8BB-40B3-BF9E-C0CAC1F8E055}|sConboyTest3_.csproj|C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\bookscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1799329-D8BB-40B3-BF9E-C0CAC1F8E055}|sConboyTest3_.csproj|solutionrelative:bookscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1799329-D8BB-40B3-BF9E-C0CAC1F8E055}|sConboyTest3_.csproj|C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1799329-D8BB-40B3-BF9E-C0CAC1F8E055}|sConboyTest3_.csproj|solutionrelative:addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1799329-D8BB-40B3-BF9E-C0CAC1F8E055}|sConboyTest3_.csproj|C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1799329-D8BB-40B3-BF9E-C0CAC1F8E055}|sConboyTest3_.csproj|solutionrelative:members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T22:51:43.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\AddMember.cs",
+              "RelativeDocumentMoniker": "AddMember.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\AddMember.cs [Design]",
+              "RelativeToolTip": "AddMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T23:51:03.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Members.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\Members.cs",
+              "RelativeDocumentMoniker": "Members.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\Members.cs [Design]",
+              "RelativeToolTip": "Members.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T23:37:40.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T05:48:27.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\HomeControl.cs",
+              "RelativeDocumentMoniker": "HomeControl.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\HomeControl.cs [Design]",
+              "RelativeToolTip": "HomeControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T01:05:34.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddBookControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\AddBookControl.cs",
+              "RelativeDocumentMoniker": "AddBookControl.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\AddBookControl.cs [Design]",
+              "RelativeToolTip": "AddBookControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T07:28:10.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\BooksControl.cs",
+              "RelativeDocumentMoniker": "BooksControl.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\labs\\sConboyTest3_\\BooksControl.cs [Design]",
+              "RelativeToolTip": "BooksControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T07:27:56.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

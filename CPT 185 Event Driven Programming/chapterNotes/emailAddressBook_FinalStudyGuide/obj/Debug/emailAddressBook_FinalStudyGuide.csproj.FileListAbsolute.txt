@@ -10,3 +10,4 @@ C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\ema
 C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\emailAddressBook_FinalStudyGuide\obj\Debug\emailAddressBook_FinalStudyGuide.pdb
 C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\emailAddressBook_FinalStudyGuide\obj\Debug\emailAddressBook_FinalStudyGuide.exe.config
 C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\emailAddressBook_FinalStudyGuide\obj\Debug\emailAddressBook_FinalStudyGuide.Form2.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\emailAddressBook_FinalStudyGuide\obj\Debug\emailAddressBook_FinalStudyGuide.ShipForm.resources

@@ -1,0 +1,37 @@
+
+Program Requirements
+
+[x] Chapter 1:		Our First Winforms App
+
+[x] Chapter 2:		Heads or Tails Application
+
+[x] Chapter 4:		Magic Dates
+
+[x] Chapter 4:		WorkShop Selector
+
+[x] Chapter 5:		Random Number File Writer/Random Number File Reader
+
+[x] Chapter 6:		Hospital Charges
+
+[x] Chapter 8:		Word Counter
+
+[x] Chapter 10:		Retail Item
+
+[x] 				Email Address Book
+
+[ ] Chapter 11:		Playlist Application
+
+[x] Chapter 12:		Ship, Cruiseship, Cargoship (11-20)
+
+[x] Chapter 13:		Personnel Database
+					
+						Use Visual Studio to create a database named Personnel.mdf.
+						
+						The database should have a table named Employee, with columns for employee ID, name, position, and hourly pay rate.
+						
+						The employee ID should be the primary key.
+
+						Insert at least five sample rows of data into the table.
+
+						Create an application that displays the Employee table in a DataGridView control.
+

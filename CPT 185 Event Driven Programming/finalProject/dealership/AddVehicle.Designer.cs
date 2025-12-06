@@ -41,11 +41,11 @@
             this.yearTextbox = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.colorTextbox = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.purchaseTextbox = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.listTextbox = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.closeButton)).BeginInit();
             this.SuspendLayout();
             // 
@@ -77,16 +77,17 @@
             this.addVehicleButton.Location = new System.Drawing.Point(350, 336);
             this.addVehicleButton.Name = "addVehicleButton";
             this.addVehicleButton.Size = new System.Drawing.Size(95, 23);
-            this.addVehicleButton.TabIndex = 14;
+            this.addVehicleButton.TabIndex = 7;
             this.addVehicleButton.Text = "Add Vehicle";
             this.addVehicleButton.UseVisualStyleBackColor = true;
+            this.addVehicleButton.Click += new System.EventHandler(this.addVehicleButton_Click);
             // 
             // mileageTextbox
             // 
             this.mileageTextbox.Location = new System.Drawing.Point(197, 275);
             this.mileageTextbox.Name = "mileageTextbox";
             this.mileageTextbox.Size = new System.Drawing.Size(152, 22);
-            this.mileageTextbox.TabIndex = 13;
+            this.mileageTextbox.TabIndex = 3;
             // 
             // label5
             // 
@@ -103,7 +104,7 @@
             this.modelTextbox.Location = new System.Drawing.Point(197, 228);
             this.modelTextbox.Name = "modelTextbox";
             this.modelTextbox.Size = new System.Drawing.Size(152, 22);
-            this.modelTextbox.TabIndex = 12;
+            this.modelTextbox.TabIndex = 2;
             // 
             // label4
             // 
@@ -120,7 +121,7 @@
             this.makeTextbox.Location = new System.Drawing.Point(197, 184);
             this.makeTextbox.Name = "makeTextbox";
             this.makeTextbox.Size = new System.Drawing.Size(152, 22);
-            this.makeTextbox.TabIndex = 9;
+            this.makeTextbox.TabIndex = 1;
             // 
             // label3
             // 
@@ -137,7 +138,7 @@
             this.yearTextbox.Location = new System.Drawing.Point(197, 139);
             this.yearTextbox.Name = "yearTextbox";
             this.yearTextbox.Size = new System.Drawing.Size(152, 22);
-            this.yearTextbox.TabIndex = 6;
+            this.yearTextbox.TabIndex = 0;
             // 
             // label2
             // 
@@ -159,12 +160,12 @@
             this.label6.TabIndex = 11;
             this.label6.Text = "Color";
             // 
-            // textBox1
+            // colorTextbox
             // 
-            this.textBox1.Location = new System.Drawing.Point(540, 139);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(152, 22);
-            this.textBox1.TabIndex = 6;
+            this.colorTextbox.Location = new System.Drawing.Point(540, 139);
+            this.colorTextbox.Name = "colorTextbox";
+            this.colorTextbox.Size = new System.Drawing.Size(152, 22);
+            this.colorTextbox.TabIndex = 4;
             // 
             // label7
             // 
@@ -176,12 +177,12 @@
             this.label7.TabIndex = 10;
             this.label7.Text = "Purchase Price";
             // 
-            // textBox2
+            // purchaseTextbox
             // 
-            this.textBox2.Location = new System.Drawing.Point(540, 184);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(152, 22);
-            this.textBox2.TabIndex = 9;
+            this.purchaseTextbox.Location = new System.Drawing.Point(540, 184);
+            this.purchaseTextbox.Name = "purchaseTextbox";
+            this.purchaseTextbox.Size = new System.Drawing.Size(152, 22);
+            this.purchaseTextbox.TabIndex = 5;
             // 
             // label8
             // 
@@ -193,12 +194,12 @@
             this.label8.TabIndex = 8;
             this.label8.Text = "List Price";
             // 
-            // textBox3
+            // listTextbox
             // 
-            this.textBox3.Location = new System.Drawing.Point(540, 228);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(152, 22);
-            this.textBox3.TabIndex = 12;
+            this.listTextbox.Location = new System.Drawing.Point(540, 228);
+            this.listTextbox.Name = "listTextbox";
+            this.listTextbox.Size = new System.Drawing.Size(152, 22);
+            this.listTextbox.TabIndex = 6;
             // 
             // AddVehicle
             // 
@@ -208,15 +209,15 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.addVehicleButton);
             this.Controls.Add(this.mileageTextbox);
-            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.listTextbox);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.modelTextbox);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.purchaseTextbox);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.makeTextbox);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.colorTextbox);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.yearTextbox);
@@ -248,10 +249,10 @@
         private System.Windows.Forms.TextBox yearTextbox;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox colorTextbox;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox purchaseTextbox;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox listTextbox;
     }
 }

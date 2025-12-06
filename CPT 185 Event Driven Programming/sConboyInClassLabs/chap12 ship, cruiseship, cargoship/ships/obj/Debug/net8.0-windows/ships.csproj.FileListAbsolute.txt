@@ -1,0 +1,17 @@
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\sConboyInClassLabs\chap12 ship, cruiseship, cargoship\ships\bin\Debug\net8.0-windows\ships.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\sConboyInClassLabs\chap12 ship, cruiseship, cargoship\ships\bin\Debug\net8.0-windows\ships.deps.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\sConboyInClassLabs\chap12 ship, cruiseship, cargoship\ships\bin\Debug\net8.0-windows\ships.runtimeconfig.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\sConboyInClassLabs\chap12 ship, cruiseship, cargoship\ships\bin\Debug\net8.0-windows\ships.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\sConboyInClassLabs\chap12 ship, cruiseship, cargoship\ships\bin\Debug\net8.0-windows\ships.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\sConboyInClassLabs\chap12 ship, cruiseship, cargoship\ships\obj\Debug\net8.0-windows\ships.Form1.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\sConboyInClassLabs\chap12 ship, cruiseship, cargoship\ships\obj\Debug\net8.0-windows\ships.csproj.GenerateResource.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\sConboyInClassLabs\chap12 ship, cruiseship, cargoship\ships\obj\Debug\net8.0-windows\ships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\sConboyInClassLabs\chap12 ship, cruiseship, cargoship\ships\obj\Debug\net8.0-windows\ships.AssemblyInfoInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\sConboyInClassLabs\chap12 ship, cruiseship, cargoship\ships\obj\Debug\net8.0-windows\ships.AssemblyInfo.cs
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\sConboyInClassLabs\chap12 ship, cruiseship, cargoship\ships\obj\Debug\net8.0-windows\ships.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\sConboyInClassLabs\chap12 ship, cruiseship, cargoship\ships\obj\Debug\net8.0-windows\ships.sourcelink.json
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\sConboyInClassLabs\chap12 ship, cruiseship, cargoship\ships\obj\Debug\net8.0-windows\ships.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\sConboyInClassLabs\chap12 ship, cruiseship, cargoship\ships\obj\Debug\net8.0-windows\refint\ships.dll
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\sConboyInClassLabs\chap12 ship, cruiseship, cargoship\ships\obj\Debug\net8.0-windows\ships.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\sConboyInClassLabs\chap12 ship, cruiseship, cargoship\ships\obj\Debug\net8.0-windows\ships.genruntimeconfig.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\sConboyInClassLabs\chap12 ship, cruiseship, cargoship\ships\obj\Debug\net8.0-windows\ref\ships.dll

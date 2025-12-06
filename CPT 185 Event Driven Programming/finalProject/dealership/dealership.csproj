@@ -84,6 +84,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DealershipDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="Financing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financing.Designer.cs">
+      <DependentUpon>Financing.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -106,6 +112,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Customers.resx">
       <DependentUpon>Customers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financing.resx">
+      <DependentUpon>Financing.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

@@ -11,3 +11,16 @@ C:\Users\User\Documents\databaseCreation\obj\Debug\databaseCreation.exe
 C:\Users\User\Documents\databaseCreation\obj\Debug\databaseCreation.pdb
 C:\Users\User\Documents\databaseCreation\obj\Debug\databaseCreation.exe.config
 C:\Users\User\Documents\databaseCreation\obj\Debug\databaseCreation.Form1.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\databaseCreation\bin\Debug\Phonelist.mdf
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\databaseCreation\bin\Debug\Phonelist_log.ldf
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\databaseCreation\bin\Debug\databaseCreation.exe.config
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\databaseCreation\bin\Debug\databaseCreation.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\databaseCreation\bin\Debug\databaseCreation.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\databaseCreation\obj\Debug\databaseCreation.csproj.AssemblyReference.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\databaseCreation\obj\Debug\databaseCreation.exe.config
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\databaseCreation\obj\Debug\databaseCreation.Form1.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\databaseCreation\obj\Debug\databaseCreation.Properties.Resources.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\databaseCreation\obj\Debug\databaseCreation.csproj.GenerateResource.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\databaseCreation\obj\Debug\databaseCreation.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\databaseCreation\obj\Debug\databaseCreation.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\databaseCreation\obj\Debug\databaseCreation.pdb

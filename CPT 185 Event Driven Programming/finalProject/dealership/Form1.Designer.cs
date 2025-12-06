@@ -36,13 +36,13 @@
             this.inventoryLabel = new System.Windows.Forms.Label();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.label5 = new System.Windows.Forms.Label();
+            this.financingPicturebox = new System.Windows.Forms.PictureBox();
+            this.financingLabel = new System.Windows.Forms.Label();
             this.closeButton = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.customerPicturebox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.inventoryPicturebox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.financingPicturebox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.closeButton)).BeginInit();
             this.SuspendLayout();
             // 
@@ -127,26 +127,28 @@
             this.label4.TabIndex = 2;
             this.label4.Text = "Service";
             // 
-            // pictureBox4
+            // financingPicturebox
             // 
-            this.pictureBox4.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(426, 165);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox4.TabIndex = 1;
-            this.pictureBox4.TabStop = false;
+            this.financingPicturebox.BackColor = System.Drawing.Color.Transparent;
+            this.financingPicturebox.Image = ((System.Drawing.Image)(resources.GetObject("financingPicturebox.Image")));
+            this.financingPicturebox.Location = new System.Drawing.Point(426, 165);
+            this.financingPicturebox.Name = "financingPicturebox";
+            this.financingPicturebox.Size = new System.Drawing.Size(100, 100);
+            this.financingPicturebox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.financingPicturebox.TabIndex = 1;
+            this.financingPicturebox.TabStop = false;
+            this.financingPicturebox.Click += new System.EventHandler(this.financingPicturebox_Click);
             // 
-            // label5
+            // financingLabel
             // 
-            this.label5.AutoSize = true;
-            this.label5.BackColor = System.Drawing.Color.Transparent;
-            this.label5.Location = new System.Drawing.Point(447, 283);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(58, 13);
-            this.label5.TabIndex = 2;
-            this.label5.Text = "Financing";
+            this.financingLabel.AutoSize = true;
+            this.financingLabel.BackColor = System.Drawing.Color.Transparent;
+            this.financingLabel.Location = new System.Drawing.Point(447, 283);
+            this.financingLabel.Name = "financingLabel";
+            this.financingLabel.Size = new System.Drawing.Size(58, 13);
+            this.financingLabel.TabIndex = 2;
+            this.financingLabel.Text = "Financing";
+            this.financingLabel.Click += new System.EventHandler(this.financingPicturebox_Click);
             // 
             // closeButton
             // 
@@ -167,10 +169,10 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.closeButton);
-            this.Controls.Add(this.label5);
+            this.Controls.Add(this.financingLabel);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.inventoryLabel);
-            this.Controls.Add(this.pictureBox4);
+            this.Controls.Add(this.financingPicturebox);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.customerLabel);
             this.Controls.Add(this.inventoryPicturebox);
@@ -184,7 +186,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.customerPicturebox)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.inventoryPicturebox)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.financingPicturebox)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.closeButton)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -200,8 +202,8 @@
         private System.Windows.Forms.Label inventoryLabel;
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.PictureBox pictureBox4;
-        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.PictureBox financingPicturebox;
+        private System.Windows.Forms.Label financingLabel;
         private System.Windows.Forms.PictureBox closeButton;
     }
 }

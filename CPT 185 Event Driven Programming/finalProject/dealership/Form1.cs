@@ -33,5 +33,11 @@ namespace dealership
             Inventory inventory = new Inventory();
             inventory.ShowDialog();
         }
+
+        private void financingPicturebox_Click(object sender, EventArgs e)
+        {
+            Financing financing = new Financing();
+            financing.ShowDialog();
+        }
     }
 }

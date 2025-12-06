@@ -1,0 +1,129 @@
+Final Exam Outline
+
+Value Type Variables
+	Int
+	Double
+	Float
+	Boolean
+	Char
+
+Reference Type Variables
+	String
+	Array
+	List
+	Classes
+	
+Var Keyword
+
+Operators
+	Arithmetic
+		+
+		-
+		/
+		*
+	Comparison
+		<
+		>
+		<=
+		>=
+		==
+		!=
+		
+	Logical
+		&& 
+		||
+		!
+
+Selection Structure
+	If / Else
+	Switch
+	
+Repetition Structure
+	For
+	While
+	Do While
+	For Each
+	
+Arrays
+	How to declare and initialize
+	Access elements
+	Determine array size
+	Iterate through array
+	Use array methods
+		Sort
+		Max
+		Min
+
+Lists
+	How to declare
+		Add
+		Remove
+		Count
+		Sort
+	Iterate through list
+	
+Classes
+	How to declare a class
+	Write constructors
+		Default
+		Paratemerized
+	Properties
+	Fields
+	Methods associated with class
+	Encapsulation
+		Private and public fields and properties
+	This referce
+		
+Inheritance, Polymorphism, Interfaces
+	Define both
+	Perform inheritance
+	Base Classes / Derived Classes
+	Overriding a method
+	Storing class objects in arrays or lists
+	
+Linq Methods and Query Syntax
+	Where
+	Select
+	Order by
+	Count
+	Sum
+	Average
+	
+Lambda Expressions
+
+Write to files
+Read from files
+	
+String Manipulation and Processing
+	Parse data
+	Validate data
+	Tokenize strings
+	String builder
+	
+Methods
+	Declare methods
+	Value vs nonValue returning methods
+	
+Databases
+	Data grid view
+	
+Winforms Controls
+	Textbox
+	Buttons
+	Checkbox
+	Radio buttons
+	Listbox
+	Open form and save form
+	Groupbox
+	Panels
+	Form load
+	
+Test Layout
+	Short answer
+	Long answer
+	Fill in the blank
+	Code snippets
+	Code tracing
+	Debugging Section
+	
+11AM - 2PM Tuesday Dec. 9

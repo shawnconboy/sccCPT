@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{E1477ED5-E66C-4E1D-9480-B388CA73F35F}|emailAddressBook_FinalStudyGuide.csproj|solutionrelative:shipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1477ED5-E66C-4E1D-9480-B388CA73F35F}|emailAddressBook_FinalStudyGuide.csproj|c:\\users\\user\\documents\\scccpt\\cpt 185 event driven programming\\chapternotes\\emailaddressbook_finalstudyguide\\shipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E1477ED5-E66C-4E1D-9480-B388CA73F35F}|emailAddressBook_FinalStudyGuide.csproj|C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\emailAddressBook_FinalStudyGuide\\shipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E1477ED5-E66C-4E1D-9480-B388CA73F35F}|emailAddressBook_FinalStudyGuide.csproj|solutionrelative:shipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{E1477ED5-E66C-4E1D-9480-B388CA73F35F}|emailAddressBook_FinalStudyGuide.csproj|solutionrelative:ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1477ED5-E66C-4E1D-9480-B388CA73F35F}|emailAddressBook_FinalStudyGuide.csproj|c:\\users\\user\\documents\\scccpt\\cpt 185 event driven programming\\chapternotes\\emailaddressbook_finalstudyguide\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E1477ED5-E66C-4E1D-9480-B388CA73F35F}|emailAddressBook_FinalStudyGuide.csproj|C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\emailAddressBook_FinalStudyGuide\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E1477ED5-E66C-4E1D-9480-B388CA73F35F}|emailAddressBook_FinalStudyGuide.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -50,8 +50,7 @@
               "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\emailAddressBook_FinalStudyGuide\\ShipForm.cs [Design]",
               "RelativeToolTip": "ShipForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:52:40.238Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-20T16:52:40.238Z"
             },
             {
               "$type": "Document",
@@ -62,8 +61,7 @@
               "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\emailAddressBook_FinalStudyGuide\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:51:21.835Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-20T16:51:21.835Z"
             }
           ]
         },
@@ -79,7 +77,7 @@
               "RelativeDocumentMoniker": "Ship.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\chapterNotes\\emailAddressBook_FinalStudyGuide\\Ship.cs",
               "RelativeToolTip": "Ship.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAwE0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAqwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T16:55:06.987Z",
               "EditorCaption": ""

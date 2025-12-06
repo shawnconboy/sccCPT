@@ -1,0 +1,55 @@
+
+
+
+
+
+[x]		Run a query to do a list of all 
+		Customers and their detail information.
+		
+		{	Customer Information Query	}
+		
+[x]		Run a query using two related tables 
+		to list some items.
+		
+		{	Store Employees Query	}
+		
+		
+[x]		Run a query to combine the tables and 
+		store it into another table. 
+		(Make-table in access)
+		
+		{	Store Employees Make Table			}
+
+[x]		Create a form of all Current Stock 
+		Inventory.
+		
+		{	Current Stock Inventory Form		}
+
+[x]		Create a form for the current 	
+		Products.
+		
+		{	Current Products Form				}
+
+[x]		Create a form to use multi tables.
+
+		{	Orders								}
+
+[x]		Create a Report for the low items 
+		inventory.
+		
+		{	Low Items Inventory Report			}
+
+[x]		Create a report of all the 
+		Vendors/Suppliers and their products.
+		
+		{	Current Stock Inventory				}
+
+[x]		Create a report for daily 
+		Orders/Transaction list.
+		
+		{	Orders Query / Report				}
+
+[x]		Create a Macro, or some aumotated 
+		process to open all the above 
+		queries, forms, and
+		reports.

@@ -9,3 +9,14 @@ C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\ch
 C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.exe
 C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.pdb
 C:\Users\shawn\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.exe.config
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\bin\Debug\myFirstProject.exe.config
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\bin\Debug\myFirstProject.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\bin\Debug\myFirstProject.pdb
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.csproj.AssemblyReference.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.exe.config
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.Form1.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.Properties.Resources.resources
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.csproj.GenerateResource.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.exe
+C:\Users\User\Documents\sccCPT\CPT 185 Event Driven Programming\chapterNotes\chapter1\myFirstProject\obj\Debug\myFirstProject.pdb
