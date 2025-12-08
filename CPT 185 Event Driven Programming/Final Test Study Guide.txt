@@ -6,6 +6,9 @@ Value Type Variables
 	Float
 	Boolean
 	Char
+	
+	Stored directly on the stack
+	The variable contains the actual value
 
 Reference Type Variables
 	String
@@ -13,66 +16,180 @@ Reference Type Variables
 	List
 	Classes
 	
+	Variable lives on the stack, but the object lives on the heap
+	The variable contains a reference (pointer) to the actual data
+	
 Var Keyword
 
 Operators
 	Arithmetic
-		+
-		-
-		/
-		*
+		+	plus
+		-	minus
+		/	
+		*	multiply
+		
 	Comparison
-		<
-		>
-		<=
-		>=
-		==
-		!=
+		<	less than
+		>	greater than
+		<= 	less than or equal to
+		>= 	greater than or equal to
+		== 	equal
+		!= 	not equal
 		
 	Logical
-		&& 
-		||
-		!
+		&& 	and
+		||	or
+		!	flip the boolean (negate)
 
 Selection Structure
 	If / Else
+		Uses boolean conditions
+		can check different types of expressions
+		great for complex logic
+		
+		if (hungry)
+		{
+			get snack
+		}
+		else
+		{
+			don't get snack
+		}
+		
 	Switch
+		compares one variable or expression against multiple constant cases
+		cleaner than writing a bunch of else if lines
+		best for menu choices, user unput options
 	
 Repetition Structure
 	For
+		
+		ex. print 10 elements (0,1,2,3,4,5,6,7,8,9)
+		
+		for (int i = 0; i < 10; i++)
+		{
+			Console.WriteLine(i);
+		}
+		
 	While
 	Do While
 	For Each
 	
 Arrays
 	How to declare and initialize
+		int[] scores = new int[5];
+		
 	Access elements
+		int thirdElement = scores[2];
+		
 	Determine array size
+		int size = scores.Length;
+		
 	Iterate through array
+		foreach (int score in scores)
+		{
+			Console.WriteLine(score);
+		}
 	Use array methods
 		Sort
+			Array.Sort(scores); 	// directly changes the existing array
 		Max
 		Min
 
 Lists
 	How to declare
-		Add
-		Remove
-		Count
-		Sort
+		List<int> numbers = new List<int>();
+	
+	Add
+		numbers.Add(1);
+		numbers.Add(2);
+		numbers.Add(10);
+			
+	Remove
+		numbers.Remove(10);      // removes the *value* 10
+		numbers.RemoveAt(0);     // removes item at index 0
+		numbers.Clear();         // removes all items
+
+	Count
+		int total = numbers.Count;
+	
+	Sort
+		
 	Iterate through list
+		foreach (int number in numbers)
+		{
+			Console.WriteLine(number);
+		}
+		
+Lists Vs Array
+	A List is better than an array when you don't know the number of 
+	items ahead of time because Lists can grow and shrink dynamically.
 	
 Classes
+	A class is a blueprint for creating objects. 
+	It defines the data (properties) and behaviors (methods) that the object will have.
+	
 	How to declare a class
+		public class Person
+		{
+			// this bittie right here is technically a declaration
+		}
+	
 	Write constructors
-		Default
-		Paratemerized
+		A constructor is a special method that runs automatically when an object
+		is created and initializes the object's fields or properties.
+		
+		Default Constructor
+		Paratemerized Constructor
+		
 	Properties
+		A property is a class member that controls access to a field. It holds data about
+		the object through get / set accessors.
+		
 	Fields
+		A field is a variable that belongs to the class.
+		It holds data about the object through get / set accessors
+		
 	Methods associated with class
+		Methods define what actions the object can perform.
+		
+		public void Speak()    					// method
+		{
+			Console.WriteLine("Hello");
+		}
+
+		
 	Encapsulation
-		Private and public fields and properties
-	This referce
+		Protects data inside a class by
+			Making fields private
+			Exposing them safely through public properties
+		
+	This reference
+		this refers to the current object (the instance). It’s used to access the 
+		class’s own fields or properties when there’s a naming conflict.
+	
+	public class Person               			// class
+	{
+		public string Name { get; set; }   		// property
+		public int Age { get; set; }       		// property
+
+		public Person()                			// default constructor
+		{
+		}
+
+		public Person(string name, int age) 	// parameterized constructor
+		{
+			Name = name;              			 // set property
+			Age = age;                			 // set property
+		}
+
+		public void Speak()           			 // method
+		{
+			Console.WriteLine("Hello");
+		}
+	}
+
+
 		
 Inheritance, Polymorphism, Interfaces
 	Define both
