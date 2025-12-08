@@ -47,6 +47,7 @@ namespace ships
 
         private void viewShipsButton_Click(object sender, EventArgs e)
         {
+
             updateListbox();
         }
 
