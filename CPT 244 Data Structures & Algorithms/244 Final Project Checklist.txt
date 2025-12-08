@@ -18,7 +18,7 @@
 		store it into another table. 
 		(Make-table in access)
 		
-		{	Store Employees Make Table			}
+		{	Store Employees Query		}
 
 [x]		Create a form of all Current Stock 
 		Inventory.
@@ -53,3 +53,5 @@
 		process to open all the above 
 		queries, forms, and
 		reports.
+		
+		{ 	Open all queries, reports, forms 	}
