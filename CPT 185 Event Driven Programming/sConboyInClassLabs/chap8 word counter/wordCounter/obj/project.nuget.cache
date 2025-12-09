@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "smIO8peFHA4=",
+  "dgSpecHash": "debMjxl0pbc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\sConboyInClassLabs\\chap8 word counter\\wordCounter\\wordCounter.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\sConboyInClassLabs\\chap8 word counter\\wordCounter\\wordCounter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shawnconboy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\shawnconboy\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\shawnconboy\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\8.0.22\\microsoft.netcore.app.host.win-arm64.8.0.22.nupkg.sha512",
+    "C:\\Users\\shawnconboy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
   "logs": []
 }

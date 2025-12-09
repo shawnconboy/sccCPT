@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\sConboyInClassLabs\\chap10 retail item\\retailItem\\retailItem.csproj": {}
+    "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\sConboyInClassLabs\\chap10 retail item\\retailItem\\retailItem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\sConboyInClassLabs\\chap10 retail item\\retailItem\\retailItem.csproj": {
+    "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\sConboyInClassLabs\\chap10 retail item\\retailItem\\retailItem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\sConboyInClassLabs\\chap10 retail item\\retailItem\\retailItem.csproj",
+        "projectUniqueName": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\sConboyInClassLabs\\chap10 retail item\\retailItem\\retailItem.csproj",
         "projectName": "retailItem",
-        "projectPath": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\sConboyInClassLabs\\chap10 retail item\\retailItem\\retailItem.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\sConboyInClassLabs\\chap10 retail item\\retailItem\\obj\\",
+        "projectPath": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\sConboyInClassLabs\\chap10 retail item\\retailItem\\retailItem.csproj",
+        "packagesPath": "C:\\Users\\shawnconboy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shawnconboy\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\sConboyInClassLabs\\chap10 retail item\\retailItem\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\shawnconboy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,7 +40,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -60,6 +56,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-arm64",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -68,7 +82,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
