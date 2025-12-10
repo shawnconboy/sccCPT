@@ -168,79 +168,520 @@ Classes
 		this refers to the current object (the instance). It’s used to access the 
 		class’s own fields or properties when there’s a naming conflict.
 	
-	public class Person               			// class
-	{
-		public string Name { get; set; }   		// property
-		public int Age { get; set; }       		// property
+	Example Classes
 
-		public Person()                			// default constructor
+	// person class
+		public class Person               			// class
 		{
+			public string Name { get; set; }   		// property
+			public int Age { get; set; }       		// property
+
+			public Person()                			// default constructor
+			{
+			}
+
+			public Person(string name, int age) 	// parameterized constructor
+			{
+				Name = name;              			 // set property
+				Age = age;                			 // set property
+			}
+
+			public void Speak()           			 // method
+			{
+				Console.WriteLine("Hello");
+			}
 		}
 
-		public Person(string name, int age) 	// parameterized constructor
+	// student class
+		public class Student            // class
 		{
-			Name = name;              			 // set property
-			Age = age;                			 // set property
+			private int _id;            // field
+			public string Name { get; set; }   // property
+
+			public Student(string name, int id)   // constructor
+			{
+				Name = name;
+				_id = id;
+			}
+
+			public void DisplayInfo()      // method
+			{
+				Console.WriteLine(Name);
+				Console.WriteLine(_id);
+			}
 		}
 
-		public void Speak()           			 // method
-		{
-			Console.WriteLine("Hello");
-		}
-	}
-
-
-		
 Inheritance, Polymorphism, Interfaces
-	Define both
-	Perform inheritance
+
+	Inheritance
+	A derived class inherits fields, properties, and methods 
+	from a base class.
+	
+	Example:
+		public class Animal 
+		{
+			public void Eat() { }
+		}
+
+		public class Dog : Animal   // Dog inherits from Animal
+		{
+		}
+
 	Base Classes / Derived Classes
-	Overriding a method
-	Storing class objects in arrays or lists
+		Base class  = the parent (Animal)
+		Derived class = the child (Dog)
+
+Perform inheritance
+	public class Vehicle { }
+	public class Car : Vehicle { }
+
+Polymorphism
+	"Many forms."
+	Allows a derived class to override a method from the base class.
+	
+	Requires the base class method to be marked "virtual"
+	and the derived class method to be marked "override".
+
+	Example:
+		public class Animal
+		{
+			public virtual void Speak()
+			{
+				Console.WriteLine("Animal noise");
+			}
+		}
+
+		public class Dog : Animal
+		{
+			public override void Speak()
+			{
+				Console.WriteLine("Bark");
+			}
+		}
+
+Interface
+	A contract that defines method signatures with no implementation.
+	A class that implements an interface MUST implement every method.
+
+	Example:
+		public interface IShape 
+		{
+			void Draw();
+		}
+
+		public class Circle : IShape
+		{
+			public void Draw()
+			{
+				Console.WriteLine("Drawing circle");
+			}
+		}
+
+Storing class objects in arrays or lists
+	You can store multiple objects of a class (or base class) in a collection.
+
+	Example (List):
+		List<Animal> pets = new List<Animal>();
+		pets.Add(new Dog());
+		pets.Add(new Animal());
+
+	Example (Array):
+		Animal[] zoo = new Animal[3];
+		zoo[0] = new Dog();
+		zoo[1] = new Animal();
+
 	
 Linq Methods and Query Syntax
+	Linq Methods
+	Requires:
+		using System.Linq;
+
 	Where
+		Filters a collection based on a condition.
+		var result = numbers.Where(n => n > 5).ToList();
+
 	Select
-	Order by
+		Transforms each element in the collection.
+		var doubled = numbers.Select(n => n * 2).ToList();
+
+	Order By
+		Sorts a collection.
+		var sorted = numbers.OrderBy(n => n).ToList();
+		var sortedDesc = numbers.OrderByDescending(n => n).ToList();
+
 	Count
+		Counts elements that match a condition.
+		int countOver5 = numbers.Count(n => n > 5);
+
 	Sum
+		Adds all elements together.
+		int total = numbers.Sum();
+
 	Average
+		Computes the average of all elements.
+		double avg = numbers.Average();
+
+
+Query Syntax (SQL-like)
+	var result =
+		from n in numbers
+		where n > 5
+		select n;
+
+	var sorted =
+		from n in numbers
+		orderby n
+		select n;
+
+
 	
 Lambda Expressions
 
+	A lambda expression is a short inline function used with LINQ.
+	Basic format:
+		input => expression
+
+	Common examples:
+		n => n > 5
+		n => n * 2
+		(x, y) => x + y
+
+	Used inside LINQ:
+		var result = numbers.Where(n => n > 5).ToList();
+		var doubled = numbers.Select(n => n * 2).ToList();
+
+	When to use lambdas:
+		- When you need a quick inline condition or transformation
+		- When using LINQ methods (Where, Select, OrderBy)
+		- When the logic is simple and short
+		- When you don't want to write a separate method
+
+	Before vs After LINQ + Lambda:
+
+		Filtering (numbers > 5)
+			Before:
+				List<int> result = new List<int>();
+				foreach (int n in numbers)
+				{
+					if (n > 5)
+						result.Add(n);
+				}
+
+			After:
+				var result = numbers.Where(n => n > 5).ToList();
+
+
+		Doubling numbers
+			Before:
+				List<int> doubled = new List<int>();
+				foreach (int n in numbers)
+				{
+					doubled.Add(n * 2);
+				}
+
+			After:
+				var doubled = numbers.Select(n => n * 2).ToList();
+
+
+		Sorting
+			Before:
+				numbers.Sort();
+
+			After:
+				var sorted = numbers.OrderBy(n => n).ToList();
+				var sortedDesc = numbers.OrderByDescending(n => n).ToList();
+
+
 Write to files
+	Writing to a file means saving text or data onto the computer’s storage.  
+		Requires: using System.IO;
+
+	Write All Text
+		File.WriteAllText("output.txt", "Hello world!");
+			// overwrites file if it already exists
+
+	Write Line-by-Line
+		string[] lines = { "line1", "line2", "line3" };
+		File.WriteAllLines("data.txt", lines);
+
+	Append Text
+		File.AppendAllText("log.txt", "New log entry\n");
+
+	Using StreamWriter (manual writing, one line at a time)
+		using (StreamWriter sw = new StreamWriter("notes.txt"))
+		{
+			sw.WriteLine("Hello class");
+			sw.WriteLine("This is another line");
+		}
+
+	Key Concepts:
+		- WriteAllText 	= writes one big string
+		- WriteAllLines = writes an array of strings
+		- AppendAllText = adds onto an existing file
+		- StreamWriter 	= most control, writes line-by-line
+
 Read from files
+	Reading from a file means loading saved data back into your program.
+
+	Read All Text
+		string text = File.ReadAllText("output.txt");
+		Console.WriteLine(text);
+
+	Read Lines Into Array
+		string[] lines = File.ReadAllLines("data.txt");
+		foreach (string line in lines)
+		{
+			Console.WriteLine(line);
+		}
+
+	Using StreamReader (manual reading)
+		using (StreamReader sr = new StreamReader("notes.txt"))
+		{
+			string line = sr.ReadLine();
+			while (line != null)
+			{
+				Console.WriteLine(line);
+				line = sr.ReadLine();
+			}
+		}
+
+	Check if file exists
+		if (File.Exists("notes.txt"))
+		{
+			Console.WriteLine("Found it!");
+		}
+
+	Key Concepts:
+		- ReadAllText 	= returns entire file as one string
+		- ReadAllLines 	= returns array of lines
+		- StreamReader 	= reads one line at a time
+		- File.Exists 	= prevents crashing if file is missing
 	
 String Manipulation and Processing
-	Parse data
-	Validate data
-	Tokenize strings
-	String builder
+	Parse Data
+		Convert strings to numbers or other types.
 	
+		int age = int.Parse("25");
+		double price = double.Parse("19.99");
+
+		TryParse (safer — doesn't crash)
+		int.TryParse("abc", out int num);  // num = 0 and won't crash
+
+	Validate Data
+		Check if input meets conditions before using it.
+
+		if (string.IsNullOrWhiteSpace(name))
+		{
+			Console.WriteLine("Invalid name");
+		}
+
+	Tokenize Strings
+		Breaking a string into pieces.
+
+		string data = "apple,banana,orange";
+		string[] tokens = data.Split(',');
+
+		foreach (string item in tokens)
+		{
+			Console.WriteLine(item);
+		}
+
+	StringBuilder
+		Used when building large strings efficiently.
+			using System.Text;
+
+		StringBuilder sb = new StringBuilder();
+		sb.Append("Hello ");
+		sb.Append("World");
+		
+		string final = sb.ToString();
+
 Methods
-	Declare methods
-	Value vs nonValue returning methods
-	
+
+	Value vs Non-Value Returning Summary
+		Value Returning:
+			returns something
+			uses a non-void type (int, bool, string, double)
+			must have `return`
+			used for calculations, decisions, and producing data
+
+		Non-Value Returning (void):
+			does NOT return anything
+			just performs actions
+			no `return` required (unless ending the method early)
+			used for printing, updating UI, changing variables
+
+	Example of both together:
+		public int Multiply(int x, int y)		// value returning
+		{
+			return x * y;
+		}
+
+		public void DisplayProduct(int x, int y)	// non-value returning
+		{
+			int result = Multiply(x, y);
+			Console.WriteLine("Product = " + result);
+		}
+
+	Declare Methods
+		public void SayHello()
+		{
+			Console.WriteLine("Hello");
+		}
+
+	Value Returning Method
+		public int Add(int a, int b)
+		{
+			return a + b;
+		}
+
+	Non-Value Returning Method (void)
+		public void PrintName(string name)
+		{
+			Console.WriteLine(name);
+		}
+
+	Parameters
+		pass data into a method
+
+	Return
+		send data back to the caller
+
 Databases
-	Data grid view
+	Databases store structured data in tables (rows + columns).  
+	WinForms can connect to a database and display or modify data using tools like  
+	DataGridView, TableAdapters, BindingSources, and strongly-typed DataSets.
+
+	Data Grid View
+		A DataGridView is a visual table control in WinForms.
+		It displays rows of database data so users can view or edit records.
+
+		Used for:
+			- showing lists of customers, employees, items, etc.
+			- editing data directly in the grid
+			- viewing results from queries
+			- letting the user interact with stored information
+
+	Bind Data
+		When you “bind” data, you are connecting the DataGridView to your database
+		so that whatever is in the database automatically appears in the UI.
+
+		The common line:
+			this.tableTableAdapter.Fill(this.myDataSet.Table);
+
+		What does this actually do?
+			- TableAdapter: a helper object that knows how to talk to the database
+			- Fill(): executes a SELECT query behind the scenes
+			- Fills your DataSet with the rows from the database table
+			- Updates any controls (like DataGridView) that are bound to that table
+
+		Why is binding important?
+			- You don’t manually loop through the database rows
+			- The DataGridView automatically displays the updated results
+			- Keeps UI and database synced
+			- Makes reading, editing, and refreshing data simple
+
+		When is it used?
+			- On Form Load (so data appears when the window opens)
+			- After saving changes
+			- After adding or modifying records
+			- Anytime you need the UI to reflect the latest database state
+
+	Example:
+		private void Form1_Load(object sender, EventArgs e)
+		{
+			this.tableTableAdapter.Fill(this.myDataSet.Table);
+		}
+
+		This pulls the data from your database and displays it in the grid
+		as soon as the form opens.
+
+	Refresh Data
+		After making changes in another form, call Fill() again to reload.
+
+		this.tableTableAdapter.Fill(this.myDataSet.Table);
+
+	Useful when:
+		- closing a Detail View
+		- adding a new record
+		- updating existing entries
+		- switching between forms
+
+	Open Form
+		form2.ShowDialog();
+		// pauses the original form until the second form is closed
+
+	Use Case:
+		- Form1 displays a list (DataGridView)
+		- DetailView shows a single person/item for editing
+		- Closing DetailView returns to Form1 and refreshes data
+
+	Save Form Data
+		this.Validate();
+		this.bindingSource.EndEdit();
+		this.tableAdapterManager.UpdateAll(this.dataSet);
+
+		What this actually does:
+			Validate()
+				- ensures all controls have valid data before saving
+				- triggers validation events
+
+			bindingSource.EndEdit()
+				- finalizes any in-progress edits in textboxes, etc.
+				- pushes changes into the DataSet object
+
+			tableAdapterManager.UpdateAll(dataSet)
+				- looks for changes (insert / update / delete)
+				- sends SQL commands to the database
+				- saves everything permanently
+
+	Why these steps matter:
+		- Without Validate, bad input could cause crashes
+		- Without EndEdit, your last textbox change may not be included
+		- Without UpdateAll, nothing is written to the actual .mdb or .accdb file
+
+	Typical Data Flow in WinForms Database Apps:
+		Database File (.accdb)
+			↓
+		TableAdapter loads data using Fill()
+			↓
+		DataSet holds the data in memory
+			↓
+		BindingSource connects DataSet → UI controls
+			↓
+		DataGridView displays the data
+			↓
+		User edits data
+			↓
+		EndEdit + UpdateAll pushes changes back to the database
 	
 Winforms Controls
 	Textbox
+	string name = nameTextbox.Text;
+
 	Buttons
+		private void submitButton_Click(object sender, EventArgs e)
+		{
+			// do stuff
+		}
+
 	Checkbox
-	Radio buttons
-	Listbox
-	Open form and save form
-	Groupbox
+		if (checkBox1.Checked) { }
+
+	Radio Buttons
+		if (radio1.Checked) { }
+
+	ListBox
+		listBox1.Items.Add("hello");
+
+	GroupBox
+		Used to group related controls logically.
+
 	Panels
-	Form load
-	
-Test Layout
-	Short answer
-	Long answer
-	Fill in the blank
-	Code snippets
-	Code tracing
-	Debugging Section
-	
-11AM - 2PM Tuesday Dec. 9
+		Used for layout sections of a form.
+
+	Form Load
+		private void Form1_Load(object sender, EventArgs e)
+		{
+			// runs when form opens
+		}
