@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{572D8D8A-BA60-4339-BDAD-F3BF541522D2}|dealership.csproj|solutionrelative:addvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572D8D8A-BA60-4339-BDAD-F3BF541522D2}|dealership.csproj|c:\\users\\user\\documents\\scccpt\\cpt 185 event driven programming\\finalproject\\dealership\\financing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{572D8D8A-BA60-4339-BDAD-F3BF541522D2}|dealership.csproj|C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\finalProject\\dealership\\financing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{572D8D8A-BA60-4339-BDAD-F3BF541522D2}|dealership.csproj|solutionrelative:financing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -57,8 +57,7 @@
               "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\finalProject\\dealership\\Financing.cs [Design]",
               "RelativeToolTip": "Financing.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T15:06:48.423Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-02T15:06:48.423Z"
             },
             {
               "$type": "Document",
@@ -69,8 +68,7 @@
               "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\finalProject\\dealership\\Inventory.cs [Design]",
               "RelativeToolTip": "Inventory.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T09:50:21.451Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-30T09:50:21.451Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\finalProject\\dealership\\DealershipDataSet.xsd",
               "RelativeToolTip": "DealershipDataSet.xsd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2025-11-30T09:47:48.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T09:47:48.049Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "ToolTip": "C:\\Users\\User\\Documents\\sccCPT\\CPT 185 Event Driven Programming\\finalProject\\dealership\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T09:35:48.37Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-30T09:35:48.37Z"
             },
             {
               "$type": "Document",
@@ -106,8 +102,7 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T09:35:50.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T09:35:50.439Z"
             }
           ]
         }
