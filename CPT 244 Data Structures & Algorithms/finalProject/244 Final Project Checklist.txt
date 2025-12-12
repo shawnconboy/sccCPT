@@ -1,0 +1,187 @@
+Shawn Conboy
+CPT 244
+A01H
+
+---------------------------------------------------------------------------
+
+Checklist
+
+---------------------------------------------------------------------------
+
+[x]		Run a query to do a list of all 
+		Customers and their detail information.
+		
+		{	Customer Information Query			}
+		
+[x]		Run a query using two related tables 
+		to list some items.
+		
+		{	Store Employees Query				}
+		
+		
+[x]		Run a query to combine the tables and 
+		store it into another table. 
+		(Make-table in access)
+		
+		{	Store Employees Make Table Query	}
+
+[x]		Create a form of all Current Stock 
+		Inventory.
+		
+		{	Current Stock Inventory Form		}
+
+[x]		Create a form for the current 	
+		Products.
+		
+		{	Current Products Form				}
+
+[x]		Create a form to use multi tables.
+
+		{	Orders								}
+
+[x]		Create a Report for the low items 
+		inventory.
+		
+		{	Low Items Inventory Report			}
+
+[x]		Create a report of all the 
+		Vendors/Suppliers and their products.
+		
+		{	Current Stock Inventory				}
+
+[x]		Create a report for daily 
+		Orders/Transaction list.
+		
+		{	Orders Query / Report				}
+
+[x]		Create a Macro, or some aumotated 
+		process to open all the above 
+		queries, forms, and
+		reports.
+		
+		{ 	Open all queries, reports, forms 	}
+		
+-----------------------------------------------------------------------
+
+Table Descriptions
+
+-----------------------------------------------------------------------
+
+	Brands
+		Description
+			Stores the different types of brands the stores carry.
+			
+		Fields
+			brand_id		// primary key to relate to a brand name		// number
+			brand_name		// the name of the brand						// text
+			
+	Categories
+		Description
+			Stores the different types of categories the bikes will be classified under.
+			
+		Fields
+			category_id		// primary key to relate to a category name 	// number
+			category_name 	// the name of the category_id					// text
+			
+	Customers
+		Description
+			Stores individual customer information
+			
+		Fields
+			customer_id		// primary key to reference each customer		// number
+			first_name		// ...											// text
+			last_name		// ...											// text
+			phone			// ...											// text
+			email			// ...											// text
+			street			// ...											// text
+			city			// ...											// text
+			state			// ...											// text
+			zip_code		// ...											// number
+			
+	Orders
+		Description
+			Stores order specific information
+			
+		Fields
+			order_id		// primary key to reference each order			// number
+			customer_id		// foreign key to reference a customer			// number
+			order_status	// number to dictate order status				// number
+			order_date		// date order was placed						// text
+			required_date	// no clue here. imagination					// text
+			shipped_date 	// date order gets shipped						// text
+			store_id		// foreign key to reference store				// number
+			staff_id		// foreign key to reference staff member		// number
+			
+	Order_items
+		Description
+			Shows details that are specific to items purchased for a specific 
+			order.
+			
+		Fields
+			order_id		// foreign key to reference an order 			// number
+			item_id			// can be a primary key..... with logic			// number
+			product_id		// foreign key to reference a product			// number
+			quantity		// amount of each item per purchase				// number
+			list_price		// list price for product						// number
+			discount 		// someone's running a sale						// number
+			
+	Products
+		Description
+			Stores individual product information
+			
+		Fields
+			product_id		// primary key to relate to product name		// number
+			product_name	// name of product.. my guy						// text
+			brand_id		// foreign key to reference brand				// number
+			category_id		// foreign key to reference category			// number
+			model_year		// year product was released					// number
+			list_price		// price product is listed for					// number
+			
+	Staffs
+		Description
+			Stores information pertaining to individual employees(staff).
+			
+		Fields
+			staff_id		// primary key to relate to staff name			// number
+			first_name		// ...											// text
+			last_name		// ...											// text
+			email			// ...											// text
+			phone			// ...											// text
+			active			// whether employee is still one or not			// number
+			store_id		// foreign key to show what store employee		// number
+							   works at
+			manager_id		// foreign key to show who manageres staff		// number
+	
+	Stocks
+		Description
+			Stores information about how much product each store has
+			
+		Fields
+			store_id		// foreign key referencing a store				// number
+			product_id		// foreign key referencing a product			// number
+			quantity		// how much of that product that store has		// number
+			
+	Stores
+		Description
+			Table to store infromation on specific stores
+			
+		Fields
+			store_id		// primary key to reference store name			// number
+			store_name		// name of store								// text
+			phone			// ...											// text
+			email			// ...											// text
+			street			// ...											// text
+			city			// ...											// text
+			state			// ...											// text
+			zip_code		// ...											// number
+			
+	Store Employees Make Table
+		Description
+			Shows information about what staff member work at what stores
+			
+		Fields
+			stores_store_id	// foreign key to refer to specific store		// number
+			store_name		// shows store name 							// text
+			first_name		// employee first name							// text
+			last_name		// ...											// text
+			
