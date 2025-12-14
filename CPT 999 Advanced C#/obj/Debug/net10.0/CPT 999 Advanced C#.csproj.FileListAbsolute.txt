@@ -1,0 +1,15 @@
+/Users/shawnconboy/Documents/sccCPT/CPT 999 Advanced C#/obj/Debug/net10.0/CPT 999 Advanced C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shawnconboy/Documents/sccCPT/CPT 999 Advanced C#/obj/Debug/net10.0/CPT 999 Advanced C#.AssemblyInfoInputs.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 999 Advanced C#/obj/Debug/net10.0/CPT 999 Advanced C#.AssemblyInfo.cs
+/Users/shawnconboy/Documents/sccCPT/CPT 999 Advanced C#/obj/Debug/net10.0/CPT 999 Advanced C#.csproj.CoreCompileInputs.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 999 Advanced C#/obj/Debug/net10.0/CPT 999 Advanced C#.sourcelink.json
+/Users/shawnconboy/Documents/sccCPT/CPT 999 Advanced C#/bin/Debug/net10.0/CPT 999 Advanced C#
+/Users/shawnconboy/Documents/sccCPT/CPT 999 Advanced C#/bin/Debug/net10.0/CPT 999 Advanced C#.deps.json
+/Users/shawnconboy/Documents/sccCPT/CPT 999 Advanced C#/bin/Debug/net10.0/CPT 999 Advanced C#.runtimeconfig.json
+/Users/shawnconboy/Documents/sccCPT/CPT 999 Advanced C#/bin/Debug/net10.0/CPT 999 Advanced C#.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 999 Advanced C#/bin/Debug/net10.0/CPT 999 Advanced C#.pdb
+/Users/shawnconboy/Documents/sccCPT/CPT 999 Advanced C#/obj/Debug/net10.0/CPT 999 Advanced C#.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 999 Advanced C#/obj/Debug/net10.0/refint/CPT 999 Advanced C#.dll
+/Users/shawnconboy/Documents/sccCPT/CPT 999 Advanced C#/obj/Debug/net10.0/CPT 999 Advanced C#.pdb
+/Users/shawnconboy/Documents/sccCPT/CPT 999 Advanced C#/obj/Debug/net10.0/CPT 999 Advanced C#.genruntimeconfig.cache
+/Users/shawnconboy/Documents/sccCPT/CPT 999 Advanced C#/obj/Debug/net10.0/ref/CPT 999 Advanced C#.dll
