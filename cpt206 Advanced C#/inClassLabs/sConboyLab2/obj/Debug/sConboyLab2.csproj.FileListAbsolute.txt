@@ -1,0 +1,12 @@
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\inClassLabs\sConboyLab2\bin\Debug\CityDB.mdf
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\inClassLabs\sConboyLab2\bin\Debug\CityDB_log.ldf
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\inClassLabs\sConboyLab2\bin\Debug\sConboyLab2.exe.config
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\inClassLabs\sConboyLab2\bin\Debug\sConboyLab2.exe
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\inClassLabs\sConboyLab2\bin\Debug\sConboyLab2.pdb
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\inClassLabs\sConboyLab2\obj\Debug\sConboyLab2.csproj.AssemblyReference.cache
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\inClassLabs\sConboyLab2\obj\Debug\sConboyLab2.Form1.resources
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\inClassLabs\sConboyLab2\obj\Debug\sConboyLab2.Properties.Resources.resources
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\inClassLabs\sConboyLab2\obj\Debug\sConboyLab2.csproj.GenerateResource.cache
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\inClassLabs\sConboyLab2\obj\Debug\sConboyLab2.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\inClassLabs\sConboyLab2\obj\Debug\sConboyLab2.exe
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\inClassLabs\sConboyLab2\obj\Debug\sConboyLab2.pdb
