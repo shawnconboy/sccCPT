@@ -1,4 +1,4 @@
-package sConboyLab1;
+package sConboyLab1Resubmission;
 
 import java.util.Scanner;
 
