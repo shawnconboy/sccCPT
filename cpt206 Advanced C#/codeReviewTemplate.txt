@@ -1,0 +1,23 @@
+Code Review
+
+By Shawn Conboy
+
+First Impressions
+
+	
+Is the code generally readable and well documented?
+
+	
+
+Did you find any software defects?
+	
+	
+
+
+What was one way that your solution differed from yours?
+
+	
+
+Do you have any other constructive comments for the author?
+
+	
