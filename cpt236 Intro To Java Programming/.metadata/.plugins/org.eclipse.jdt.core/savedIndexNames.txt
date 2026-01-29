@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\shawn\Documents\sccCPT\cpt236 Intro To Java Programming\.metadata\.plugins\org.eclipse.jdt.core
+3694405450.index
+603599003.index
+2284011372.index
+13687173.index
