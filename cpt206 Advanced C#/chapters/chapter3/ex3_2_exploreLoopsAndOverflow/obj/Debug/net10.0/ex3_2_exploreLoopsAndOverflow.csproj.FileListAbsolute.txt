@@ -1,0 +1,15 @@
+C:\Users\shawn\Documents\sccCPT\cpt206 Advanced C#\chapters\chapter3\ex3_2_exploreLoopsAndOverflow\bin\Debug\net10.0\ex3_2_exploreLoopsAndOverflow.exe
+C:\Users\shawn\Documents\sccCPT\cpt206 Advanced C#\chapters\chapter3\ex3_2_exploreLoopsAndOverflow\bin\Debug\net10.0\ex3_2_exploreLoopsAndOverflow.deps.json
+C:\Users\shawn\Documents\sccCPT\cpt206 Advanced C#\chapters\chapter3\ex3_2_exploreLoopsAndOverflow\bin\Debug\net10.0\ex3_2_exploreLoopsAndOverflow.runtimeconfig.json
+C:\Users\shawn\Documents\sccCPT\cpt206 Advanced C#\chapters\chapter3\ex3_2_exploreLoopsAndOverflow\bin\Debug\net10.0\ex3_2_exploreLoopsAndOverflow.dll
+C:\Users\shawn\Documents\sccCPT\cpt206 Advanced C#\chapters\chapter3\ex3_2_exploreLoopsAndOverflow\bin\Debug\net10.0\ex3_2_exploreLoopsAndOverflow.pdb
+C:\Users\shawn\Documents\sccCPT\cpt206 Advanced C#\chapters\chapter3\ex3_2_exploreLoopsAndOverflow\obj\Debug\net10.0\ex3_2_exploreLoopsAndOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\Documents\sccCPT\cpt206 Advanced C#\chapters\chapter3\ex3_2_exploreLoopsAndOverflow\obj\Debug\net10.0\ex3_2_exploreLoopsAndOverflow.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\sccCPT\cpt206 Advanced C#\chapters\chapter3\ex3_2_exploreLoopsAndOverflow\obj\Debug\net10.0\ex3_2_exploreLoopsAndOverflow.AssemblyInfo.cs
+C:\Users\shawn\Documents\sccCPT\cpt206 Advanced C#\chapters\chapter3\ex3_2_exploreLoopsAndOverflow\obj\Debug\net10.0\ex3_2_exploreLoopsAndOverflow.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sccCPT\cpt206 Advanced C#\chapters\chapter3\ex3_2_exploreLoopsAndOverflow\obj\Debug\net10.0\ex3_2_exploreLoopsAndOverflow.sourcelink.json
+C:\Users\shawn\Documents\sccCPT\cpt206 Advanced C#\chapters\chapter3\ex3_2_exploreLoopsAndOverflow\obj\Debug\net10.0\ex3_2_exploreLoopsAndOverflow.dll
+C:\Users\shawn\Documents\sccCPT\cpt206 Advanced C#\chapters\chapter3\ex3_2_exploreLoopsAndOverflow\obj\Debug\net10.0\refint\ex3_2_exploreLoopsAndOverflow.dll
+C:\Users\shawn\Documents\sccCPT\cpt206 Advanced C#\chapters\chapter3\ex3_2_exploreLoopsAndOverflow\obj\Debug\net10.0\ex3_2_exploreLoopsAndOverflow.pdb
+C:\Users\shawn\Documents\sccCPT\cpt206 Advanced C#\chapters\chapter3\ex3_2_exploreLoopsAndOverflow\obj\Debug\net10.0\ex3_2_exploreLoopsAndOverflow.genruntimeconfig.cache
+C:\Users\shawn\Documents\sccCPT\cpt206 Advanced C#\chapters\chapter3\ex3_2_exploreLoopsAndOverflow\obj\Debug\net10.0\ref\ex3_2_exploreLoopsAndOverflow.dll

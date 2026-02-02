@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ex3_2_exploreLoopsAndOverflow/1.0.0": {
+        "runtime": {
+          "ex3_2_exploreLoopsAndOverflow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex3_2_exploreLoopsAndOverflow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
