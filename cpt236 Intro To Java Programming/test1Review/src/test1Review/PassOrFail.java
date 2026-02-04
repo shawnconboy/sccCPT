@@ -40,7 +40,7 @@ public class PassOrFail {
 		}
 		
 		System.out.println("Total number of passing tests : " + passed);
-
+		input.close();
 	}
 
 }

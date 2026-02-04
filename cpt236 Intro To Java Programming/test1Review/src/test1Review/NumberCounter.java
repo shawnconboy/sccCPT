@@ -55,6 +55,7 @@ public class NumberCounter {
 		System.out.println("Positive Numbers : " + positive);
 		System.out.println("Negative Numbers : " + negative);
 		System.out.println("Value of Zero : " + zero);
+		input.close();
 	}
 
 }

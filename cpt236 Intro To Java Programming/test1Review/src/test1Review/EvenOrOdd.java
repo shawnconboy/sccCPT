@@ -29,5 +29,6 @@ public class EvenOrOdd {
 		
 		System.out.println("Even : " + even);
 		System.out.println("Odd  : " + odd);
+		input.close();
 	}
 }

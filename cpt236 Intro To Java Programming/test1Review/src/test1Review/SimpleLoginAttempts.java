@@ -34,5 +34,6 @@ public class SimpleLoginAttempts {
 		{
 			System.out.println("Account Locked. Contact Bossman");
 		}
+		input.close();
 	}
 }
