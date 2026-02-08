@@ -43,6 +43,7 @@ public class CreateSpaServices {
 		
 		service.setServiceDescription(serviceDescription);
 		service.setPrice(price);
+		input.close();
 		return service;
 	}
 }

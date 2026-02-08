@@ -42,9 +42,9 @@ public class TestSandwich {
 		
 		System.out.println("\nObject Constructor Created Sandwich : ");
 		System.out.println("---------------------------");
-		System.out.println("Meat  : " + hamSandwich.mainIngredient);
-		System.out.println("Bread :" + hamSandwich.breadType);
-		System.out.println("Price : " + hamSandwich.price);
+		System.out.println("Meat  : " + hamSandwich.getMainIngredient());
+		System.out.println("Bread : " + hamSandwich.getBreadType());
+		System.out.println("Price : " + hamSandwich.getPrice());
 		
 		input.close();
 	}

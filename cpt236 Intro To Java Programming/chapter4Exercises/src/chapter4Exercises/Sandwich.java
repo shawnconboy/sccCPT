@@ -4,9 +4,9 @@ public class Sandwich
 {
 
 // variables
-	String mainIngredient;
-	String breadType;
-	double price;
+	private String mainIngredient;
+	private String breadType;
+	private double price;
 	
 // constructors
 	
