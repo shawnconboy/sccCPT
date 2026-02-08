@@ -29,6 +29,25 @@ public class Lease
 	
 // methods
 	
+	public void showValues()
+	{
+		System.out.print("Tenant Name : " + this.name + "\n" +
+						   "Apartment Number : " + this.apartmentNumber + "\n" +
+						   "Rent Amount : " + this.rentAmount + "\n" +
+						   "Lease Term : " + this.leaseTerm);
+	}
+	
+	public void addPetFee()
+	{
+		this.rentAmount += 10;
+	}
+	
+	public static void explainPetPolicy()
+	{
+		System.out.println("\nIf you got a cat or a dawg, you pay an extra 10 bucks a month for us to replace them carpets, shawty.");
+		
+	}
+	
 	// setters
 	public void setName(String name)
 	{
