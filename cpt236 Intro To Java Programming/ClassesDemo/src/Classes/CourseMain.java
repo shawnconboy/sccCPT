@@ -22,6 +22,10 @@ public class CourseMain {
 		cpt101.addStudent();
 		
 		cpt101.displayCourseInfo();
+		
+		Course cpt102 = new Course("CPT 102");
+		cpt102.addStudent();
+		cpt102.displayCourseInfo();
 	}
 
 }

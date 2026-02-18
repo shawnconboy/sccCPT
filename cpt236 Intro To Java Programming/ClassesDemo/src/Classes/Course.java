@@ -6,13 +6,14 @@ public class Course
 // fields
 	
 	private String CourseName;
-	public static int numStudents;
+	public int numStudents;
 	
 // constructors
 	
 	public Course(String courseName)
 	{
 		CourseName = courseName;
+		numStudents = 0;
 	}
 	
 // methods
@@ -38,7 +39,7 @@ public class Course
 	{
 		int studentCount = getNumStudents();
 		
-		if (studentCount > 30)
+		if (studentCount >= 30)
 		{
 			System.out.println("Max Students Reached.");
 		}
@@ -50,9 +51,7 @@ public class Course
 	
 	public void displayCourseInfo()
 	{
-		System.out.println("Course Name : " + CourseName + 
+		System.out.println("\nCourse Name : " + CourseName + 
 						   "\nStudents in course : " + numStudents);
 	}
-	
-	
 }
