@@ -20,6 +20,8 @@ public class BabyNameComparison {
 		
 		displayAllNameCombos(name1, name2, name3);
 		
+		input.close();
+		
 
 	}
 
