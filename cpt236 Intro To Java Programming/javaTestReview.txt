@@ -1,0 +1,255 @@
+JAVA TEST REVIEW Quick Reference)
+=================================================
+
+1) ARRAYS (fixed size)
+---------------------
+Create:
+- type[] name = new type[size];
+  int[] nums = new int[8];
+- type[] name = { values... };
+  String[] teams = {"Hawks","Bulls"};
+
+Access / Update:
+- nums[0] = 10;
+- int x = nums[i];
+
+Length:
+- nums.length   (NOT a method)
+
+Loop (classic):
+for (int i = 0; i < nums.length; i++) {
+    // use nums[i]
+}
+
+Loop (enhanced / for-each):
+for (int n : nums) {
+    // n is a copy (can’t assign back to array element directly)
+}
+
+Common patterns:
+- Sum:
+  int total = 0;
+  for (int n : nums) total += n;
+
+- Find max/min:
+  int max = nums[0];
+  for (int n : nums) if (n > max) max = n;
+
+- Count / filter:
+  int evens = 0;
+  for (int n : nums) if (n % 2 == 0) evens++;
+
+Arrays of objects:
+Salesperson[] people = new Salesperson[7];
+people[i] = new Salesperson(id, sales);
+
+Null check (important):
+if (people[i] != null) { ... }
+
+Swap (for sorting objects or values):
+type temp = arr[i];
+arr[i] = arr[j];
+arr[j] = temp;
+
+Sort (built-in):
+- Arrays.sort(nums);                      // primitives
+- Arrays.sort(strings);                   // Strings (A-Z)
+- Arrays.sort(objects, comparator);       // custom objects
+
+2) ARRAYLIST (resizable list)
+-----------------------------
+Import:
+import java.util.ArrayList;
+
+Create:
+ArrayList<String> names = new ArrayList<>();
+ArrayList<Integer> scores = new ArrayList<>();
+
+Add:
+names.add("Shawn");
+names.add(0, "First");        // insert at index
+
+Get / Set:
+String s = names.get(0);
+names.set(0, "Updated");
+
+Remove:
+names.remove(0);              // by index
+names.remove("Updated");      // by value (first match)
+
+Size:
+names.size()                  // method
+
+Contains / Index:
+names.contains("Shawn");
+names.indexOf("Shawn");       // -1 if not found
+
+Loop:
+for (int i = 0; i < names.size(); i++) {
+    System.out.println(names.get(i));
+}
+for (String name : names) {
+    System.out.println(name);
+}
+
+Convert:
+- List -> Array:
+  String[] arr = names.toArray(new String[0]);
+
+- Array -> List:
+  ArrayList<String> list = new ArrayList<>(java.util.Arrays.asList(arr));
+
+Sorting:
+- Collections.sort(names);                 // natural order
+- names.sort((a,b) -> a.length() - b.length());  // custom (Comparator)
+
+When to use:
+- Array: fixed size, fastest/simple, known count
+- ArrayList: size changes, lots of adds/removes, convenient methods
+
+3) STRINGBUILDER (fast string editing)
+--------------------------------------
+Import:
+(no import needed; java.lang)
+
+Create:
+StringBuilder sb = new StringBuilder();
+StringBuilder sb2 = new StringBuilder("Hello");
+
+Append:
+sb.append("Hi");
+sb.append(" ").append("there");
+
+Insert:
+sb.insert(0, "Start-");       // index, text
+
+Delete / Remove:
+sb.delete(0, 5);              // start inclusive, end exclusive
+sb.deleteCharAt(0);
+
+Replace:
+sb.replace(0, 3, "NEW");      // start inclusive, end exclusive
+
+Reverse:
+sb.reverse();
+
+Length / CharAt:
+int len = sb.length();
+char c = sb.charAt(0);
+
+Substring (NOTE: returns String, not builder):
+String part = sb.substring(0, 4);
+
+Convert to String:
+String result = sb.toString();
+
+Best scenario:
+- building strings in loops
+- repeated edits (insert/delete/replace)
+
+4) CLASSES + MULTIPLE CLASSES IN ONE PROJECT
+--------------------------------------------
+Key idea: "has-a" (composition) and "uses-a" (object interaction)
+
+Class template:
+public class Product {
+    private int productId;
+    private String name;
+    private double price;
+
+    public Product(int productId, String name, double price) {
+        this.productId = productId;
+        this.name = name;
+        this.price = price;
+    }
+
+    public double getPrice() { return price; }
+    public String toString() { return name + " ($" + price + ")"; }
+}
+
+Using multiple classes together (HAS-A):
+CartItem HAS-A Product
+public class CartItem {
+    private Product product;
+    private int quantity;
+
+    public CartItem(Product product, int quantity) {
+        this.product = product;
+        this.quantity = quantity;
+    }
+
+    public double getLineTotal() {
+        return product.getPrice() * quantity;
+    }
+}
+
+Customer HAS-A ArrayList<CartItem>
+import java.util.ArrayList;
+
+public class Customer {
+    private int customerId;
+    private String name;
+    private ArrayList<CartItem> cart = new ArrayList<>();
+
+    public void addToCart(Product p, int qty) {
+        cart.add(new CartItem(p, qty));
+    }
+
+    public double cartTotal() {
+        double total = 0;
+        for (CartItem item : cart) total += item.getLineTotal();
+        return total;
+    }
+}
+
+Main program “uses” these classes:
+public class ShoppingSystem {
+    public static void main(String[] args) {
+        Product soap = new Product(1, "Soap", 1.25);
+        Customer john = new Customer(...);
+
+        john.addToCart(soap, 3);
+        System.out.println(john.cartTotal());
+    }
+}
+
+Important “glue” rules:
+- Create objects BEFORE using them (avoid null):
+  ArrayList<CartItem> cart = new ArrayList<>();   // NOT null
+- Use getters instead of accessing private fields
+- Use toString() for clean printing
+- Keep ONE public class per .java file (same name as file)
+
+5) QUICK “WHICH METHOD?” GUIDE
+------------------------------
+Need count items?
+- array: .length
+- ArrayList: .size()
+
+Need add/remove items dynamically?
+- ArrayList (add/remove)
+
+Need fast string building in a loop?
+- StringBuilder (append)
+
+Need search:
+- loop + if
+- ArrayList: contains(), indexOf()
+- for objects: compare a key (id, name, etc.)
+
+Need sort objects (your SalespersonSort):
+- nested loops + swap (exam-friendly)
+- or Arrays.sort / Collections.sort with Comparator (more advanced)
+
+6) COMMON GOTCHAS
+----------------
+- Array index starts at 0
+- .length vs .length()   (arrays use .length)
+- Scanner nextInt/nextDouble leaves newline:
+  after reading a number, if you need nextLine(), do:
+  input.nextLine(); // consume newline
+- NullPointerException:
+  you tried to call a method on null (create the object first)
+- Enhanced for loop doesn’t let you assign back into the array/list element directly
+
+END
