@@ -2,6 +2,7 @@
 <libraryInfos>
     <libraryInfo home="C:\Users\Shawn\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.10.v20260205-0638\jre" version="21.0.10"/>
     <libraryInfo home="C:\Users\shawn\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.9.v20251105-0741\jre" version="21.0.9"/>
+    <libraryInfo home="C:\Program Files\Eclipse Adoptium\jdk-21.0.10.7-hotspot" version="21.0.10"/>
     <libraryInfo home="C:\Users\Shawn\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.9.v20251105-0741\jre" version="21.0.9"/>
     <libraryInfo home="C:\Users\tpsol\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.10.v20260205-0638" version="21.0.10">
         <bootpath>

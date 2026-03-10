@@ -56,6 +56,7 @@ public class CarCareChoice {
 			System.out.println(userEntry + " found. Price is " + prices[foundLocation] + ".");
 		}
 		
+		input.close();
 	}
 
 }
