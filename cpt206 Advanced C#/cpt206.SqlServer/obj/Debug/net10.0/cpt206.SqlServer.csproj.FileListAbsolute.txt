@@ -1,0 +1,15 @@
+C:\Users\tpsol\Documents\sccCPT\cpt206 Advanced C#\cpt206.SqlServer\bin\Debug\net10.0\cpt206.SqlServer.deps.json
+C:\Users\tpsol\Documents\sccCPT\cpt206 Advanced C#\cpt206.SqlServer\bin\Debug\net10.0\cpt206.SqlServer.runtimeconfig.json
+C:\Users\tpsol\Documents\sccCPT\cpt206 Advanced C#\cpt206.SqlServer\bin\Debug\net10.0\cpt206.SqlServer.dll
+C:\Users\tpsol\Documents\sccCPT\cpt206 Advanced C#\cpt206.SqlServer\bin\Debug\net10.0\cpt206.SqlServer.pdb
+C:\Users\tpsol\Documents\sccCPT\cpt206 Advanced C#\cpt206.SqlServer\obj\Debug\net10.0\cpt206.SqlServer.csproj.AssemblyReference.cache
+C:\Users\tpsol\Documents\sccCPT\cpt206 Advanced C#\cpt206.SqlServer\obj\Debug\net10.0\cpt206.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tpsol\Documents\sccCPT\cpt206 Advanced C#\cpt206.SqlServer\obj\Debug\net10.0\cpt206.SqlServer.AssemblyInfoInputs.cache
+C:\Users\tpsol\Documents\sccCPT\cpt206 Advanced C#\cpt206.SqlServer\obj\Debug\net10.0\cpt206.SqlServer.AssemblyInfo.cs
+C:\Users\tpsol\Documents\sccCPT\cpt206 Advanced C#\cpt206.SqlServer\obj\Debug\net10.0\cpt206.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\tpsol\Documents\sccCPT\cpt206 Advanced C#\cpt206.SqlServer\obj\Debug\net10.0\cpt206.SqlServer.sourcelink.json
+C:\Users\tpsol\Documents\sccCPT\cpt206 Advanced C#\cpt206.SqlServer\obj\Debug\net10.0\cpt206.SqlServer.dll
+C:\Users\tpsol\Documents\sccCPT\cpt206 Advanced C#\cpt206.SqlServer\obj\Debug\net10.0\refint\cpt206.SqlServer.dll
+C:\Users\tpsol\Documents\sccCPT\cpt206 Advanced C#\cpt206.SqlServer\obj\Debug\net10.0\cpt206.SqlServer.pdb
+C:\Users\tpsol\Documents\sccCPT\cpt206 Advanced C#\cpt206.SqlServer\obj\Debug\net10.0\cpt206.SqlServer.genruntimeconfig.cache
+C:\Users\tpsol\Documents\sccCPT\cpt206 Advanced C#\cpt206.SqlServer\obj\Debug\net10.0\ref\cpt206.SqlServer.dll

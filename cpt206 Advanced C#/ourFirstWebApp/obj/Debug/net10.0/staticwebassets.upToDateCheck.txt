@@ -1,2 +1,0 @@
-wwwroot\index.html
-C:\Users\tpsol\Documents\sccCPT\cpt206 Advanced C#\ourFirstWebApp\wwwroot\index.html
