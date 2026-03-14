@@ -51,8 +51,8 @@ public class RockDemo {
 			weight = Double.parseDouble(strWeight);
 			
 			// assign to new rock object
-			SedimentaryRock iRock = new SedimentaryRock(numSamples, weight);
-			System.out.println(sRock.toString());
+//			SedimentaryRock iRock = new SedimentaryRock(numSamples, weight);
+//			System.out.println(sRock.toString());
 			break;
 		case "m":
 			// metamorphic rock
@@ -63,8 +63,8 @@ public class RockDemo {
 			weight = Double.parseDouble(strWeight);
 			
 			// assign to new rock object
-			MetamorphicRock mRock = new MetamorphicRock(numSamples, weight);
-			System.out.println(mRock.toString());
+//			MetamorphicRock mRock = new MetamorphicRock(numSamples, weight);
+//			System.out.println(mRock.toString());
 			break;
 		default:
 			
