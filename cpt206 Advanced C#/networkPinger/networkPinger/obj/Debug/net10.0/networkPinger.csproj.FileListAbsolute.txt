@@ -1,0 +1,15 @@
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\networkPinger\networkPinger\bin\Debug\net10.0\networkPinger.exe
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\networkPinger\networkPinger\bin\Debug\net10.0\networkPinger.deps.json
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\networkPinger\networkPinger\bin\Debug\net10.0\networkPinger.runtimeconfig.json
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\networkPinger\networkPinger\bin\Debug\net10.0\networkPinger.dll
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\networkPinger\networkPinger\bin\Debug\net10.0\networkPinger.pdb
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\networkPinger\networkPinger\obj\Debug\net10.0\networkPinger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\networkPinger\networkPinger\obj\Debug\net10.0\networkPinger.AssemblyInfoInputs.cache
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\networkPinger\networkPinger\obj\Debug\net10.0\networkPinger.AssemblyInfo.cs
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\networkPinger\networkPinger\obj\Debug\net10.0\networkPinger.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\networkPinger\networkPinger\obj\Debug\net10.0\networkPinger.sourcelink.json
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\networkPinger\networkPinger\obj\Debug\net10.0\networkPinger.dll
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\networkPinger\networkPinger\obj\Debug\net10.0\refint\networkPinger.dll
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\networkPinger\networkPinger\obj\Debug\net10.0\networkPinger.pdb
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\networkPinger\networkPinger\obj\Debug\net10.0\networkPinger.genruntimeconfig.cache
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\networkPinger\networkPinger\obj\Debug\net10.0\ref\networkPinger.dll
