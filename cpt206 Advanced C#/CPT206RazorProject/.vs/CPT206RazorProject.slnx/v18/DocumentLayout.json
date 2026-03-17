@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shawn\\Documents\\sccCPT\\cpt206 Advanced C#\\CPT206RazorProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E455CE-A261-4B18-9687-5F6A9134AFE6}|CPT206RazorProject\\CPT206RazorProject.csproj|c:\\users\\shawn\\documents\\scccpt\\cpt206 advanced c#\\cpt206razorproject\\cpt206razorproject\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9E455CE-A261-4B18-9687-5F6A9134AFE6}|CPT206RazorProject\\CPT206RazorProject.csproj|solutionrelative:cpt206razorproject\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E455CE-A261-4B18-9687-5F6A9134AFE6}|CPT206RazorProject\\CPT206RazorProject.csproj|c:\\users\\shawn\\documents\\scccpt\\cpt206 advanced c#\\cpt206razorproject\\cpt206razorproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E455CE-A261-4B18-9687-5F6A9134AFE6}|CPT206RazorProject\\CPT206RazorProject.csproj|solutionrelative:cpt206razorproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E455CE-A261-4B18-9687-5F6A9134AFE6}|CPT206RazorProject\\CPT206RazorProject.csproj|c:\\users\\shawn\\documents\\scccpt\\cpt206 advanced c#\\cpt206razorproject\\cpt206razorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E455CE-A261-4B18-9687-5F6A9134AFE6}|CPT206RazorProject\\CPT206RazorProject.csproj|solutionrelative:cpt206razorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sccCPT\\cpt206 Advanced C#\\CPT206RazorProject\\CPT206RazorProject\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "CPT206RazorProject\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Shawn\\Documents\\sccCPT\\cpt206 Advanced C#\\CPT206RazorProject\\CPT206RazorProject\\wwwroot\\index.html",
+              "RelativeToolTip": "CPT206RazorProject\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-16T15:15:46.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sccCPT\\cpt206 Advanced C#\\CPT206RazorProject\\CPT206RazorProject\\Startup.cs",
+              "RelativeDocumentMoniker": "CPT206RazorProject\\Startup.cs",
+              "ToolTip": "C:\\Users\\Shawn\\Documents\\sccCPT\\cpt206 Advanced C#\\CPT206RazorProject\\CPT206RazorProject\\Startup.cs",
+              "RelativeToolTip": "CPT206RazorProject\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:12:33.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sccCPT\\cpt206 Advanced C#\\CPT206RazorProject\\CPT206RazorProject\\Program.cs",
+              "RelativeDocumentMoniker": "CPT206RazorProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Shawn\\Documents\\sccCPT\\cpt206 Advanced C#\\CPT206RazorProject\\CPT206RazorProject\\Program.cs",
+              "RelativeToolTip": "CPT206RazorProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:12:17.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

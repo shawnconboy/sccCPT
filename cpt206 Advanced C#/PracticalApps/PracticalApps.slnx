@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Northwind.Common.DataContext.SqlServer/Northwind.Common.DataContext.SqlServer.csproj" />
+  <Project Path="Northwind.Common.EntityModels.SqlServer/Northwind.Common.EntityModels.SqlServer.csproj" />
+  <Project Path="Northwind.Web/Northwind.Web.csproj" Id="5cc5d512-d567-47dd-a294-2cbcded92839" />
+</Solution>

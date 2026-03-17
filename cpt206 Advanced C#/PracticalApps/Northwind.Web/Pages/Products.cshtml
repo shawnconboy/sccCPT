@@ -1,0 +1,47 @@
+﻿@page
+@model Northwind.Web.Pages.ProductsModel
+
+<h2>Products</h2>
+
+<form method="get">
+    <div class="filters">
+        <div class="filter-group">
+            <label for="searchText">Search product name</label>
+            <input type="text" id="searchText" name="searchText" value="@Model.SearchText" />
+        </div>
+
+        <div class="filter-group">
+            <label for="maxPrice">Max price</label>
+            <input type="number" step="0.01" id="maxPrice" name="maxPrice" value="@Model.MaxPrice" />
+        </div>
+
+        <div class="filter-actions">
+            <button type="submit">Filter</button>
+            <a href="/Products">Clear</a>
+        </div>
+    </div>
+</form>
+
+<p>Total shown: @Model.Products.Count()</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Product</th>
+            <th>Price</th>
+            <th>Stock</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model.Products)
+        {
+            <tr>
+                <td>@product.ProductId</td>
+                <td>@product.ProductName</td>
+                <td>@product.UnitPrice</td>
+                <td>@product.UnitsInStock</td>
+            </tr>
+        }
+    </tbody>
+</table>

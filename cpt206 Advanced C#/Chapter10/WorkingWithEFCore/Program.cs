@@ -10,7 +10,7 @@ namespace WorkingWithEFCore
         {
             using NorthwindContext db = new();
 
-            // 1. Read all categories
+            // Read all categories
             var categories = db.Categories.ToList();
 
             Console.WriteLine("All Categories:\n");
@@ -20,7 +20,7 @@ namespace WorkingWithEFCore
                 Console.WriteLine($"{category.CategoryId} : {category.CategoryName}");
             }
 
-            // 2. Filter categories
+            // Filter categories
             var seafood = db.Categories
                 .Where(c => c.CategoryName.Contains("Sea"))
                 .ToList();
@@ -32,7 +32,7 @@ namespace WorkingWithEFCore
                 Console.WriteLine($"{category.CategoryId} : {category.CategoryName}");
             }
 
-            // 3. Order categories alphabetically
+            // Order categories alphabetically
             var ordered = db.Categories
                 .OrderBy(c => c.CategoryName)
                 .ToList();
@@ -44,7 +44,7 @@ namespace WorkingWithEFCore
                 Console.WriteLine($"{category.CategoryId} : {category.CategoryName}");
             }
 
-            // 4. Query related data with Include
+            // Query related data with Include
             var products = db.Products
                 .Include(p => p.Category)
                 .Take(10)
@@ -57,7 +57,7 @@ namespace WorkingWithEFCore
                 Console.WriteLine($"{product.ProductName} - {product.Category?.CategoryName}");
             }
 
-            // 5. Projection with Select
+            // Projection with Select
             var productList = db.Products
                 .Select(p => new
                 {
@@ -75,7 +75,7 @@ namespace WorkingWithEFCore
                 Console.WriteLine($"{item.ProductName} - {item.Category} - {item.UnitPrice:C}");
             }
 
-            // 6. Insert only if Sports Gear does not already exist
+            // Insert only if Sports Gear does not already exist
             var existingCategory = db.Categories
                 .FirstOrDefault(c => c.CategoryName == "Sports Gear");
 
@@ -97,7 +97,7 @@ namespace WorkingWithEFCore
                 Console.WriteLine("\nSports Gear already exists.");
             }
 
-            // 7. Update Sports Gear if it exists
+            // Update Sports Gear if it exists
             var categoryToUpdate = db.Categories
                 .FirstOrDefault(c => c.CategoryName == "Sports Gear");
 

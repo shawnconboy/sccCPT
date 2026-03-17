@@ -1,0 +1,4 @@
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\PracticalApps\Northwind.Web\wwwroot\styles.css
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\PracticalApps\Northwind.Web\wwwroot\index.html
+wwwroot\index.html
+wwwroot\styles.css

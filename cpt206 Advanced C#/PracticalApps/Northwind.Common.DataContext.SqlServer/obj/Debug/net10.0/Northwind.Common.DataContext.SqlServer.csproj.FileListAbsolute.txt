@@ -1,0 +1,16 @@
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\PracticalApps\Northwind.Common.DataContext.SqlServer\bin\Debug\net10.0\Northwind.Common.DataContext.SqlServer.deps.json
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\PracticalApps\Northwind.Common.DataContext.SqlServer\bin\Debug\net10.0\Northwind.Common.DataContext.SqlServer.dll
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\PracticalApps\Northwind.Common.DataContext.SqlServer\bin\Debug\net10.0\Northwind.Common.DataContext.SqlServer.pdb
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\PracticalApps\Northwind.Common.DataContext.SqlServer\bin\Debug\net10.0\Northwind.Common.EntityModels.SqlServer.dll
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\PracticalApps\Northwind.Common.DataContext.SqlServer\bin\Debug\net10.0\Northwind.Common.EntityModels.SqlServer.pdb
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net10.0\Northwind.Common.DataContext.SqlServer.csproj.AssemblyReference.cache
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net10.0\Northwind.Common.DataContext.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net10.0\Northwind.Common.DataContext.SqlServer.AssemblyInfoInputs.cache
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net10.0\Northwind.Common.DataContext.SqlServer.AssemblyInfo.cs
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net10.0\Northwind.Common.DataContext.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net10.0\Northwind.Common.DataContext.SqlServer.sourcelink.json
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net10.0\Northwin.540084DC.Up2Date
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net10.0\Northwind.Common.DataContext.SqlServer.dll
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net10.0\refint\Northwind.Common.DataContext.SqlServer.dll
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net10.0\Northwind.Common.DataContext.SqlServer.pdb
+C:\Users\Shawn\Documents\sccCPT\cpt206 Advanced C#\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net10.0\ref\Northwind.Common.DataContext.SqlServer.dll
