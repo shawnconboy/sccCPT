@@ -1,5 +1,7 @@
 package sConboyLab6;
 
+import javax.swing.JOptionPane;
+
 public class CryptoAccount extends BankAccount 
 {
 	
@@ -7,6 +9,8 @@ public class CryptoAccount extends BankAccount
 	
 		private double CryptoBalance;
 		private String CryptoType;
+		
+		JOptionPane input = new JOptionPane();
 		
 		
 	// constructors __________________________________________________________
@@ -58,7 +62,8 @@ public class CryptoAccount extends BankAccount
 		
 		public void AccountInfo()
 		{
-			System.out.println("\nAccount Number : " + this.getAcctNum() +
+			
+			input.showMessageDialog(null, "\nAccount Number : " + this.getAcctNum() +
 							   "\nAccount Holder : " + this.getName()+
 							   "\nAccount Type : Crypto" +
 							   "\nBalance : " + this.getBalance() +

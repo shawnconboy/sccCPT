@@ -1,11 +1,14 @@
 package sConboyLab6;
 
+import javax.swing.JOptionPane;
+
 public class CheckingAccount extends BankAccount 
 {
 	
 	// properties __________________________________________________________
 	
 		private double OverdraftLimit;
+		JOptionPane input = new JOptionPane();
 		
 		
 	// constructors __________________________________________________________
@@ -44,7 +47,8 @@ public class CheckingAccount extends BankAccount
 		
 		public void AccountInfo()
 		{
-			System.out.println("\nAccount Number : " + this.getAcctNum() +
+			
+			input.showMessageDialog(null, "\nAccount Number : " + this.getAcctNum() +
 							   "\nAccount Holder : " + this.getName()+
 							   "\nAccount Type : Checking" +
 							   "\nBalance : " + this.getBalance() +

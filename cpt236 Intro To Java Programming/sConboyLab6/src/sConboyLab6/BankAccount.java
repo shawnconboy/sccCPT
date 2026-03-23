@@ -1,5 +1,7 @@
 package sConboyLab6;
 
+import javax.swing.JOptionPane;
+
 public class BankAccount 
 {
 	
@@ -11,6 +13,8 @@ public class BankAccount
 	private String Email;
 	private String PhoneNumber;
 	private double Balance;
+	
+	JOptionPane input = new JOptionPane();
 	
 	
 // constructors __________________________________________________________
@@ -100,7 +104,7 @@ public class BankAccount
 		
 		if (depositAmount < 1)
 		{
-			System.out.println("Sorry. You need to deposit at least 1 buck.");
+			input.showMessageDialog(null, "Sorry, you need to deposit at least $1.");
 		}
 		else 
 		{
@@ -114,7 +118,7 @@ public class BankAccount
 		
 		if (withdrawlAmount > balance)
 		{
-			System.out.println("\nSorry. Your withdrawl amount is greater than your balance.");
+			input.showMessageDialog(null, "Sorry. Your withdraw amount is greater than your balance.");
 		}
 		else 
 		{
@@ -123,10 +127,11 @@ public class BankAccount
 	}
 	
 	public void AccountInfo()
-	{
-		System.out.println("\nAccount Number : " + AccountNumber +
-						   "\nAccount Holder : " + Name +
-						   "\nAccount Type : User" +
-						   "\nBalance : " + Balance);
+	{	
+		
+		input.showMessageDialog(null, "\nAccount Number : " + AccountNumber +
+				   "\nAccount Holder : " + Name +
+				   "\nAccount Type : User" +
+				   "\nBalance : " + Balance);
 	}
 }

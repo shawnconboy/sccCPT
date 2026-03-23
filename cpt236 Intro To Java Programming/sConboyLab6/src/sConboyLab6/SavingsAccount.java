@@ -1,11 +1,15 @@
 package sConboyLab6;
 
+import javax.swing.JOptionPane;
+
 public class SavingsAccount extends BankAccount 
 {
 	
 	// properties __________________________________________________________
 	
 		private double InterestRate;
+		
+		JOptionPane input = new JOptionPane();
 		
 		
 	// constructors __________________________________________________________
@@ -44,11 +48,12 @@ public class SavingsAccount extends BankAccount
 		
 		public void AccountInfo()
 		{
-			System.out.println("\nAccount Number : " + this.getAcctNum() +
-							   "\nAccount Holder : " + this.getName()+
-							   "\nAccount Type : Savings" +
-							   "\nBalance : " + this.getBalance() +
-							   "\nInterest Rate : " + InterestRate);
+			
+			input.showMessageDialog(null, "\nAccount Number : " + this.getAcctNum() +
+					   "\nAccount Holder : " + this.getName()+
+					   "\nAccount Type : Savings" +
+					   "\nBalance : " + this.getBalance() +
+					   "\nInterest Rate : " + InterestRate );
 		}
 
 }
