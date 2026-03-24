@@ -32,6 +32,8 @@ public class JFrame1App {
 		// adds greeting to the frame
 		aFrame.add(greeting);
 		
+		MyJFrame run = new MyJFrame();
+		
 	}
 
 }
