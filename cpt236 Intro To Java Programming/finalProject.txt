@@ -1,0 +1,30 @@
+Lawn Co Manager
+
+Data Needed
+	
+	Companies
+		Services
+			serviceID
+			name
+			price
+			description
+			timeRequired
+			
+		Employees
+			employeeID
+			name
+			number
+			
+		Customers
+			customerID
+			name
+			number
+			address
+			balance
+			
+		Jobs
+			employeeID
+			customerID
+			serviceID
+			startTime
+			endTime

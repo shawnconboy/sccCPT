@@ -14,9 +14,7 @@ public class BankFrame extends JFrame implements ActionListener
     // one active account at a time
     private BankAccount currentAccount;
 
-    // =========================
-    // BASE FORM FIELDS
-    // =========================
+    // top sectionononon
     JLabel headerLabel = new JLabel("Bank App");
     JLabel accountInfoLabel = new JLabel("Enter user information");
 
@@ -41,9 +39,7 @@ public class BankFrame extends JFrame implements ActionListener
 
     JButton createButton = new JButton("Create");
 
-    // =========================
-    // DYNAMIC EXTRA FIELDS PANEL
-    // =========================
+    // account type additions
     JPanel extraFieldsPanel = new JPanel(new GridLayout(0, 2, 10, 10));
 
     // Checking
@@ -68,9 +64,7 @@ public class BankFrame extends JFrame implements ActionListener
     JLabel riskLevelLabel = new JLabel("Risk Level");
     JTextField riskLevelTextbox = new JTextField(25);
 
-    // =========================
-    // ACTIVE ACCOUNT PANEL
-    // =========================
+   // active panel declarations
     JPanel accountPanel = new JPanel();
 
     JLabel activeTypeLabel = new JLabel("Type: ");
@@ -95,9 +89,7 @@ public class BankFrame extends JFrame implements ActionListener
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout(10, 10));
 
-        // =========================
-        // TOP FORM PANEL
-        // =========================
+        // add user data here
         JPanel formPanel = new JPanel();
         formPanel.setLayout(new BoxLayout(formPanel, BoxLayout.Y_AXIS));
         formPanel.setBorder(new EmptyBorder(15, 15, 15, 15));
@@ -137,7 +129,7 @@ public class BankFrame extends JFrame implements ActionListener
         JPanel buttonPanel = new JPanel(new FlowLayout(FlowLayout.CENTER));
         buttonPanel.add(createButton);
 
-        // alignment
+        // alignment stuff
         headerPanel.setAlignmentX(LEFT_ALIGNMENT);
         infoPanel.setAlignmentX(LEFT_ALIGNMENT);
         accountNumberPanel.setAlignmentX(LEFT_ALIGNMENT);
@@ -149,7 +141,7 @@ public class BankFrame extends JFrame implements ActionListener
         extraFieldsPanel.setAlignmentX(LEFT_ALIGNMENT);
         buttonPanel.setAlignmentX(LEFT_ALIGNMENT);
 
-        // keep normal rows from stretching oddly
+        // keep normal rows from doing dumb expansions
         headerPanel.setMaximumSize(headerPanel.getPreferredSize());
         infoPanel.setMaximumSize(infoPanel.getPreferredSize());
         accountNumberPanel.setMaximumSize(accountNumberPanel.getPreferredSize());
@@ -160,6 +152,7 @@ public class BankFrame extends JFrame implements ActionListener
         accountTypePanel.setMaximumSize(accountTypePanel.getPreferredSize());
         buttonPanel.setMaximumSize(buttonPanel.getPreferredSize());
 
+        // add all the user input section stuff
         formPanel.add(headerPanel);
         formPanel.add(Box.createVerticalStrut(5));
         formPanel.add(infoPanel);
@@ -180,9 +173,7 @@ public class BankFrame extends JFrame implements ActionListener
         formPanel.add(Box.createVerticalStrut(10));
         formPanel.add(buttonPanel);
 
-        // =========================
-        // ACTIVE ACCOUNT PANEL
-        // =========================
+        // account panel stuff
         accountPanel.setLayout(new GridLayout(0, 2, 10, 10));
         accountPanel.setBorder(BorderFactory.createTitledBorder("Active Account"));
         accountPanel.setVisible(false);
@@ -218,7 +209,7 @@ public class BankFrame extends JFrame implements ActionListener
         depositButton.addActionListener(this);
         withdrawButton.addActionListener(this);
 
-        // initial dropdown-specific fields
+        // add them thangs in
         updateExtraFieldsPanel();
 
         add(formPanel, BorderLayout.NORTH);
@@ -228,6 +219,8 @@ public class BankFrame extends JFrame implements ActionListener
         pack();
         setVisible(true);
     }
+    
+    // actual methods _________________________________________________________
 
     @Override
     public void actionPerformed(ActionEvent e)

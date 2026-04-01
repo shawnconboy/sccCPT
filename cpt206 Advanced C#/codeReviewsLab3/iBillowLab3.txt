@@ -1,0 +1,34 @@
+Code Review
+
+By Shawn Conboy
+
+First Impressions
+This project looked different from the others. As I pressed the buttons, it began to
+function more like I had expected. I like it. The text on certain forms was
+a bit smaller than I would have liked. But I liked it overall.
+	
+Is the code generally readable and well documented?
+Some variable names didn't make total sense to me initially. I needed to go to their
+definitions to understand them more clearly. Specifically cboStates.
+After seeing it was a "combo box" that made things a lot more clear.
+
+Code is broken down by form. Comments are clear and straightforward. I respect it.
+
+	
+
+Did you find any software defects?
+No true defects. The filter / sort / select section can use some tweaking, in my opinion. 
+Will go into more detail in the last section of this review.
+	
+
+What was one way that your solution differed from yours?
+Your project overall flowed differently than mine from a user perspective. They
+both run and do the same thing. Your flow was just different in the way a user needs
+to get to certain parts of the project.
+	
+
+Do you have any other constructive comments for the author?
+Constructive criticism. The filtering / sorting / searching I feel can be smoother.
+The biggest criticism being the fact that only one section works at a time. If 
+you can get all the filters to work with each other, that'd be pretty smooth.
+	

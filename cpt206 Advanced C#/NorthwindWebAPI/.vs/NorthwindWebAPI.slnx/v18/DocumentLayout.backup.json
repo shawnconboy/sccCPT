@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shawn\\Documents\\sccCPT\\cpt206 Advanced C#\\NorthwindWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECBA293-FBD5-4022-A47B-54B36FF2009E}|NorthwindWebAPI\\NorthwindWebAPI.csproj|c:\\users\\shawn\\documents\\scccpt\\cpt206 advanced c#\\northwindwebapi\\northwindwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECBA293-FBD5-4022-A47B-54B36FF2009E}|NorthwindWebAPI\\NorthwindWebAPI.csproj|solutionrelative:northwindwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECBA293-FBD5-4022-A47B-54B36FF2009E}|NorthwindWebAPI\\NorthwindWebAPI.csproj|c:\\users\\shawn\\documents\\scccpt\\cpt206 advanced c#\\northwindwebapi\\northwindwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2ECBA293-FBD5-4022-A47B-54B36FF2009E}|NorthwindWebAPI\\NorthwindWebAPI.csproj|solutionrelative:northwindwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECBA293-FBD5-4022-A47B-54B36FF2009E}|NorthwindWebAPI\\NorthwindWebAPI.csproj|c:\\users\\shawn\\documents\\scccpt\\cpt206 advanced c#\\northwindwebapi\\northwindwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECBA293-FBD5-4022-A47B-54B36FF2009E}|NorthwindWebAPI\\NorthwindWebAPI.csproj|solutionrelative:northwindwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECBA293-FBD5-4022-A47B-54B36FF2009E}|NorthwindWebAPI\\NorthwindWebAPI.csproj|c:\\users\\shawn\\documents\\scccpt\\cpt206 advanced c#\\northwindwebapi\\northwindwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECBA293-FBD5-4022-A47B-54B36FF2009E}|NorthwindWebAPI\\NorthwindWebAPI.csproj|solutionrelative:northwindwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sccCPT\\cpt206 Advanced C#\\NorthwindWebAPI\\NorthwindWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NorthwindWebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Shawn\\Documents\\sccCPT\\cpt206 Advanced C#\\NorthwindWebAPI\\NorthwindWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NorthwindWebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T15:50:20.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sccCPT\\cpt206 Advanced C#\\NorthwindWebAPI\\NorthwindWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "NorthwindWebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Shawn\\Documents\\sccCPT\\cpt206 Advanced C#\\NorthwindWebAPI\\NorthwindWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "NorthwindWebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T15:44:52.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sccCPT\\cpt206 Advanced C#\\NorthwindWebAPI\\NorthwindWebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "NorthwindWebAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Shawn\\Documents\\sccCPT\\cpt206 Advanced C#\\NorthwindWebAPI\\NorthwindWebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "NorthwindWebAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T15:44:50.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sccCPT\\cpt206 Advanced C#\\NorthwindWebAPI\\NorthwindWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "NorthwindWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Shawn\\Documents\\sccCPT\\cpt206 Advanced C#\\NorthwindWebAPI\\NorthwindWebAPI\\Program.cs",
+              "RelativeToolTip": "NorthwindWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T15:44:49.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

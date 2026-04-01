@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../PracticalApps/Northwind.Common.DataContext.SqlServer/Northwind.Common.DataContext.SqlServer.csproj" />
+  <Project Path="NorthwindWebAPI/NorthwindWebAPI.csproj" />
+</Solution>

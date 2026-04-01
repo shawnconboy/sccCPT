@@ -1,0 +1,35 @@
+Code Review
+
+By Shawn Conboy
+
+First Impressions
+Everything opened and ran as expected. I didn't understand too well of what the min pop box does.
+Layout is decent. And state's page button worked well. 
+
+	
+Is the code generally readable and well documented?
+I'm not going to lie. It's been so long since we worked with forms. 
+I forgot where to look for your code at for a sec.
+
+Code documentation is well. There are comments explaining everything clearly.
+I do think the code can be cleaned up some(eliminating a lot of the empty space between brackets.)
+
+	
+
+Did you find any software defects?
+No defects were found. Program ran flawlessly.
+	
+	
+
+
+What was one way that your solution differed from yours?
+It's been a while since we've worked on this project compared to when i'm reviewing this.
+For sure, our data loads at different times. And my search functions run based on the keystroke
+as opposed to the click of a button.
+
+	
+
+Do you have any other constructive comments for the author?
+This project was early. I think now, we may be more comfortable modularizing code.
+I feel that would be my only recommendation if you were to revisit this project or
+something similar.

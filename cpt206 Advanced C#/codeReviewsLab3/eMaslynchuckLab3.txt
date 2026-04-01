@@ -1,0 +1,32 @@
+Code Review
+
+By Shawn Conboy
+
+First Impressions
+This app runs well and runs smooth. I love it.
+
+	
+Is the code generally readable and well documented?
+Code is extremely well documented. Every section and method has very clear
+guidance for what it is / does. Code is also modularized. That makes it a whole lot
+more readable.
+
+	
+
+Did you find any software defects?
+No software defects were found. Everything ran as expected.
+	
+	
+
+
+What was one way that your solution differed from yours?
+My search(filtering) methods were done based on the keydown. Your's functions
+based off a button being clicked. And you have an intro screen prior to your app
+opening to the actual db stuff. I like that. I like the confirmation of data being
+uploaded as well.
+	
+
+Do you have any other constructive comments for the author?
+Try out the filtering based on the keystroke. I feel that runs smoother.
+I really don't have much criticism. This worked well.
+	

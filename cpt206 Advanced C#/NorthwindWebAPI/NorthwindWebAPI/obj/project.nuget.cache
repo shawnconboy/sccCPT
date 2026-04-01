@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q2LJDr2vRNA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shawn\\Documents\\sccCPT\\cpt206 Advanced C#\\NorthwindWebAPI\\NorthwindWebAPI\\NorthwindWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shawn\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\Shawn\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,27 @@
+Code Review
+
+By Shawn Conboy
+
+First Impressions
+App window is very small. Everything runs as expected. No sorting / filtering / searching.
+	
+Is the code generally readable and well documented?
+There are a few empty functions. And Naming of the forms can be more descriptive.
+
+	
+
+Did you find any software defects?
+No defects. Things worked as they should have.
+	
+	
+
+
+What was one way that your solution differed from yours?
+Our projects differ with our database displays. Your project allows selection
+of a state and shows the details of that page. I include the whole database 
+as well as filter / search / and sort functions.
+
+	
+
+Do you have any other constructive comments for the author?
+No comments.
