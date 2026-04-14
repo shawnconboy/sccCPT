@@ -1,0 +1,27 @@
+Code Review
+
+By Shawn Conboy
+
+First Impressions
+This project wasn't running for me initially. I needed to change the startup project. No biggie.
+I like this project a lot. I created an account. Tab order skipped the email portion.
+After account creation, the app ran smooth. All views worked well and displayed everything as it should.
+	
+Is the code generally readable and well documented?
+There are a lot of different forms. Code is modular and easy to see what does what.
+	
+
+Did you find any software defects?
+No software defects. There are a lot of pop ups that show when some data was entered
+incorrectly. 
+	
+
+
+What was one way that your solution differed from yours?
+My project was designed as a single page application. Yours is form based. That's the
+big difference. Everything else is similar.
+
+	
+
+Do you have any other constructive comments for the author?
+There are more pop up messages than I would like to see. 

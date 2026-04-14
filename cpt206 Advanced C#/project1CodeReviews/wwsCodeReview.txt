@@ -1,0 +1,29 @@
+Code Review
+
+By Shawn Conboy
+
+First Impressions
+This project did not run for me. I looked into the connection strings and see that you
+guys have it assigned to a localDb using SSMS as well as the access file in the directory.
+	
+Is the code generally readable and well documented?
+The code has many forms with detailed names, as well as classes to represent data models.
+Classes are done well with multiple constructors and methods.
+
+	
+
+Did you find any software defects?
+I did not test for defects. I couldn't get the application to run.
+	
+	
+
+
+What was one way that your solution differed from yours?
+Similar to another review i've given, the project that i worked on was a single page app.
+Yours deals with a multi form design. 
+You also have a section to chose your favorite team after account creation. 
+My project deals with that soley upon account creation.
+	
+
+Do you have any other constructive comments for the author?
+Solid project. I like it. I like the dynamicism with the changing of the teams shown.
