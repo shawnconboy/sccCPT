@@ -1,0 +1,4 @@
+1#Lawn Mowing#40.0#Basic lawn mowing service#60
+2#Hedge Trimming#30.0#Trim and clean up hedges#45
+3#Leaf Cleanup#35.0#Leaf blowing and cleanup#50
+4#Weed Eating#25.0#Weed eating around edges and fences#30
