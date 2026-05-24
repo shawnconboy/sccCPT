@@ -1,0 +1,17 @@
+Shawn Conboy
+CPT 275 A10H
+
+Week 1 Assignment
+
+Team roles are vague and still to be determined.
+
+Team's initial project goals are to combine features from both projects into one so there's one solely unified project to work from. Addition of features like barcodes and inventory crud, and order pickup system, and SSO are to be implemented as well.
+
+Planning process
+Team leader states that project meetings will occur every monday, early afternoon. I suggested the use of a trello board for management of tasks.
+
+Technologies to be used consist of visual studio. I'd imagine we'd stick with the usual suspects that were introduced in the C# adv. class for the workflow. Team leader said something about Microsoft Entra ID. Unsure what that is currently.  Scanners and label makers as well.
+
+Group is responsible for the development of the system that will be used. Leader stated night class will be responsible for networking, and we're responsible for production, how to guide, and presentation.
+
+Project management and communication will exist through a teams chat, possible discord option is on the table. Google docs will be used as a collaborative space to record work done by individuals.
