@@ -1,0 +1,11 @@
+Shawn Conboy
+CPT 275 A10H
+Week 3 - Early Development Progress
+
+Discuss the features, infrastructure, or components your team began developing this week
+
+Uh.... I haven't done much aside from the single sign on setup a few days ago. Nicholas has been dialing in on the scanner features and the blob system to store images smoothly. Trevor. He's been diving into some of the inventory system as well. Jake. Man, what a legend. Jake has been building an order history system to log and keep a history of past orders. Pretty smoooooth.
+
+Infrastructure, I'd say is still similar to what we started with, not much has changed. Just smoother polishing.
+
+I'm not sure how long these assignments are supposed to be and what they should be entailing entirely. So i think i'll wrap this up here.

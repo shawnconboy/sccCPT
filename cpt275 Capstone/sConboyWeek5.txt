@@ -1,0 +1,40 @@
+Shawn Conboy
+CPT 275 A10H
+Week 5 Midpoint Reflection
+
+Current state of the project.
+
+Project is still in production. Polishing seems to be the main thing now.
+Polishing the flow for the smoothest user experience and tightening the remainder of the little quirks and
+additions still left to be added.
+
+Team accomplishments.
+
+This project was far from finished at the beginning of the semester. There was a solid foundation built
+in terms of UI and mapping, but no true connectivity between pages and features.
+
+I strongly believe Mrs. Littlejohn can work efficiently with what we have now.
+
+Areas for improvement
+
+I think the biggest hurdle in terms of building was not having a solid blueprint. Everything we've done was
+for the most part, pulled together with what we thought the site should have and be.
+As the project progresses, the more clearly defined end goal becomes a bit clearer.
+
+My role and contributions
+
+I feel like I'm very focused on the user experience and GUI side of things. 
+
+I like projects that i'm a part of to have a "complete" feel. 
+
+I dislike when a user tries something and can instantly feel "that can be better if xyz.". 
+
+I didn't focus on one specific thing. 
+
+I think Ray Ray designed the initial shop. 
+I took her initial build and made it complete with a cart and fluid checkout experience. 
+
+I designed the foundational layout in the C# 206 class. The admin dash was hardcoded, as well as the student approval / detail section.
+Today, I updated the student application and approval flow so that users not authorized to see the shop 
+couldn't see anything until applications were approved. I built the application review screen and the student detail / transaction screen
+to go with it.

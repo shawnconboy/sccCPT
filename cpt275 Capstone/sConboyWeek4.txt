@@ -1,0 +1,22 @@
+Shawn Conboy
+CPT 275 A10H
+Week 4 Testing and Problem Solving
+
+Describe any testing procedures performed this week and explain how bugs, configuration issues, or deployment problems were addressed.
+
+This week there was a lot more dialing in on sign on and testing done for specific roles to ensure that they're seeing the screens they should be authorized to see. 
+
+I built polished the UI for the student shop and created a shopping cart that works as the user adds and removes items.
+
+That took a lot of testing to get placement right and just smooth quality of life with the flow.
+
+Bugs. 
+
+We're seeing a mismatch in data sources for certain parts of the inventory. Specifically where some people are referencing and pulling from sub categories as opposed to higher level categories. It just throws off what you're looking at when you expect to see something else.
+
+ Reflect on how your team communicated and collaborated while resolving technical challenges.
+ 
+ Teams. That's our main source for communication. We have our weekly Monday meetings to discuss what's going well and what needs to be worked on, as well as future ideas.
+ 
+Deployment, is not a current thing for us. We expect that's what the night class is working on. 
+ 

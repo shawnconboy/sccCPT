@@ -1,0 +1,22 @@
+Capstone Project Meeting Recap
+
+Create google doc to collaborate with other members
+	Used to recap project contributions
+	
+Create new repository
+	Heinrich's created a new one under his github acct.
+	https://github.com/HeinGott/CapstonePantryApp
+	
+Trello to be used for project task management
+	https://trello.com/b/Uv6CbBZx/capstone-pantry-project
+	Tasks have been added
+	
+Single Sign On
+	Donor? Own login and separate dash?
+	
+Donations
+	Self logged donations by admin
+	Donor electronic submissions
+	
+Project Merges?
+	

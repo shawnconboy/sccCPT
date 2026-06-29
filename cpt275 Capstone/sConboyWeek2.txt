@@ -1,0 +1,17 @@
+Shawn Conboy
+CPT 275 A10H
+Week 2 Assignment
+
+Updates on 
+	Development environment
+		We're using Visual Studio and SSMS for our project.
+	Server environment
+		Server...? We're running local servers every time we build the application. Nothing more currently.
+	Repositories
+		Repository* Just one. Someone has been tasked with taking the barcode scanner features of the other group's project. There is one official repository though.
+	Project structure
+		The app uses an MVC template with EF migrations for database construction.
+	Early development progress
+		That was taken care of in the advanced c# class in the prior semester.
+	Team responsibilities coordination
+		We used a trello board to discuss tasks. Those were then decided on complexity level and assigned to team members who seemed capable.

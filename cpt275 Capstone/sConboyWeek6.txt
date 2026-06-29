@@ -1,0 +1,14 @@
+Shawn Conboy
+CPT 275 A10H
+Week 6 Deployment and Integration Progress
+
+Explain the progress made toward integrating application components and deploying updates to the server environment.
+
+This project was split into two teams, one being development and the latter being deployment. 
+
+We're working with you as our mediator, more or less. So honestly, aside from having you in the middle and handing off
+our development updates, I'm very unsure how the progress is on that side.
+
+ Discuss any issues related to compatibility, databases, authentication, APIs, or deployment workflows.
+ 
+ Once again... This isn't an area we've worked with to know just yet.
